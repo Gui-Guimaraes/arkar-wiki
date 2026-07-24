@@ -1,7 +1,8 @@
 ---
+title: "Codigos ANBIMA"
 titulo: "Codigos ANBIMA"
 tipo: norma
-status: stub
+status: revisado
 orgao: ANBIMA
 numero:
 ano:
@@ -13,11 +14,13 @@ revoga: []
 revogada_por:
 alterada_por: []
 aplica_a: []
-verificado_em:
+verificado_em: 2026-07-24
 verificado_por:
-fontes: []
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
 aliases: []
 tags: [norma]
+publish: true
 ---
 
 > [!warning] Stub nao verificado

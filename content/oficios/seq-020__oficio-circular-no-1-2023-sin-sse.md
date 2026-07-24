@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2023/SIN/SSE — 1.7 Website e sistemas da CVM"
 id: cvm175-seq-0020
 sequencia: 20
 item_planilha: "20.1"
@@ -19,7 +20,11 @@ palavras_chave:
   - "Fundos fechados"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2023/SIN/SSE — 1.7 Website e sistemas da CVM

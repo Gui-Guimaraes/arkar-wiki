@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular Conjunto nº 02/2023/SIN/SSE — 1.3 Ausência de previsão da taxa máxima de distribuição para fundos sem esforço de venda"
 id: cvm175-seq-0138
 sequencia: 138
 item_planilha: "138.1"
@@ -17,7 +18,11 @@ palavras_chave:
   - "Taxa máxima de distribuição"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular Conjunto nº 02/2023/SIN/SSE — 1.3 Ausência de previsão da taxa máxima de distribuição para fundos sem esforço de venda 

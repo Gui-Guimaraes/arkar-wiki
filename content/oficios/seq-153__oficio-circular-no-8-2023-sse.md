@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 8/2023/SSE — I - DIREITOS CREDITÓRIOS PASSÍVEIS DE REGISTRO"
 id: cvm175-seq-0153
 sequencia: 153
 item_planilha: "153.1"
@@ -22,7 +23,11 @@ vinculos:
     no_base: true
     raw: "Item VIII > Pontos 32 a 35 Ofício-Circular nº 6/2024/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 8/2023/SSE — I - DIREITOS CREDITÓRIOS PASSÍVEIS DE REGISTRO

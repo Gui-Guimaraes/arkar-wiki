@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2025/SIN/SNC/SSE — Item 21"
 id: cvm175-seq-0250
 sequencia: 250
 item_planilha: "250.1"
@@ -29,7 +30,11 @@ vinculos:
     no_base: false
     raw: "Perguntas 15, 26 e 16 do Ofício Circular CVM/SIN/SSE 01/23"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2025/SIN/SNC/SSE — Item 21

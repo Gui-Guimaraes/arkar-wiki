@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 5/2024/SIN — 5. ETF que replica índice cuja carteira é composta por contratos futuros"
 id: cvm175-seq-0204
 sequencia: 204
 item_planilha: "204.1"
@@ -18,7 +19,11 @@ palavras_chave:
   - "Derivativos"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 5/2024/SIN — 5. ETF que replica índice cuja carteira é composta por contratos futuros

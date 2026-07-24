@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular Conjunto nº 2/2024/SIN/SSE — II. Organização em Subclasses – Fundos dos Anexos I, IV e V."
 id: cvm175-seq-0226
 sequencia: 226
 item_planilha: "226.1"
@@ -19,7 +20,11 @@ palavras_chave:
   - "Conteúdo de regulamento"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular Conjunto nº 2/2024/SIN/SSE — II. Organização em Subclasses – Fundos dos Anexos I, IV e V. 

@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2025/SIN/SNC/SSE — Item 9"
 id: cvm175-seq-0241
 sequencia: 241
 item_planilha: "241.1"
@@ -36,7 +37,11 @@ vinculos:
     no_base: true
     raw: "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2025/SIN/SNC/SSE — Item 9

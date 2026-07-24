@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2023/SIN/SSE — 1.6 Informes periódicos"
 id: cvm175-seq-0017
 sequencia: 17
 item_planilha: "17.1"
@@ -24,7 +25,11 @@ vinculos:
     no_base: true
     raw: "Item 1.22 Ofício-Circular nº 1/2023/SIN/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2023/SIN/SSE — 1.6 Informes periódicos 

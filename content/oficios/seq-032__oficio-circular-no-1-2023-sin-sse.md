@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2023/SIN/SSE — 1.8 Remuneração/ Rebate/ Encargos/ Demonstrações contábeis"
 id: cvm175-seq-0032
 sequencia: 32
 item_planilha: "32.1"
@@ -17,7 +18,11 @@ palavras_chave:
   - "Rearranjo de taxas"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2023/SIN/SSE — 1.8 Remuneração/ Rebate/ Encargos/ Demonstrações contábeis

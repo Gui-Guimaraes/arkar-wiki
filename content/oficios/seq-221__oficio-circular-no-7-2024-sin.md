@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 7/2024/SIN — 2. Adaptação dos arranjos de remuneração em fundos de estoque"
 id: cvm175-seq-0221
 sequencia: 221
 item_planilha: "221.1"
@@ -20,7 +21,11 @@ palavras_chave:
   - "Período de transição"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 7/2024/SIN — 2. Adaptação dos arranjos de remuneração em fundos de estoque

@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 5/2024/SIN — 2. Dispensa de Apresentação dos Informes: lâmina de informações básicas e demonstraçãodedesempenho do fundo"
 id: cvm175-seq-0200
 sequencia: 200
 item_planilha: "200.1"
@@ -17,7 +18,11 @@ palavras_chave:
   - "Comunicação com cotistas"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 5/2024/SIN — 2. Dispensa de Apresentação dos Informes: lâmina de informações básicas e demonstraçãodedesempenho do fundo

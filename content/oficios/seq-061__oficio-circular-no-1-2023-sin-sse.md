@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2023/SIN/SSE — 1.16 Registros contábeis e demonstrações financeiras"
 id: cvm175-seq-0061
 sequencia: 61
 item_planilha: "61.1"
@@ -24,7 +25,11 @@ vinculos:
     no_base: true
     raw: "Item 1.24 > Pergunta 75 Ofício-Circular nº 1/2023/SIN/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2023/SIN/SSE — 1.16 Registros contábeis e demonstrações financeiras

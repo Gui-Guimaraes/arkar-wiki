@@ -1,4 +1,5 @@
 ---
+title: "Ofício nº 15/2024/CVM/SSE/SSE — N/A"
 id: cvm175-seq-0264
 sequencia: 264
 item_planilha: "264.1"
@@ -18,7 +19,11 @@ palavras_chave:
   - "Permissões da carteira"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício nº 15/2024/CVM/SSE/SSE — N/A

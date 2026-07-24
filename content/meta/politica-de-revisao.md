@@ -1,8 +1,13 @@
 ---
+title: "Politica de revisao"
 titulo: "Politica de revisao"
 tipo: meta
-status: stub
+status: revisado
 tags: [meta]
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Politica de revisao

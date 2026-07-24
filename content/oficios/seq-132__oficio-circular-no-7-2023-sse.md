@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 7/2023/SSE — N/A"
 id: cvm175-seq-0132
 sequencia: 132
 item_planilha: "132.1"
@@ -15,7 +16,11 @@ palavras_chave:
   - "Questões sistêmicas"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 7/2023/SSE — N/A

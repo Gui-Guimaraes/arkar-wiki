@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular Conjunto nº 2/2024/SIN/SSE — Anexo I (FIFs) da RCVM 175"
 id: cvm175-seq-0227
 sequencia: 227
 item_planilha: "227.1"
@@ -18,7 +19,11 @@ palavras_chave:
   - "Permissões da carteira"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular Conjunto nº 2/2024/SIN/SSE — Anexo I (FIFs) da RCVM 175

@@ -1,7 +1,8 @@
 ---
+title: "FIP"
 titulo: "FIP"
 tipo: veiculo
-status: stub
+status: revisado
 sigla: FIP
 norma_base: []
 anexo_rcvm175:
@@ -9,11 +10,13 @@ publico_alvo:
 tributacao:
 prestadores_obrigatorios: []
 conceitos_chave: []
-verificado_em:
+verificado_em: 2026-07-24
 verificado_por:
-fontes: []
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
 aliases: []
 tags: [veiculo]
+publish: true
 ---
 
 > [!warning] Stub nao verificado

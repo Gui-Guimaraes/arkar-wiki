@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 3/2025/CVM/SSE — I. Orientações gerais"
 id: cvm175-seq-0266
 sequencia: 266
 item_planilha: "266.1"
@@ -26,7 +27,11 @@ vinculos:
     no_base: true
     raw: "Item I, Ofício-Circular nº1/2025/CVM/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 3/2025/CVM/SSE — I. Orientações gerais

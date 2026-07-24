@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular Conjunto nº 02/2023/SIN/SSE — 1.9.  Processo operacional de adaptação dos fundos à Resolução CVM nº 175"
 id: cvm175-seq-0152
 sequencia: 152
 item_planilha: "152.1"
@@ -24,7 +25,11 @@ vinculos:
     no_base: true
     raw: "Ofício-Circular Conjunto nº 03/2023/SIN/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular Conjunto nº 02/2023/SIN/SSE — 1.9.  Processo operacional de adaptação dos fundos à Resolução CVM nº 175

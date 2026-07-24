@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2025/SIN/SNC/SSE — Item 23"
 id: cvm175-seq-0252
 sequencia: 252
 item_planilha: "252.1"
@@ -19,7 +20,11 @@ palavras_chave:
   - "Regime informacional"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2025/SIN/SNC/SSE — Item 23

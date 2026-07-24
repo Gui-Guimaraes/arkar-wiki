@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 2/2023/SIN — B) Parcela da taxa de performance a ser paga ao distribuidor"
 id: cvm175-seq-0096
 sequencia: 96
 item_planilha: "96.1"
@@ -25,7 +26,11 @@ vinculos:
     no_base: false
     raw: "Complementa o Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 2/2023/SIN — B) Parcela da taxa de performance a ser paga ao distribuidor 

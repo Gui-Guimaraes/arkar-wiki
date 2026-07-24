@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 2/2024/SIN — 9. Esclarecimento sobre o disposto no art. 49 do Anexo I da RCVM 175 que trata da taxa de performance em fundos de renda fixa"
 id: cvm175-seq-0187
 sequencia: 187
 item_planilha: "187.1"
@@ -15,7 +16,11 @@ palavras_chave:
   - "Taxa de performance"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 2/2024/SIN — 9. Esclarecimento sobre o disposto no art. 49 do Anexo I da RCVM 175 que trata da taxa de performance em fundos de renda fixa

@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 2/2024/SIN — 6. Código da Subclasse"
 id: cvm175-seq-0184
 sequencia: 184
 item_planilha: "184.1"
@@ -22,7 +23,11 @@ vinculos:
     no_base: false
     raw: "Retificando o item 11 do Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 2/2024/SIN — 6. Código da Subclasse

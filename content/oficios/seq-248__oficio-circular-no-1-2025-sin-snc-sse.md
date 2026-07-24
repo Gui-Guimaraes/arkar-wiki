@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2025/SIN/SNC/SSE — Item 19"
 id: cvm175-seq-0248
 sequencia: 248
 item_planilha: "248.1"
@@ -21,7 +22,11 @@ palavras_chave:
   - "Demonstrações financeiras"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2025/SIN/SNC/SSE — Item 19

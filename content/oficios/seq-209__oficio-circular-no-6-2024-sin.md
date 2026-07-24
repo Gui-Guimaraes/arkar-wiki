@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 6/2024/SIN — Orientações adicionais ao disposto no Ofício-Circular nº 3/2024/CVM/SIN sobre o uso do"
 id: cvm175-seq-0209
 sequencia: 209
 item_planilha: "209.1"
@@ -27,7 +28,11 @@ vinculos:
     no_base: true
     raw: "Item 1 > Perguntas 1 a 3 Ofício-Circular nº 3/2024/SIN"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 6/2024/SIN — Orientações adicionais ao disposto no Ofício-Circular nº 3/2024/CVM/SIN sobre o uso do

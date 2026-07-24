@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 2/2023/SIN — K) Responsabilidades dos custodiantes"
 id: cvm175-seq-0121
 sequencia: 121
 item_planilha: "121.1"
@@ -15,7 +16,11 @@ palavras_chave:
   - "Responsabilidade de PSE"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 2/2023/SIN — K) Responsabilidades dos custodiantes

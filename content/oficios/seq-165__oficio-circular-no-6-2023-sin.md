@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 6/2023/SIN — Anexo Normativo VII - Fundos Mútuos de Privatização (“FMP-FGTS”) e Outros Anexos"
 id: cvm175-seq-0165
 sequencia: 165
 item_planilha: "165.1"
@@ -16,7 +17,11 @@ palavras_chave:
   - "Cálculo de participação em AGC"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 6/2023/SIN — Anexo Normativo VII - Fundos Mútuos de Privatização (“FMP-FGTS”) e Outros Anexos 

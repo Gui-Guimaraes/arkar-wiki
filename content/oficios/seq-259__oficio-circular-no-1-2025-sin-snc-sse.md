@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2025/SIN/SNC/SSE — Itens 33 e 34"
 id: cvm175-seq-0259
 sequencia: 259
 item_planilha: "259.1"
@@ -27,7 +28,11 @@ vinculos:
     no_base: true
     raw: "Itens 28 a 31, 34 Ofício-Circular nº 1/2025/SIN/SNC/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2025/SIN/SNC/SSE — Itens 33 e 34

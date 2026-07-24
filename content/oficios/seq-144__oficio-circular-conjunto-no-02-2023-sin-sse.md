@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular Conjunto nº 02/2023/SIN/SSE — 1.7 Cobrança da Taxa de Performance na Classe/Subclasse"
 id: cvm175-seq-0144
 sequencia: 144
 item_planilha: "144.1"
@@ -17,7 +18,11 @@ palavras_chave:
   - "Taxa de performance"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular Conjunto nº 02/2023/SIN/SSE — 1.7 Cobrança da Taxa de Performance na Classe/Subclasse 

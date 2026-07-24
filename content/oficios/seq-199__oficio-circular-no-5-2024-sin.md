@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 5/2024/SIN — 1. Constituição de classes de cotas com tratamentos tributários distintos"
 id: cvm175-seq-0199
 sequencia: 199
 item_planilha: "199.1"
@@ -16,7 +17,11 @@ palavras_chave:
   - "Questões fiscais"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 5/2024/SIN — 1. Constituição de classes de cotas com tratamentos tributários distintos

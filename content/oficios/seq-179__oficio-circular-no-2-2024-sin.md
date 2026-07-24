@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 2/2024/SIN — 3. Rearranjo de taxas ao longo da vida do fundo"
 id: cvm175-seq-0179
 sequencia: 179
 item_planilha: "179.1"
@@ -18,7 +19,11 @@ palavras_chave:
   - "Taxas"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 2/2024/SIN — 3. Rearranjo de taxas ao longo da vida do fundo

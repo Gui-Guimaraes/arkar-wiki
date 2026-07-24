@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular Conjunto nº 2/2024/SIN/SSE — 1. Ausência de taxa de distribuição quando da atuação de gestor-distribuidor"
 id: cvm175-seq-0223
 sequencia: 223
 item_planilha: "223.1"
@@ -40,7 +41,11 @@ vinculos:
     no_base: true
     raw: "Item 1 Ofício-Circular Conjunto nº 2/2024/SIN/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular Conjunto nº 2/2024/SIN/SSE — 1. Ausência de taxa de distribuição quando da atuação de gestor-distribuidor 

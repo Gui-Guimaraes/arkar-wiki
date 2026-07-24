@@ -1,8 +1,13 @@
 ---
+title: "Aviso legal"
 titulo: "Aviso legal"
 tipo: meta
-status: stub
+status: revisado
 tags: [meta]
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Aviso legal

@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2023/SIN/SSE — 1.26 Definição de classe restrita e fundo exclusivo"
 id: cvm175-seq-0079
 sequencia: 79
 item_planilha: "79.1"
@@ -24,7 +25,11 @@ vinculos:
     no_base: true
     raw: "Item 1.4.a e b. Ofício-Circular Conjunto nº 02/2023/SIN/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2023/SIN/SSE — 1.26 Definição de classe restrita e fundo exclusivo

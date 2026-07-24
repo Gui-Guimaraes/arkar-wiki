@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 6/2023/SIN — Anexo Normativo IV - FIP"
 id: cvm175-seq-0162
 sequencia: 162
 item_planilha: "162.1"
@@ -17,7 +18,11 @@ palavras_chave:
   - "Responsabilidade de PSE"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 6/2023/SIN — Anexo Normativo IV - FIP

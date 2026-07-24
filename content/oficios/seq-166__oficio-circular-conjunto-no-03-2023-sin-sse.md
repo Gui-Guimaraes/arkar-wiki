@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular Conjunto nº 03/2023/SIN/SSE — N/A"
 id: cvm175-seq-0166
 sequencia: 166
 item_planilha: "166.1"
@@ -24,7 +25,11 @@ vinculos:
     no_base: false
     raw: "Interpretação complementar sobre teor do item 1.9 Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular Conjunto nº 03/2023/SIN/SSE — N/A

@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 6/2024/SSE — VIII - Registro do estoque de direitos creditórios vencidos (FIDC)"
 id: cvm175-seq-0219
 sequencia: 219
 item_planilha: "219.1"
@@ -22,7 +23,11 @@ vinculos:
     no_base: true
     raw: "Item I Ofício-Circular nº 8/2023/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 6/2024/SSE — VIII - Registro do estoque de direitos creditórios vencidos (FIDC)

@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 8/2023/SSE — III - DA VERIFICAÇÃO E GUARDA DO LASTRO, DA COBRANÇA DOS DIREITOS"
 id: cvm175-seq-0155
 sequencia: 155
 item_planilha: "155.1"
@@ -17,7 +18,11 @@ palavras_chave:
   - "Contratação de terceiros"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 8/2023/SSE — III - DA VERIFICAÇÃO E GUARDA DO LASTRO, DA COBRANÇA DOS DIREITOS

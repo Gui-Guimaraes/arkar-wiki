@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2023/SIN/SSE — 1.18 Negociação com uso indevido de informação privilegiada"
 id: cvm175-seq-0063
 sequencia: 63
 item_planilha: "63.1"
@@ -16,7 +17,11 @@ palavras_chave:
   - "Fundos fechados"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2023/SIN/SSE — 1.18 Negociação com uso indevido de informação privilegiada

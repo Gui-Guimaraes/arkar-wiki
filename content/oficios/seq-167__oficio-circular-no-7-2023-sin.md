@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 7/2023/SIN — N/A"
 id: cvm175-seq-0167
 sequencia: 167
 item_planilha: "167.1"
@@ -19,7 +20,11 @@ palavras_chave:
   - "Derivativos"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 7/2023/SIN — N/A

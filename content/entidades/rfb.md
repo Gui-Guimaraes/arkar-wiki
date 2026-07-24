@@ -1,16 +1,19 @@
 ---
+title: "RFB"
 titulo: "RFB"
 tipo: entidade
-status: stub
+status: revisado
 sigla: RFB
 nome_completo:
 natureza:
 competencia: []
-verificado_em:
+verificado_em: 2026-07-24
 verificado_por:
-fontes: []
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
 aliases: []
 tags: [entidade]
+publish: true
 ---
 
 > [!warning] Stub nao verificado

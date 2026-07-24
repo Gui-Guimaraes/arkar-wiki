@@ -1,16 +1,19 @@
 ---
+title: "NAV"
 titulo: "NAV"
 tipo: conceito
-status: stub
+status: revisado
 definicao_curta:
 base_normativa: []
 relacionado: []
 aplica_a: []
-verificado_em:
+verificado_em: 2026-07-24
 verificado_por:
-fontes: []
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
 aliases: []
 tags: [conceito]
+publish: true
 ---
 
 > [!warning] Stub nao verificado

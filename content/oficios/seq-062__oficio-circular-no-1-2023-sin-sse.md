@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2023/SIN/SSE — 1.17 Comunicação com os cotistas"
 id: cvm175-seq-0062
 sequencia: 62
 item_planilha: "62.1"
@@ -17,7 +18,11 @@ palavras_chave:
   - "Questões cadastrais"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2023/SIN/SSE — 1.17 Comunicação com os cotistas

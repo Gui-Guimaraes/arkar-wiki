@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2023/SIN/SSE — 1.5 Chaves de identificação de fundos, classes e subclasses"
 id: cvm175-seq-0011
 sequencia: 11
 item_planilha: "11.1"
@@ -24,7 +25,11 @@ vinculos:
     no_base: true
     raw: "Item 1.1 > Pergunta 2 Ofício-Circular nº 1/2023/SIN/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2023/SIN/SSE — 1.5 Chaves de identificação de fundos, classes e subclasses

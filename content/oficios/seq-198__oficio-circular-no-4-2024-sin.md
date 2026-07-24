@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 4/2024/SIN — N/A"
 id: cvm175-seq-0198
 sequencia: 198
 item_planilha: "198.1"
@@ -16,7 +17,11 @@ palavras_chave:
   - "Política de investimentos"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 4/2024/SIN — N/A

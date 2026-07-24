@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 2/2023/SIN — L) ISIN e outros códigos"
 id: cvm175-seq-0124
 sequencia: 124
 item_planilha: "124.1"
@@ -17,7 +18,11 @@ palavras_chave:
   - "Fundo, classe ou subclasse?"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 2/2023/SIN — L) ISIN e outros códigos 

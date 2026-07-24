@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 2/2025/CVM/SSE — n/a"
 id: cvm175-seq-0268
 sequencia: 268
 item_planilha: "268.1"
@@ -17,7 +18,11 @@ palavras_chave:
   - "Responsabilidade de cotistas"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 2/2025/CVM/SSE — n/a

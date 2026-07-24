@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2025/CVM/SSE — III. Orientações sobre a migração de FIAGROs existentes para a nova categoria FIAGRO do SGF e FNET"
 id: cvm175-seq-0271
 sequencia: 271
 item_planilha: "271.1"
@@ -20,7 +21,11 @@ palavras_chave:
   - "Período de transição"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2025/CVM/SSE — III. Orientações sobre a migração de FIAGROs existentes para a nova categoria FIAGRO do SGF e FNET

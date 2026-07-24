@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 2/2023/SIN — J) Classe de investimento em cotas"
 id: cvm175-seq-0117
 sequencia: 117
 item_planilha: "117.1"
@@ -16,7 +17,11 @@ palavras_chave:
   - "Gerenciamento de liquidez"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 2/2023/SIN — J) Classe de investimento em cotas 

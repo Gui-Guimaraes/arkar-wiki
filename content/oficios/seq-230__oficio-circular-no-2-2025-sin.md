@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 2/2025/SIN — 2. Atuação do Administrador Fiduciário"
 id: cvm175-seq-0230
 sequencia: 230
 item_planilha: "230.1"
@@ -16,7 +17,11 @@ palavras_chave:
   - "Enquadramento"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 2/2025/SIN — 2. Atuação do Administrador Fiduciário

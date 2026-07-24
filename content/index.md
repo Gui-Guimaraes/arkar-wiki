@@ -25,4 +25,5 @@ Base de conhecimento sobre a regulacao de fundos de investimento brasileiros (CV
 - Entidades · Meta
 
 > [!warning] Vault em construcao
-> Quase todas as notas estao em `stub` e nao aparecem no site publicado ate serem revisadas.
+> Muitas notas ainda sao esqueletos: o conteudo normativo esta sendo redigido a partir
+> da fonte oficial. Consulte sempre a norma na fonte antes de decidir.

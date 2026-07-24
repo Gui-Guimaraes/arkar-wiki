@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 6/2023/SIN — 1. Exposição a risco de capital"
 id: cvm175-seq-0156
 sequencia: 156
 item_planilha: "156.1"
@@ -25,7 +26,11 @@ vinculos:
     no_base: true
     raw: "Item 1 Ofício-Circular nº 2/2023/SIN"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 6/2023/SIN — 1. Exposição a risco de capital 

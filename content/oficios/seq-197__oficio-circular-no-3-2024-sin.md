@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 3/2024/SIN — 2. Pagamento de taxa de performance ao distribuidor em fundos de varejo"
 id: cvm175-seq-0197
 sequencia: 197
 item_planilha: "197.1"
@@ -37,7 +38,11 @@ vinculos:
     no_base: false
     raw: "Complementa o  item 36 do Ofício-Circular 01/2023/CVM/SIN/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 3/2024/SIN — 2. Pagamento de taxa de performance ao distribuidor em fundos de varejo 

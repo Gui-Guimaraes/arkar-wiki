@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular Conjunto nº 2/2024/SIN/SSE — I.a – Criação de Classes"
 id: cvm175-seq-0225
 sequencia: 225
 item_planilha: "225.1"
@@ -19,7 +20,11 @@ palavras_chave:
   - "Conteúdo de regulamento"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular Conjunto nº 2/2024/SIN/SSE — I.a – Criação de Classes 

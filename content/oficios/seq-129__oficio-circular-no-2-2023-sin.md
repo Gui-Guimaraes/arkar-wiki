@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 2/2023/SIN — P) Criptoativos"
 id: cvm175-seq-0129
 sequencia: 129
 item_planilha: "129.1"
@@ -24,7 +25,11 @@ vinculos:
     no_base: true
     raw: "Item 2 Ofício-Circular nº 6/2023/SIN"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 2/2023/SIN — P) Criptoativos 

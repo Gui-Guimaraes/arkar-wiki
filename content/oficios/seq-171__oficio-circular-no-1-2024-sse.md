@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 1/2024/SSE — N/A"
 id: cvm175-seq-0171
 sequencia: 171
 item_planilha: "171.1"
@@ -16,7 +17,11 @@ palavras_chave:
   - "Permissões da carteira"
 vinculos: []
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 1/2024/SSE — N/A

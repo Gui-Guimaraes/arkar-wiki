@@ -1,4 +1,5 @@
 ---
+title: "Ofício-Circular nº 2/2025/SIN — 1. Integralização em ativos"
 id: cvm175-seq-0229
 sequencia: 229
 item_planilha: "229.1"
@@ -23,7 +24,11 @@ vinculos:
     no_base: true
     raw: "Item 1.14. > Pergunta 53 Ofício-Circular nº 1/2023/SIN/SSE"
 fonte: "Consolidador de Ofícios-Circulares CVM (RCVM 175)"
-status: rascunho
+status: revisado
+verificado_em: 2026-07-24
+fontes:
+  - "CVM - portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
+publish: true
 ---
 
 # Ofício-Circular nº 2/2025/SIN — 1. Integralização em ativos
