@@ -38,7 +38,7 @@ com as notas em `content/`. Requisitos: **Node >= 22** e **npm >= 10.9.2**.
 2. **Config = YAML, na raiz: `quartz.config.yaml`.** A v5 **nao** usa `quartz.config.ts`
    (o `quartz.ts` da raiz e so o entrypoint programatico). O arquivo ativo nasce de
    `quartz.config.default.yaml`; o resolvedor procura `quartz.config.yaml` primeiro
-   (`quartz/cli/plugin-data.js`). Ja aplicado: `pageTitle: Arkar Wiki`,
+   (`quartz/cli/plugin-data.js`). Ja aplicado: `pageTitle: Arkar Funds Brain`,
    `baseUrl: wiki.arkar.ai`, `locale: pt-BR`, `analytics: null`, `ignorePatterns`
    e o plugin `@quartz-community/explicit-publish` com `enabled: true`.
 
