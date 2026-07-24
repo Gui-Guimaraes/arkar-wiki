@@ -10,8 +10,8 @@ publico_alvo: "Geral (varejo) e qualificados, conforme a classe e o tipo de dire
 tributacao: "Entidade de investimento: 15% no resgate/amortização, sem come-cotas; se não enquadrado: come-cotas de 15% (maio/novembro)"
 prestadores_obrigatorios: ["administrador fiduciário", "gestor de carteira", "custodiante", "consultor especializado (quando houver)", "entidade registradora", "auditor independente"]
 conceitos_chave: ["direitos creditórios", "cotas sênior/subordinada", "piso de 50% do PL", "verificação de lastro pelo gestor", "entidade de investimento"]
-verificado_em:2026-07-24
-verificado_por:
+verificado_em: 2026-07-24
+verificado_por: ""
 fontes:
   - "Resolução CVM 175/2022 — Anexo Normativo II (FIDC): https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html"
   - "Ofício-Circular CVM/SSE 8/2025 (FIDC, FII e FIAGRO): https://www.gov.br/cvm/pt-br/assuntos/noticias/2025"

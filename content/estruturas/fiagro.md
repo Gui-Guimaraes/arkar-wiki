@@ -10,8 +10,8 @@ publico_alvo: "Conforme o anexo aplicável por equiparação (regra de FIDC, FII
 tributacao: "Segue o regime do tipo a que o fundo se equipara; FIAGRO 'imobiliário' com isenção de PF sob condições (100+ cotistas)"
 prestadores_obrigatorios: ["administrador fiduciário", "gestor de carteira", "custodiante", "auditor independente"]
 conceitos_chave: ["cadeias produtivas do agronegócio", "equiparação (Art. 2º do Anexo VI)", "mais de 50% do PL", "imóvel rural", "propriedade fiduciária", "migração SGF/FNET"]
-verificado_em:2026-07-24
-verificado_por:
+verificado_em: 2026-07-24
+verificado_por: ""
 fontes:
   - "Lei 14.130/2021 (cria o FIAGRO): https://www.planalto.gov.br"
   - "Resolução CVM 39/2021 (regra experimental) e Resolução CVM 214/2024 (Anexo Normativo VI, vigência 3/3/2025)"

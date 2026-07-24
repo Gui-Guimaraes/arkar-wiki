@@ -10,8 +10,8 @@ publico_alvo: "Geral (varejo) e qualificados/profissionais, conforme a classe"
 tributacao: "Come-cotas em maio e novembro: 15% (carteira de longo prazo) ou 20% (curto prazo); classe de ações fora do come-cotas (15% no resgate)"
 prestadores_obrigatorios: ["administrador fiduciário", "gestor de carteira", "custodiante", "auditor independente"]
 conceitos_chave: ["fundo 555", "classe", "subclasse", "come-cotas", "renda fixa/ações/cambial/multimercado"]
-verificado_em:2026-07-24
-verificado_por:
+verificado_em: 2026-07-24
+verificado_por: ""
 fontes:
   - "Resolução CVM 175/2022 — Anexo Normativo I (FIF): https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html"
   - "Lei 14.754/2023 (tributação de fundos): https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14754.htm"

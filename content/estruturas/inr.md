@@ -10,8 +10,8 @@ publico_alvo: "Investidores não residentes — pessoas físicas, pessoas juríd
 tributacao: "Tratamento diferenciado para INR não domiciliado em paraíso fiscal (ex.: alíquota zero em FIP entidade de investimento); INR domiciliado em paraíso fiscal, em regra, equiparado a residente"
 prestadores_obrigatorios: ["representante no País (com dispensas)", "custodiante (dispensa da obrigatoriedade prévia)"]
 conceitos_chave: ["registro na CVM", "operações simultâneas de câmbio", "conta de não residente (CNR)", "paraíso fiscal", "fim do RDE-Portfólio"]
-verificado_em:2026-07-24
-verificado_por:
+verificado_em: 2026-07-24
+verificado_por: ""
 fontes:
   - "Lei 14.286/2021 (novo marco cambial): https://www.planalto.gov.br"
   - "Resolução Conjunta BCB/CVM nº 13/2024 (vigência 1/1/2025; revogou a Res. CMN 4.373/2014 e a Circular BCB 3.689/2013)"
