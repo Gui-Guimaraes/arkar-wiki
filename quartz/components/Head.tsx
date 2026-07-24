@@ -27,6 +27,12 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
 
+    // Favicon Arkar (self-hosted em quartz/static/brand). O core do Quartz emite apenas
+    // um <link rel="icon"> apontando para static/icon.png; o conjunto completo (svg, .ico,
+    // apple-touch, webmanifest) e emitido abaixo. baseDir mantem os caminhos relativos
+    // corretos em subpastas e no 404.
+    const brand = (f: string) => joinSegments(baseDir, `static/brand/${f}`)
+
     // Url of current page
     const socialUrl =
       fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
@@ -90,6 +96,12 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
+        <link rel="icon" type="image/svg+xml" href={brand("favicon.svg")} />
+        <link rel="icon" type="image/png" sizes="96x96" href={brand("favicon-96x96.png")} />
+        <link rel="shortcut icon" href={brand("favicon.ico")} />
+        <link rel="apple-touch-icon" sizes="180x180" href={brand("apple-touch-icon.png")} />
+        <link rel="manifest" href={brand("site.webmanifest")} />
+        <meta name="apple-mobile-web-app-title" content="Arkar" />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 

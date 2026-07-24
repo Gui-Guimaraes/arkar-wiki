@@ -47,6 +47,60 @@ article {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
+// Logo Arkar no lugar do titulo textual do site.
+// O plugin page-title renderiza <h2 class="page-title"><a>Arkar Wiki</a></h2>; nao ha
+// opcao de imagem, entao trocamos por CSS: o texto vira font-size 0 (continua no DOM
+// como nome acessivel do link) e o lockup entra como ::before (simbolo) + ::after
+// (wordmark). Variantes brancas no tema escuro via [saved-theme="dark"].
+// Assets self-hosted em quartz/static/brand -> /static/brand (sem CORS, sem rede).
+// Proporcoes reais: simbolo 2758x2687 (~1:1); wordmark 581x153 (~3.8:1).
+// `contain` absorve a leve diferenca de ratio entre o wordmark claro e o escuro.
+// ─────────────────────────────────────────────────────────────────────────────
+.page-title {
+  a {
+    display: flex;
+    align-items: center;
+    gap: 0.45rem;
+    font-size: 0;
+    line-height: 0;
+    text-decoration: none;
+  }
+
+  a::before,
+  a::after {
+    content: "";
+    display: block;
+    flex: none;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+  }
+
+  // simbolo
+  a::before {
+    width: 1.75rem;
+    height: 1.75rem;
+    background-image: url("/static/brand/ArkarLogo.png");
+  }
+
+  // wordmark
+  a::after {
+    width: 4rem;
+    height: 1.05rem;
+    background-image: url("/static/brand/ArkarTexto.png");
+  }
+}
+
+:root[saved-theme="dark"] .page-title {
+  a::before {
+    background-image: url("/static/brand/ArkarLogoBranco.png");
+  }
+  a::after {
+    background-image: url("/static/brand/ArkarTextoBranco.png");
+  }
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
 // Callouts em GRAYSCALE. O callouts.scss do Quartz hardcoda uma paleta Material
 // cromatica por tipo (#448aff note, #00b8d4 info, #db8942 warning, #db4242 danger...),
 // o que viola o invariante "nenhuma cromatica na chrome do wiki" — as cromaticas
