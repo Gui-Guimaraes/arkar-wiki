@@ -47,6 +47,57 @@ article {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
+// Ordem das secoes no Explorador + ocultar "Meta".
+// O explorer monta a arvore no cliente e ordena pastas alfabeticamente pelo
+// displayName; as opcoes sortFn/filterFn do plugin sao FUNCOES JS, nao expressaveis
+// no quartz.config.yaml (exigiriam override em quartz.ts). Como cada <li> de 1o nivel
+// carrega um data-folderpath estavel, a ordem sai por flex `order` — reversivel e
+// sem forkar o plugin.
+// Ressalvas: a ordem do DOM continua alfabetica (leitores de tela e navegacao por
+// teclado seguem o DOM), e "Meta" fica oculto no Explorador mas suas paginas seguem
+// acessiveis por URL e pela busca — e o pedido era nao mostrar "por enquanto".
+// ─────────────────────────────────────────────────────────────────────────────
+.explorer-ul {
+  display: flex;
+  flex-direction: column;
+
+  // sentinela de overflow: nasce como 1o filho no DOM; sem isto viria antes de tudo
+  & > li.overflow-end {
+    order: 99;
+  }
+
+  // catch-all PRIMEIRO: `li:has([data-folderpath])` tem a mesma especificidade que
+  // `li:has([data-folderpath="x/index"])` (0,1,1), entao quem vem depois vence.
+  // Qualquer secao futura sem ordem explicita cai depois das nomeadas.
+  & > li:has([data-folderpath]) {
+    order: 50;
+  }
+
+  & > li:has([data-folderpath="estruturas/index"]) {
+    order: 1;
+  }
+  & > li:has([data-folderpath="entidades/index"]) {
+    order: 2;
+  }
+  & > li:has([data-folderpath="normas/index"]) {
+    order: 3;
+  }
+  & > li:has([data-folderpath="conceitos/index"]) {
+    order: 4;
+  }
+  & > li:has([data-folderpath="obrigacoes/index"]) {
+    order: 5;
+  }
+  & > li:has([data-folderpath="jurisprudencia/index"]) {
+    order: 6;
+  }
+
+  & > li:has([data-folderpath="meta/index"]) {
+    display: none;
+  }
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
 // Logo Arkar no lugar do titulo textual do site.
 // O plugin page-title renderiza <h2 class="page-title"><a>Arkar Wiki</a></h2>; nao ha
 // opcao de imagem, entao trocamos por CSS: o texto vira font-size 0 (continua no DOM
