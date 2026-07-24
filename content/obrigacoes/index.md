@@ -1,6 +1,6 @@
 ---
-title: "Obrigacoes"
-titulo: "Obrigacoes"
+title: "Obrigações"
+titulo: "Obrigações"
 tipo: indice
 status: revisado
 tags: [indice]

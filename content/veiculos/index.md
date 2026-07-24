@@ -1,6 +1,6 @@
 ---
-title: "Veiculos"
-titulo: "Veiculos"
+title: "Veículos"
+titulo: "Veículos"
 tipo: indice
 status: revisado
 tags: [indice]
