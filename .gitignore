@@ -1,0 +1,35 @@
+# --- segredos ---
+.env*
+*.pem
+*.key
+
+# --- deps / build ---
+node_modules/
+public/
+.quartz-cache/
+.quartz/
+prof
+tsconfig.tsbuildinfo
+quartz/cli/tui/dist/
+
+# --- deploy (Vercel CLI grava projectId/orgId aqui) ---
+.vercel/
+
+# --- SO / editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.orig
+*.rej
+
+# --- Obsidian (rastreia config do vault, ignora workspace) ---
+.obsidian/workspace*
+
+# --- vault ---
+interno/_anexos/
+
+# --- python ---
+__pycache__/
+*.pyc

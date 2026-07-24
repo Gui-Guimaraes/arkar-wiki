@@ -1,0 +1,61 @@
+@use "./variables.scss" as *;
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Fontes self-hosted (fontOrigin: local => o core deixa o @font-face por conta
+// nossa). Arquivos variaveis em quartz/static/fonts -> servidos em /static/fonts.
+// Space Grotesk = mesmo arquivo do app (arkar-system-frontend). Sem rede em build
+// nem em runtime. Os nomes batem com typography.header/body/code do YAML.
+// ─────────────────────────────────────────────────────────────────────────────
+@font-face {
+  font-family: "Space Grotesk";
+  font-style: normal;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url("/static/fonts/SpaceGrotesk-Variable.woff2") format("woff2");
+}
+@font-face {
+  font-family: "JetBrains Mono";
+  font-style: normal;
+  font-weight: 100 800;
+  font-display: swap;
+  src: url("/static/fonts/JetBrainsMono-Variable.woff2") format("woff2");
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Arkar Wiki — ajustes de tema que a config YAML nao expressa.
+// Chrome 100% grayscale (tema em quartz.config.yaml, fiel ao DS do app).
+// Aqui so tratamos a AFFORDANCIA de link: no monocromatico o link se distingue
+// por UNDERLINE persistente, nao por cor (secondary == dark == foreground).
+// Escopo: apenas o corpo do artigo — navegacao, sidebar e toolbar ficam limpas.
+// ─────────────────────────────────────────────────────────────────────────────
+article {
+  a,
+  a.internal {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+    text-decoration-color: var(--tertiary);
+  }
+
+  // Neutraliza o "chip" de fundo do link interno: o underline ja e a affordancia.
+  // O tom --highlight fica reservado a realces (==marca==) e ao box de backlinks.
+  a.internal {
+    background-color: transparent;
+    padding: 0;
+    border-radius: 0;
+  }
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
+// Callouts em GRAYSCALE. O callouts.scss do Quartz hardcoda uma paleta Material
+// cromatica por tipo (#448aff note, #00b8d4 info, #db8942 warning, #db4242 danger...),
+// o que viola o invariante "nenhuma cromatica na chrome do wiki" — as cromaticas
+// funcionais do DS (success/warning/info/destructive) nao entram aqui.
+// O seletor repete [data-callout] so para vencer a especificidade das regras
+// por tipo (.callout[data-callout="warning"]) sem precisar de !important.
+// ─────────────────────────────────────────────────────────────────────────────
+.callout[data-callout][data-callout] {
+  --color: var(--darkgray);
+  --border: var(--lightgray);
+  --bg: var(--highlight);
+}

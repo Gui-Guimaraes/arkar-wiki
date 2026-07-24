@@ -1,0 +1,2967 @@
+{
+  "nodes": [
+    {
+      "id": "cvm175-seq-0001",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 1"
+    },
+    {
+      "id": "cvm175-seq-0002",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 2"
+    },
+    {
+      "id": "cvm175-seq-0003",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 3"
+    },
+    {
+      "id": "cvm175-seq-0004",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 4"
+    },
+    {
+      "id": "cvm175-seq-0005",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 5"
+    },
+    {
+      "id": "cvm175-seq-0006",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 6"
+    },
+    {
+      "id": "cvm175-seq-0007",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 7"
+    },
+    {
+      "id": "cvm175-seq-0008",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 8"
+    },
+    {
+      "id": "cvm175-seq-0009",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 9"
+    },
+    {
+      "id": "cvm175-seq-0010",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 10"
+    },
+    {
+      "id": "cvm175-seq-0011",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 11"
+    },
+    {
+      "id": "cvm175-seq-0012",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 12"
+    },
+    {
+      "id": "cvm175-seq-0013",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 13"
+    },
+    {
+      "id": "cvm175-seq-0014",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 14"
+    },
+    {
+      "id": "cvm175-seq-0015",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 15"
+    },
+    {
+      "id": "cvm175-seq-0016",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 16"
+    },
+    {
+      "id": "cvm175-seq-0017",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 17"
+    },
+    {
+      "id": "cvm175-seq-0018",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 18"
+    },
+    {
+      "id": "cvm175-seq-0019",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 19"
+    },
+    {
+      "id": "cvm175-seq-0020",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 20"
+    },
+    {
+      "id": "cvm175-seq-0021",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 21"
+    },
+    {
+      "id": "cvm175-seq-0022",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 22"
+    },
+    {
+      "id": "cvm175-seq-0023",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 23"
+    },
+    {
+      "id": "cvm175-seq-0024",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 24"
+    },
+    {
+      "id": "cvm175-seq-0025",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 25"
+    },
+    {
+      "id": "cvm175-seq-0026",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 26"
+    },
+    {
+      "id": "cvm175-seq-0027",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 27"
+    },
+    {
+      "id": "cvm175-seq-0028",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 28"
+    },
+    {
+      "id": "cvm175-seq-0029",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 29"
+    },
+    {
+      "id": "cvm175-seq-0030",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 30"
+    },
+    {
+      "id": "cvm175-seq-0031",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 31"
+    },
+    {
+      "id": "cvm175-seq-0032",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 32"
+    },
+    {
+      "id": "cvm175-seq-0033",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 33"
+    },
+    {
+      "id": "cvm175-seq-0034",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 34"
+    },
+    {
+      "id": "cvm175-seq-0035",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 35"
+    },
+    {
+      "id": "cvm175-seq-0036",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 36"
+    },
+    {
+      "id": "cvm175-seq-0037",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 37"
+    },
+    {
+      "id": "cvm175-seq-0038",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 38"
+    },
+    {
+      "id": "cvm175-seq-0039",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 39"
+    },
+    {
+      "id": "cvm175-seq-0040",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 40"
+    },
+    {
+      "id": "cvm175-seq-0041",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 41"
+    },
+    {
+      "id": "cvm175-seq-0042",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 42"
+    },
+    {
+      "id": "cvm175-seq-0043",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 43"
+    },
+    {
+      "id": "cvm175-seq-0044",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 44"
+    },
+    {
+      "id": "cvm175-seq-0045",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 45"
+    },
+    {
+      "id": "cvm175-seq-0046",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 46"
+    },
+    {
+      "id": "cvm175-seq-0047",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 47"
+    },
+    {
+      "id": "cvm175-seq-0048",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 48"
+    },
+    {
+      "id": "cvm175-seq-0049",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 49"
+    },
+    {
+      "id": "cvm175-seq-0050",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 50"
+    },
+    {
+      "id": "cvm175-seq-0051",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 51"
+    },
+    {
+      "id": "cvm175-seq-0052",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 52"
+    },
+    {
+      "id": "cvm175-seq-0053",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 53"
+    },
+    {
+      "id": "cvm175-seq-0054",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 54"
+    },
+    {
+      "id": "cvm175-seq-0055",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 55"
+    },
+    {
+      "id": "cvm175-seq-0056",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 56"
+    },
+    {
+      "id": "cvm175-seq-0057",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 57"
+    },
+    {
+      "id": "cvm175-seq-0058",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 58"
+    },
+    {
+      "id": "cvm175-seq-0059",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 59"
+    },
+    {
+      "id": "cvm175-seq-0060",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 60"
+    },
+    {
+      "id": "cvm175-seq-0061",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 61"
+    },
+    {
+      "id": "cvm175-seq-0062",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 62"
+    },
+    {
+      "id": "cvm175-seq-0063",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 63"
+    },
+    {
+      "id": "cvm175-seq-0064",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 64"
+    },
+    {
+      "id": "cvm175-seq-0065",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 65"
+    },
+    {
+      "id": "cvm175-seq-0066",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 66"
+    },
+    {
+      "id": "cvm175-seq-0067",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 67"
+    },
+    {
+      "id": "cvm175-seq-0068",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 68"
+    },
+    {
+      "id": "cvm175-seq-0069",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 69"
+    },
+    {
+      "id": "cvm175-seq-0070",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 70"
+    },
+    {
+      "id": "cvm175-seq-0071",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 71"
+    },
+    {
+      "id": "cvm175-seq-0072",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 72"
+    },
+    {
+      "id": "cvm175-seq-0073",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 73"
+    },
+    {
+      "id": "cvm175-seq-0074",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 74"
+    },
+    {
+      "id": "cvm175-seq-0075",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 75"
+    },
+    {
+      "id": "cvm175-seq-0076",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 76"
+    },
+    {
+      "id": "cvm175-seq-0077",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 77"
+    },
+    {
+      "id": "cvm175-seq-0078",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 78"
+    },
+    {
+      "id": "cvm175-seq-0079",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 79"
+    },
+    {
+      "id": "cvm175-seq-0080",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 80"
+    },
+    {
+      "id": "cvm175-seq-0081",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 81"
+    },
+    {
+      "id": "cvm175-seq-0082",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 82"
+    },
+    {
+      "id": "cvm175-seq-0083",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 83"
+    },
+    {
+      "id": "cvm175-seq-0084",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "seq 84"
+    },
+    {
+      "id": "cvm175-seq-0085",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 85"
+    },
+    {
+      "id": "cvm175-seq-0086",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 86"
+    },
+    {
+      "id": "cvm175-seq-0087",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 87"
+    },
+    {
+      "id": "cvm175-seq-0088",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 88"
+    },
+    {
+      "id": "cvm175-seq-0089",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 89"
+    },
+    {
+      "id": "cvm175-seq-0090",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 90"
+    },
+    {
+      "id": "cvm175-seq-0091",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 91"
+    },
+    {
+      "id": "cvm175-seq-0092",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 92"
+    },
+    {
+      "id": "cvm175-seq-0093",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 93"
+    },
+    {
+      "id": "cvm175-seq-0094",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 94"
+    },
+    {
+      "id": "cvm175-seq-0095",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 95"
+    },
+    {
+      "id": "cvm175-seq-0096",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 96"
+    },
+    {
+      "id": "cvm175-seq-0097",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 97"
+    },
+    {
+      "id": "cvm175-seq-0098",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 98"
+    },
+    {
+      "id": "cvm175-seq-0099",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 99"
+    },
+    {
+      "id": "cvm175-seq-0100",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 100"
+    },
+    {
+      "id": "cvm175-seq-0101",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 101"
+    },
+    {
+      "id": "cvm175-seq-0102",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 102"
+    },
+    {
+      "id": "cvm175-seq-0103",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 103"
+    },
+    {
+      "id": "cvm175-seq-0104",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 104"
+    },
+    {
+      "id": "cvm175-seq-0105",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 105"
+    },
+    {
+      "id": "cvm175-seq-0106",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 106"
+    },
+    {
+      "id": "cvm175-seq-0107",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 107"
+    },
+    {
+      "id": "cvm175-seq-0108",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 108"
+    },
+    {
+      "id": "cvm175-seq-0109",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 109"
+    },
+    {
+      "id": "cvm175-seq-0110",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 110"
+    },
+    {
+      "id": "cvm175-seq-0111",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 111"
+    },
+    {
+      "id": "cvm175-seq-0112",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 112"
+    },
+    {
+      "id": "cvm175-seq-0113",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 113"
+    },
+    {
+      "id": "cvm175-seq-0114",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 114"
+    },
+    {
+      "id": "cvm175-seq-0115",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 115"
+    },
+    {
+      "id": "cvm175-seq-0116",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 116"
+    },
+    {
+      "id": "cvm175-seq-0117",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 117"
+    },
+    {
+      "id": "cvm175-seq-0118",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 118"
+    },
+    {
+      "id": "cvm175-seq-0119",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 119"
+    },
+    {
+      "id": "cvm175-seq-0120",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 120"
+    },
+    {
+      "id": "cvm175-seq-0121",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 121"
+    },
+    {
+      "id": "cvm175-seq-0122",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 122"
+    },
+    {
+      "id": "cvm175-seq-0123",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 123"
+    },
+    {
+      "id": "cvm175-seq-0124",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 124"
+    },
+    {
+      "id": "cvm175-seq-0125",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 125"
+    },
+    {
+      "id": "cvm175-seq-0126",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 126"
+    },
+    {
+      "id": "cvm175-seq-0127",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 127"
+    },
+    {
+      "id": "cvm175-seq-0128",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 128"
+    },
+    {
+      "id": "cvm175-seq-0129",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 129"
+    },
+    {
+      "id": "cvm175-seq-0130",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 130"
+    },
+    {
+      "id": "cvm175-seq-0131",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "seq 131"
+    },
+    {
+      "id": "cvm175-seq-0132",
+      "tipo": "qa",
+      "oficio_key": "OC-7-2023-SSE",
+      "label": "seq 132"
+    },
+    {
+      "id": "cvm175-seq-0133",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 133"
+    },
+    {
+      "id": "cvm175-seq-0134",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 134"
+    },
+    {
+      "id": "cvm175-seq-0135",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 135"
+    },
+    {
+      "id": "cvm175-seq-0136",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 136"
+    },
+    {
+      "id": "cvm175-seq-0137",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 137"
+    },
+    {
+      "id": "cvm175-seq-0138",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 138"
+    },
+    {
+      "id": "cvm175-seq-0139",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 139"
+    },
+    {
+      "id": "cvm175-seq-0140",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 140"
+    },
+    {
+      "id": "cvm175-seq-0141",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 141"
+    },
+    {
+      "id": "cvm175-seq-0142",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 142"
+    },
+    {
+      "id": "cvm175-seq-0143",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 143"
+    },
+    {
+      "id": "cvm175-seq-0144",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 144"
+    },
+    {
+      "id": "cvm175-seq-0145",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 145"
+    },
+    {
+      "id": "cvm175-seq-0146",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 146"
+    },
+    {
+      "id": "cvm175-seq-0147",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 147"
+    },
+    {
+      "id": "cvm175-seq-0148",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 148"
+    },
+    {
+      "id": "cvm175-seq-0149",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 149"
+    },
+    {
+      "id": "cvm175-seq-0150",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 150"
+    },
+    {
+      "id": "cvm175-seq-0151",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 151"
+    },
+    {
+      "id": "cvm175-seq-0152",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "seq 152"
+    },
+    {
+      "id": "cvm175-seq-0153",
+      "tipo": "qa",
+      "oficio_key": "OC-8-2023-SSE",
+      "label": "seq 153"
+    },
+    {
+      "id": "cvm175-seq-0154",
+      "tipo": "qa",
+      "oficio_key": "OC-8-2023-SSE",
+      "label": "seq 154"
+    },
+    {
+      "id": "cvm175-seq-0155",
+      "tipo": "qa",
+      "oficio_key": "OC-8-2023-SSE",
+      "label": "seq 155"
+    },
+    {
+      "id": "cvm175-seq-0156",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2023-SIN",
+      "label": "seq 156"
+    },
+    {
+      "id": "cvm175-seq-0157",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2023-SIN",
+      "label": "seq 157"
+    },
+    {
+      "id": "cvm175-seq-0158",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2023-SIN",
+      "label": "seq 158"
+    },
+    {
+      "id": "cvm175-seq-0159",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2023-SIN",
+      "label": "seq 159"
+    },
+    {
+      "id": "cvm175-seq-0160",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2023-SIN",
+      "label": "seq 160"
+    },
+    {
+      "id": "cvm175-seq-0161",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2023-SIN",
+      "label": "seq 161"
+    },
+    {
+      "id": "cvm175-seq-0162",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2023-SIN",
+      "label": "seq 162"
+    },
+    {
+      "id": "cvm175-seq-0163",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2023-SIN",
+      "label": "seq 163"
+    },
+    {
+      "id": "cvm175-seq-0164",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2023-SIN",
+      "label": "seq 164"
+    },
+    {
+      "id": "cvm175-seq-0165",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2023-SIN",
+      "label": "seq 165"
+    },
+    {
+      "id": "cvm175-seq-0166",
+      "tipo": "qa",
+      "oficio_key": "OCC-3-2023-SIN-SSE",
+      "label": "seq 166"
+    },
+    {
+      "id": "cvm175-seq-0167",
+      "tipo": "qa",
+      "oficio_key": "OC-7-2023-SIN",
+      "label": "seq 167"
+    },
+    {
+      "id": "cvm175-seq-0168",
+      "tipo": "qa",
+      "oficio_key": "OC-7-2023-SIN",
+      "label": "seq 168"
+    },
+    {
+      "id": "cvm175-seq-0169",
+      "tipo": "qa",
+      "oficio_key": "OC-8-2023-SIN",
+      "label": "seq 169"
+    },
+    {
+      "id": "cvm175-seq-0170",
+      "tipo": "qa",
+      "oficio_key": "OC-10-2023-SIN",
+      "label": "seq 170"
+    },
+    {
+      "id": "cvm175-seq-0171",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2024-SSE",
+      "label": "seq 171"
+    },
+    {
+      "id": "cvm175-seq-0172",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SSE",
+      "label": "seq 172"
+    },
+    {
+      "id": "cvm175-seq-0173",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SSE",
+      "label": "seq 173"
+    },
+    {
+      "id": "cvm175-seq-0174",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2024-SSE-SNC",
+      "label": "seq 174"
+    },
+    {
+      "id": "cvm175-seq-0175",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2024-SSE-SNC",
+      "label": "seq 175"
+    },
+    {
+      "id": "cvm175-seq-0176",
+      "tipo": "qa",
+      "oficio_key": "OC-3-2024-SSE",
+      "label": "seq 176"
+    },
+    {
+      "id": "cvm175-seq-0177",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 177"
+    },
+    {
+      "id": "cvm175-seq-0178",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 178"
+    },
+    {
+      "id": "cvm175-seq-0179",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 179"
+    },
+    {
+      "id": "cvm175-seq-0180",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 180"
+    },
+    {
+      "id": "cvm175-seq-0181",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 181"
+    },
+    {
+      "id": "cvm175-seq-0182",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 182"
+    },
+    {
+      "id": "cvm175-seq-0183",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 183"
+    },
+    {
+      "id": "cvm175-seq-0184",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 184"
+    },
+    {
+      "id": "cvm175-seq-0185",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 185"
+    },
+    {
+      "id": "cvm175-seq-0186",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 186"
+    },
+    {
+      "id": "cvm175-seq-0187",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 187"
+    },
+    {
+      "id": "cvm175-seq-0188",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 188"
+    },
+    {
+      "id": "cvm175-seq-0189",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 189"
+    },
+    {
+      "id": "cvm175-seq-0190",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 190"
+    },
+    {
+      "id": "cvm175-seq-0191",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 191"
+    },
+    {
+      "id": "cvm175-seq-0192",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 192"
+    },
+    {
+      "id": "cvm175-seq-0193",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "seq 193"
+    },
+    {
+      "id": "cvm175-seq-0194",
+      "tipo": "qa",
+      "oficio_key": "OC-3-2024-SIN",
+      "label": "seq 194"
+    },
+    {
+      "id": "cvm175-seq-0195",
+      "tipo": "qa",
+      "oficio_key": "OC-3-2024-SIN",
+      "label": "seq 195"
+    },
+    {
+      "id": "cvm175-seq-0196",
+      "tipo": "qa",
+      "oficio_key": "OC-3-2024-SIN",
+      "label": "seq 196"
+    },
+    {
+      "id": "cvm175-seq-0197",
+      "tipo": "qa",
+      "oficio_key": "OC-3-2024-SIN",
+      "label": "seq 197"
+    },
+    {
+      "id": "cvm175-seq-0198",
+      "tipo": "qa",
+      "oficio_key": "OC-4-2024-SIN",
+      "label": "seq 198"
+    },
+    {
+      "id": "cvm175-seq-0199",
+      "tipo": "qa",
+      "oficio_key": "OC-5-2024-SIN",
+      "label": "seq 199"
+    },
+    {
+      "id": "cvm175-seq-0200",
+      "tipo": "qa",
+      "oficio_key": "OC-5-2024-SIN",
+      "label": "seq 200"
+    },
+    {
+      "id": "cvm175-seq-0201",
+      "tipo": "qa",
+      "oficio_key": "OC-5-2024-SIN",
+      "label": "seq 201"
+    },
+    {
+      "id": "cvm175-seq-0202",
+      "tipo": "qa",
+      "oficio_key": "OC-5-2024-SIN",
+      "label": "seq 202"
+    },
+    {
+      "id": "cvm175-seq-0203",
+      "tipo": "qa",
+      "oficio_key": "OC-5-2024-SIN",
+      "label": "seq 203"
+    },
+    {
+      "id": "cvm175-seq-0204",
+      "tipo": "qa",
+      "oficio_key": "OC-5-2024-SIN",
+      "label": "seq 204"
+    },
+    {
+      "id": "cvm175-seq-0205",
+      "tipo": "qa",
+      "oficio_key": "OC-5-2024-SSE",
+      "label": "seq 205"
+    },
+    {
+      "id": "cvm175-seq-0206",
+      "tipo": "qa",
+      "oficio_key": "OC-5-2024-SSE",
+      "label": "seq 206"
+    },
+    {
+      "id": "cvm175-seq-0207",
+      "tipo": "qa",
+      "oficio_key": "OC-5-2024-SSE",
+      "label": "seq 207"
+    },
+    {
+      "id": "cvm175-seq-0208",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2024-SIN",
+      "label": "seq 208"
+    },
+    {
+      "id": "cvm175-seq-0209",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2024-SIN",
+      "label": "seq 209"
+    },
+    {
+      "id": "cvm175-seq-0210",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2024-SIN",
+      "label": "seq 210"
+    },
+    {
+      "id": "cvm175-seq-0211",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2024-SIN",
+      "label": "seq 211"
+    },
+    {
+      "id": "cvm175-seq-0212",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2024-SSE",
+      "label": "seq 212"
+    },
+    {
+      "id": "cvm175-seq-0213",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2024-SSE",
+      "label": "seq 213"
+    },
+    {
+      "id": "cvm175-seq-0214",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2024-SSE",
+      "label": "seq 214"
+    },
+    {
+      "id": "cvm175-seq-0215",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2024-SSE",
+      "label": "seq 215"
+    },
+    {
+      "id": "cvm175-seq-0216",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2024-SSE",
+      "label": "seq 216"
+    },
+    {
+      "id": "cvm175-seq-0217",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2024-SSE",
+      "label": "seq 217"
+    },
+    {
+      "id": "cvm175-seq-0218",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2024-SSE",
+      "label": "seq 218"
+    },
+    {
+      "id": "cvm175-seq-0219",
+      "tipo": "qa",
+      "oficio_key": "OC-6-2024-SSE",
+      "label": "seq 219"
+    },
+    {
+      "id": "cvm175-seq-0220",
+      "tipo": "qa",
+      "oficio_key": "OC-7-2024-SIN",
+      "label": "seq 220"
+    },
+    {
+      "id": "cvm175-seq-0221",
+      "tipo": "qa",
+      "oficio_key": "OC-7-2024-SIN",
+      "label": "seq 221"
+    },
+    {
+      "id": "cvm175-seq-0222",
+      "tipo": "qa",
+      "oficio_key": "OC-7-2024-SIN",
+      "label": "seq 222"
+    },
+    {
+      "id": "cvm175-seq-0223",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2024-SIN-SSE",
+      "label": "seq 223"
+    },
+    {
+      "id": "cvm175-seq-0224",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2024-SIN-SSE",
+      "label": "seq 224"
+    },
+    {
+      "id": "cvm175-seq-0225",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2024-SIN-SSE",
+      "label": "seq 225"
+    },
+    {
+      "id": "cvm175-seq-0226",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2024-SIN-SSE",
+      "label": "seq 226"
+    },
+    {
+      "id": "cvm175-seq-0227",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2024-SIN-SSE",
+      "label": "seq 227"
+    },
+    {
+      "id": "cvm175-seq-0228",
+      "tipo": "qa",
+      "oficio_key": "OCC-2-2024-SIN-SSE",
+      "label": "seq 228"
+    },
+    {
+      "id": "cvm175-seq-0229",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2025-SIN",
+      "label": "seq 229"
+    },
+    {
+      "id": "cvm175-seq-0230",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2025-SIN",
+      "label": "seq 230"
+    },
+    {
+      "id": "cvm175-seq-0231",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2025-SIN",
+      "label": "seq 231"
+    },
+    {
+      "id": "cvm175-seq-0232",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2025-SIN",
+      "label": "seq 232"
+    },
+    {
+      "id": "cvm175-seq-0233",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2025-SIN",
+      "label": "seq 233"
+    },
+    {
+      "id": "cvm175-seq-0234",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2025-SIN",
+      "label": "seq 234"
+    },
+    {
+      "id": "cvm175-seq-0235",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2025-SIN",
+      "label": "seq 235"
+    },
+    {
+      "id": "cvm175-seq-0236",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2025-SIN",
+      "label": "seq 236"
+    },
+    {
+      "id": "cvm175-seq-0237",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2025-SIN",
+      "label": "seq 237"
+    },
+    {
+      "id": "cvm175-seq-0238",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2025-SIN",
+      "label": "seq 238"
+    },
+    {
+      "id": "cvm175-seq-0239",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 239"
+    },
+    {
+      "id": "cvm175-seq-0240",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 240"
+    },
+    {
+      "id": "cvm175-seq-0241",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 241"
+    },
+    {
+      "id": "cvm175-seq-0242",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 242"
+    },
+    {
+      "id": "cvm175-seq-0243",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 243"
+    },
+    {
+      "id": "cvm175-seq-0244",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 244"
+    },
+    {
+      "id": "cvm175-seq-0245",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 245"
+    },
+    {
+      "id": "cvm175-seq-0246",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 246"
+    },
+    {
+      "id": "cvm175-seq-0247",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 247"
+    },
+    {
+      "id": "cvm175-seq-0248",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 248"
+    },
+    {
+      "id": "cvm175-seq-0249",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 249"
+    },
+    {
+      "id": "cvm175-seq-0250",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 250"
+    },
+    {
+      "id": "cvm175-seq-0251",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 251"
+    },
+    {
+      "id": "cvm175-seq-0252",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 252"
+    },
+    {
+      "id": "cvm175-seq-0253",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 253"
+    },
+    {
+      "id": "cvm175-seq-0254",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 254"
+    },
+    {
+      "id": "cvm175-seq-0255",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 255"
+    },
+    {
+      "id": "cvm175-seq-0256",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 256"
+    },
+    {
+      "id": "cvm175-seq-0257",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 257"
+    },
+    {
+      "id": "cvm175-seq-0258",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 258"
+    },
+    {
+      "id": "cvm175-seq-0259",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 259"
+    },
+    {
+      "id": "cvm175-seq-0260",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 260"
+    },
+    {
+      "id": "cvm175-seq-0261",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 261"
+    },
+    {
+      "id": "cvm175-seq-0262",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 262"
+    },
+    {
+      "id": "cvm175-seq-0263",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "seq 263"
+    },
+    {
+      "id": "cvm175-seq-0264",
+      "tipo": "qa",
+      "oficio_key": "OC-15-2024-CVM-SSE",
+      "label": "seq 264"
+    },
+    {
+      "id": "cvm175-seq-0265",
+      "tipo": "qa",
+      "oficio_key": "OC-15-2024-CVM-SSE",
+      "label": "seq 265"
+    },
+    {
+      "id": "cvm175-seq-0266",
+      "tipo": "qa",
+      "oficio_key": "OC-3-2025-CVM-SSE",
+      "label": "seq 266"
+    },
+    {
+      "id": "cvm175-seq-0267",
+      "tipo": "qa",
+      "oficio_key": "OC-3-2025-CVM-SSE",
+      "label": "seq 267"
+    },
+    {
+      "id": "cvm175-seq-0268",
+      "tipo": "qa",
+      "oficio_key": "OC-2-2025-CVM-SSE",
+      "label": "seq 268"
+    },
+    {
+      "id": "cvm175-seq-0269",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-CVM-SSE",
+      "label": "seq 269"
+    },
+    {
+      "id": "cvm175-seq-0270",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-CVM-SSE",
+      "label": "seq 270"
+    },
+    {
+      "id": "cvm175-seq-0271",
+      "tipo": "qa",
+      "oficio_key": "OC-1-2025-CVM-SSE",
+      "label": "seq 271"
+    },
+    {
+      "id": "oficio:OC-1-2023-CVM-SIN-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-1-2023-CVM-SIN-SSE",
+      "label": "Ofício-Circular 01/2023/CVM/SIN/SSE",
+      "no_base": false
+    },
+    {
+      "id": "oficio:OC-1-2023-CVM-SIN-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-1-2023-CVM-SIN-SSE",
+      "label": "Ofício-Circular Nº 1/2023/CVM/SIN/SSE",
+      "no_base": false
+    },
+    {
+      "id": "oficio:OC-1-2023-SIN-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-1-2023-SIN-SSE",
+      "label": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-1-2024-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-1-2024-SSE",
+      "label": "Ofício-Circular nº 1/2024/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-1-2024-SSE-SNC",
+      "tipo": "oficio",
+      "oficio_key": "OC-1-2024-SSE-SNC",
+      "label": "Ofício-Circular nº 1/2024/SSE/SNC",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-1-2025-CVM-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-1-2025-CVM-SSE",
+      "label": "Ofício-Circular nº 1/2025/CVM/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-1-2025-CVM-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-1-2025-CVM-SSE",
+      "label": "Ofício-Circular nº1/2025/CVM/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-1-2025-SIN-SNC-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "label": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-10-2023-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-10-2023-SIN",
+      "label": "Ofício-Circular nº 10/2023/SIN",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-15-2024-CVM-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-15-2024-CVM-SSE",
+      "label": "Ofício nº 15/2024/CVM/SSE/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-2-2023-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-2-2023-SIN",
+      "label": "Ofício-Circular nº 2/2023/SIN",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-2-2024-CVM-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-2-2024-CVM-SIN",
+      "label": "Ofício-Circular nº 2/2024/CVM/SIN",
+      "no_base": false
+    },
+    {
+      "id": "oficio:OC-2-2024-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-2-2024-SIN",
+      "label": "Ofício-Circular nº 2/2024/SIN",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-2-2024-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-2-2024-SSE",
+      "label": "Ofício-Circular nº 2/2024/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-2-2025-CVM-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-2-2025-CVM-SSE",
+      "label": "Ofício-Circular nº 2/2025/CVM/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-2-2025-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-2-2025-SIN",
+      "label": "Ofício-Circular nº 2/2025/SIN",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-3-2024-CVM-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-3-2024-CVM-SIN",
+      "label": "Ofício-Circular nº 3/2024/CVM/SIN",
+      "no_base": false
+    },
+    {
+      "id": "oficio:OC-3-2024-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-3-2024-SIN",
+      "label": "Ofício-Circular nº 3/2024/SIN",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-3-2024-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-3-2024-SSE",
+      "label": "Ofício-Circular nº 3/2024/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-3-2025-CVM-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-3-2025-CVM-SSE",
+      "label": "Ofício-Circular nº 3/2025/CVM/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-4-2024-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-4-2024-SIN",
+      "label": "Ofício-Circular nº 4/2024/SIN",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-5-2024-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-5-2024-SIN",
+      "label": "Ofício-Circular nº 5/2024/SIN",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-5-2024-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-5-2024-SSE",
+      "label": "Ofício-Circular nº 5/2024/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-6-2023-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-6-2023-SIN",
+      "label": "Ofício-Circular nº 6/2023/SIN",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-6-2024-CVM-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-6-2024-CVM-SIN",
+      "label": "Ofício-Circular nº 6/2024/CVM/SIN",
+      "no_base": false
+    },
+    {
+      "id": "oficio:OC-6-2024-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-6-2024-SIN",
+      "label": "Ofício-Circular nº 6/2024/SIN",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-6-2024-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-6-2024-SSE",
+      "label": "Ofício-Circular nº 6/2024/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-7-2023-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-7-2023-SIN",
+      "label": "Ofício-Circular nº 7/2023/SIN",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-7-2023-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-7-2023-SSE",
+      "label": "Ofício-Circular nº 7/2023/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-7-2024-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-7-2024-SIN",
+      "label": "Ofício-Circular nº 7/2024/SIN",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-8-2023-CVM-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-8-2023-CVM-SSE",
+      "label": "Ofício-Circular nº 8/2023/CVM/SSE",
+      "no_base": false
+    },
+    {
+      "id": "oficio:OC-8-2023-SIN",
+      "tipo": "oficio",
+      "oficio_key": "OC-8-2023-SIN",
+      "label": "Ofício-Circular nº 8/2023/SIN",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OC-8-2023-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OC-8-2023-SSE",
+      "label": "Ofício-Circular nº 8/2023/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OCC-1-2023-CVM-SIN-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OCC-1-2023-CVM-SIN-SSE",
+      "label": "Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE",
+      "no_base": false
+    },
+    {
+      "id": "oficio:OCC-1-2023-SIN-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OCC-1-2023-SIN-SSE",
+      "label": "Oficio-Circular-Conjunto nº 1/2023/SIN/SSE",
+      "no_base": false
+    },
+    {
+      "id": "oficio:OCC-2-2023-CVM-SIN-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OCC-2-2023-CVM-SIN-SSE",
+      "label": "Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE",
+      "no_base": false
+    },
+    {
+      "id": "oficio:OCC-2-2023-SIN-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OCC-2-2023-SIN-SSE",
+      "label": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OCC-2-2024-SIN-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OCC-2-2024-SIN-SSE",
+      "label": "Ofício-Circular Conjunto nº 2/2024/SIN/SSE",
+      "no_base": true
+    },
+    {
+      "id": "oficio:OCC-3-2023-SIN-SSE",
+      "tipo": "oficio",
+      "oficio_key": "OCC-3-2023-SIN-SSE",
+      "label": "Ofício-Circular Conjunto nº 03/2023/SIN/SSE",
+      "no_base": true
+    }
+  ],
+  "edges": [
+    {
+      "source_id": "cvm175-seq-0002",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "11",
+      "target_no_base": true,
+      "raw": "Item 1.5 > Pergunta 11 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0003",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OCC-2-2024-SIN-SSE",
+      "target_oficio": "Ofício-Circular Conjunto nº 2/2024/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 2 Ofício-Circular Conjunto nº 2/2024/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0004",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-2-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 2/2024/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 8 Ofício-Circular nº 2/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0004",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OCC-2-2023-CVM-SIN-SSE",
+      "target_oficio": "Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0011",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "2",
+      "target_no_base": true,
+      "raw": "Item 1.1 > Pergunta 2 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0017",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 1.22 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0024",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "29 e 30",
+      "target_no_base": true,
+      "raw": "Item 1.8. > Perguntas 29 e 30 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0024",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-7-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 7/2024/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 1 Ofício-Circular nº 7/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0026",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "59",
+      "target_no_base": true,
+      "raw": "Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0026",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "7 a 11, 16, 17, 20 a 22 e 27",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0029",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "24 e 30",
+      "target_no_base": true,
+      "raw": "Item 1.8. > Perguntas 24 e 30 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0029",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-7-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 7/2024/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 1 Ofício-Circular nº 7/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0030",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "24 e 29",
+      "target_no_base": true,
+      "raw": "Item 1.8. > Perguntas 24 e 29 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0030",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-7-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 7/2024/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 1 Ofício-Circular nº 7/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0036",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-3-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 3/2024/SIN",
+      "target_item": null,
+      "target_perguntas": "1",
+      "target_no_base": true,
+      "raw": "Item 2 > Pergunta 1 Ofício-Circular nº 3/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0036",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 36 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0059",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "26 e",
+      "target_no_base": true,
+      "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0059",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "7 a 11, 16, 17, 20 a 22 e 27",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0061",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "75",
+      "target_no_base": true,
+      "raw": "Item 1.24 > Pergunta 75 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0071",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "17",
+      "target_no_base": true,
+      "raw": "Item 1.6., Pergunta 17, Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0072",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "17",
+      "target_no_base": true,
+      "raw": "Item 1.6., Pergunta 17, Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0075",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "61",
+      "target_no_base": true,
+      "raw": "Item 1.16 > Pergunta 61 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0075",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "76",
+      "target_no_base": true,
+      "raw": "Item 1.24 > Pergunta 76 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0076",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "61",
+      "target_no_base": true,
+      "raw": "Item 1.16 > Pergunta 61 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0076",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "75",
+      "target_no_base": true,
+      "raw": "Item 1.24 > Pergunta 75 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0079",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OCC-2-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 1.4.a e b. Ofício-Circular Conjunto nº 02/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0083",
+      "source_oficio_key": "OC-1-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-6-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 6/2024/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Revogado pelo item 13 do Ofício-Circular nº 6/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0085",
+      "source_oficio_key": "OC-2-2023-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-6-2023-SIN",
+      "target_oficio": "Ofício-Circular nº 6/2023/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 1 Ofício-Circular nº 6/2023/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0096",
+      "source_oficio_key": "OC-2-2023-SIN",
+      "relacao": "complementa",
+      "target_oficio_key": "OCC-1-2023-CVM-SIN-SSE",
+      "target_oficio": "Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Complementa o Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0120",
+      "source_oficio_key": "OC-2-2023-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-2-2023-SIN",
+      "target_oficio": "Ofício-Circular nº 2/2023/SIN",
+      "target_item": null,
+      "target_perguntas": "34",
+      "target_no_base": true,
+      "raw": "Item M > Pergunta 34 Ofício-Circular nº 2/2023/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0120",
+      "source_oficio_key": "OC-2-2023-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-7-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 7/2024/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 2 - Ofício-Circular nº 7/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0125",
+      "source_oficio_key": "OC-2-2023-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-2-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 2/2024/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 13 Ofício-Circular nº 2/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0126",
+      "source_oficio_key": "OC-2-2023-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-2-2023-SIN",
+      "target_oficio": "Ofício-Circular nº 2/2023/SIN",
+      "target_item": null,
+      "target_perguntas": "28",
+      "target_no_base": true,
+      "raw": "Item J > Pergunta 28(v) Ofício-Circular nº 2/2023/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0126",
+      "source_oficio_key": "OC-2-2023-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-7-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 7/2024/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 2 - Ofício-Circular nº 7/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0129",
+      "source_oficio_key": "OC-2-2023-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-6-2023-SIN",
+      "target_oficio": "Ofício-Circular nº 6/2023/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 2 Ofício-Circular nº 6/2023/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0133",
+      "source_oficio_key": "OCC-2-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OCC-1-2023-CVM-SIN-SSE",
+      "target_oficio": "Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Item 31 do Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0133",
+      "source_oficio_key": "OCC-2-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-7-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 7/2024/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 3 Ofício-Circular nº 7/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0135",
+      "source_oficio_key": "OCC-2-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-CVM-SIN-SSE",
+      "target_oficio": "Ofício-Circular Nº 1/2023/CVM/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "item 23 do Ofício-Circular Nº 1/2023/CVM/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0136",
+      "source_oficio_key": "OCC-2-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-CVM-SIN-SSE",
+      "target_oficio": "Ofício-Circular Nº 1/2023/CVM/SIN/SSE",
+      "target_item": "23 e 31",
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "itens 23 e 31 do Ofício-Circular Nº 1/2023/CVM/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0139",
+      "source_oficio_key": "OCC-2-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "79",
+      "target_no_base": true,
+      "raw": "Item 1.26 > Pergunta 79 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0140",
+      "source_oficio_key": "OCC-2-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "79",
+      "target_no_base": true,
+      "raw": "Item 1.26 > Pergunta 79 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0152",
+      "source_oficio_key": "OCC-2-2023-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OCC-3-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular Conjunto nº 03/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Ofício-Circular Conjunto nº 03/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0153",
+      "source_oficio_key": "OC-8-2023-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-6-2024-SSE",
+      "target_oficio": "Ofício-Circular nº 6/2024/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item VIII > Pontos 32 a 35 Ofício-Circular nº 6/2024/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0156",
+      "source_oficio_key": "OC-6-2023-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-2-2023-SIN",
+      "target_oficio": "Ofício-Circular nº 2/2023/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 1 Ofício-Circular nº 2/2023/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0157",
+      "source_oficio_key": "OC-6-2023-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-2-2023-SIN",
+      "target_oficio": "Ofício-Circular nº 2/2023/SIN",
+      "target_item": null,
+      "target_perguntas": "37",
+      "target_no_base": true,
+      "raw": "Item P > Pergunta 37 Ofício-Circular nº 2/2023/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0166",
+      "source_oficio_key": "OCC-3-2023-SIN-SSE",
+      "relacao": "interpreta",
+      "target_oficio_key": "OCC-2-2023-CVM-SIN-SSE",
+      "target_oficio": "Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Interpretação complementar sobre teor do item 1.9 Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0172",
+      "source_oficio_key": "OC-2-2024-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-8-2023-CVM-SSE",
+      "target_oficio": "Ofício-Circular nº 8/2023/CVM/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Ofício-Circular nº 8/2023/CVM/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0173",
+      "source_oficio_key": "OC-2-2024-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-8-2023-CVM-SSE",
+      "target_oficio": "Ofício-Circular nº 8/2023/CVM/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Ofício-Circular nº 8/2023/CVM/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0184",
+      "source_oficio_key": "OC-2-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OCC-1-2023-CVM-SIN-SSE",
+      "target_oficio": "Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Retificando o item 11 do Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0186",
+      "source_oficio_key": "OC-2-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OCC-2-2023-CVM-SIN-SSE",
+      "target_oficio": "Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0186",
+      "source_oficio_key": "OC-2-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OCC-1-2023-SIN-SSE",
+      "target_oficio": "Oficio-Circular-Conjunto nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Item 4 Oficio-Circular-Conjunto nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0191",
+      "source_oficio_key": "OC-2-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-2-2023-SIN",
+      "target_oficio": "Ofício-Circular nº 2/2023/SIN",
+      "target_item": null,
+      "target_perguntas": "33",
+      "target_no_base": true,
+      "raw": "Item L > Pergunta 33 Ofício-Circular nº 2/2023/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0192",
+      "source_oficio_key": "OC-2-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OCC-1-2023-CVM-SIN-SSE",
+      "target_oficio": "Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Retifica o item 2 do Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0194",
+      "source_oficio_key": "OC-3-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-6-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 6/2024/SIN",
+      "target_item": "2 a 9",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "itens 2 a 9 do Ofício-Circular nº 6/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0195",
+      "source_oficio_key": "OC-3-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-6-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 6/2024/SIN",
+      "target_item": "2 a 9",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "itens 2 a 9 do Ofício-Circular nº 6/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0196",
+      "source_oficio_key": "OC-3-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-6-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 6/2024/SIN",
+      "target_item": "2 a 9",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "itens 2 a 9 do Ofício-Circular nº 6/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0197",
+      "source_oficio_key": "OC-3-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "36",
+      "target_no_base": true,
+      "raw": "Item 1.8. > Pergunta 36 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0197",
+      "source_oficio_key": "OC-3-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-3-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 3/2024/SIN",
+      "target_item": null,
+      "target_perguntas": "1",
+      "target_no_base": true,
+      "raw": "Item 2 > Pergunta 1 Ofício-Circular nº 3/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0197",
+      "source_oficio_key": "OC-3-2024-SIN",
+      "relacao": "complementa",
+      "target_oficio_key": "OC-1-2023-CVM-SIN-SSE",
+      "target_oficio": "Ofício-Circular 01/2023/CVM/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Complementa o  item 36 do Ofício-Circular 01/2023/CVM/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0208",
+      "source_oficio_key": "OC-6-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-2-2024-CVM-SIN",
+      "target_oficio": "Ofício-Circular nº 2/2024/CVM/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Retifica o item 6 do Ofício-Circular nº 2/2024/CVM/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0209",
+      "source_oficio_key": "OC-6-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-3-2024-SIN",
+      "target_oficio": "Ofício-Circular nº 3/2024/SIN",
+      "target_item": null,
+      "target_perguntas": "1 a 3",
+      "target_no_base": true,
+      "raw": "Item 1 > Perguntas 1 a 3 Ofício-Circular nº 3/2024/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0211",
+      "source_oficio_key": "OC-6-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": null,
+      "target_oficio": null,
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Revoga item 83 do Oficio Circular Conjunto 1/23/CVM/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0219",
+      "source_oficio_key": "OC-6-2024-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-8-2023-SSE",
+      "target_oficio": "Ofício-Circular nº 8/2023/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item I Ofício-Circular nº 8/2023/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0220",
+      "source_oficio_key": "OC-7-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "29 e 30",
+      "target_no_base": true,
+      "raw": "Item 1.8. > Perguntas 29 e 30 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0222",
+      "source_oficio_key": "OC-7-2024-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OCC-2-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 1.a Ofício-Circular Conjunto nº 02/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0223",
+      "source_oficio_key": "OCC-2-2024-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-3-2024-CVM-SIN",
+      "target_oficio": "Ofício-Circular nº 3/2024/CVM/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Ofício-Circular nº 3/2024/CVM/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0223",
+      "source_oficio_key": "OCC-2-2024-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-6-2024-CVM-SIN",
+      "target_oficio": "Ofício-Circular nº 6/2024/CVM/SIN",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Ofício-Circular nº 6/2024/CVM/SIN"
+    },
+    {
+      "source_id": "cvm175-seq-0223",
+      "source_oficio_key": "OCC-2-2024-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OCC-2-2024-SIN-SSE",
+      "target_oficio": "Ofício-Circular Conjunto nº 2/2024/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item 1 Ofício-Circular Conjunto nº 2/2024/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0224",
+      "source_oficio_key": "OCC-2-2024-SIN-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "3",
+      "target_no_base": true,
+      "raw": "Item 1.1., Pergunta 3, Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0229",
+      "source_oficio_key": "OC-2-2025-SIN",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "53",
+      "target_no_base": true,
+      "raw": "Item 1.14. > Pergunta 53 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0240",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "26 e",
+      "target_no_base": true,
+      "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0240",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "7 a 11, 16, 17, 20 a 22 e 27",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0241",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "26 e",
+      "target_no_base": true,
+      "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0241",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "7 a 11, 16, 17, 20 a 22 e 27",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0242",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "26 e",
+      "target_no_base": true,
+      "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0242",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "7 a 11, 16, 17, 20 a 22 e 27",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0243",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "26 e",
+      "target_no_base": true,
+      "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0243",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "7 a 11, 16, 17, 20 a 22 e 27",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0245",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "26 e",
+      "target_no_base": true,
+      "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0245",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "7 a 11, 16, 17, 20 a 22 e 27",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0246",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "26 e",
+      "target_no_base": true,
+      "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0246",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "7 a 11, 16, 17, 20 a 22 e 27",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0249",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "26 e",
+      "target_no_base": true,
+      "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0249",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "7 a 11, 16, 17, 20 a 22 e 27",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0250",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": null,
+      "target_oficio": null,
+      "target_item": null,
+      "target_perguntas": "15, 26 e 16",
+      "target_no_base": false,
+      "raw": "Perguntas 15, 26 e 16 do Ofício Circular CVM/SIN/SSE 01/23"
+    },
+    {
+      "source_id": "cvm175-seq-0251",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "26 e",
+      "target_no_base": true,
+      "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0251",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "7 a 11, 16, 17, 20 a 22 e 27",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0254",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2023-SIN-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+      "target_item": null,
+      "target_perguntas": "26 e",
+      "target_no_base": true,
+      "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0254",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "7 a 11, 16, 17, 20 a 22 e 27",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0255",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "28 a 31, 34",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 28 a 31, 34 Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0256",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "28 a 31, 34",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 28 a 31, 34 Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0257",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": null,
+      "target_oficio": null,
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Ofício Circular CVM/SIN/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0257",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": null,
+      "target_oficio": null,
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "01/23"
+    },
+    {
+      "source_id": "cvm175-seq-0259",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "target_oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+      "target_item": "28 a 31, 34",
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Itens 28 a 31, 34 Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+    },
+    {
+      "source_id": "cvm175-seq-0263",
+      "source_oficio_key": "OC-1-2025-SIN-SNC-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": null,
+      "target_oficio": null,
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": false,
+      "raw": "Sim, Ofício Circular CVM/SIN/SSE 01/23, perguntas 61"
+    },
+    {
+      "source_id": "cvm175-seq-0266",
+      "source_oficio_key": "OC-3-2025-CVM-SSE",
+      "relacao": "referencia",
+      "target_oficio_key": "OC-1-2025-CVM-SSE",
+      "target_oficio": "Ofício-Circular nº1/2025/CVM/SSE",
+      "target_item": null,
+      "target_perguntas": null,
+      "target_no_base": true,
+      "raw": "Item I, Ofício-Circular nº1/2025/CVM/SSE"
+    }
+  ],
+  "resumo": {
+    "qa": 271,
+    "oficios_base": 29,
+    "oficios_referenciados": 23,
+    "arestas": 96
+  }
+}

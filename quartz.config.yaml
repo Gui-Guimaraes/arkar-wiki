@@ -1,0 +1,297 @@
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+configuration:
+  pageTitle: Arkar Wiki
+  pageTitleSuffix: ""
+  enableSPA: true
+  enablePopovers: true
+  analytics: null
+  locale: pt-BR
+  baseUrl: wiki.arkar.ai
+  ignorePatterns:
+    - interno
+    - _templates
+    - .obsidian
+    # NOTA: o seed trazia "**/!(*.md)" para barrar nao-MD em content/, mas na v5
+    # ignorePatterns e GLOBAL (o emitter Static tambem o aplica) e esse glob
+    # excluia TODOS os assets nao-MD (fontes, icon, og-image). A regra "sem nao-MD
+    # em content/" ja e garantida pelo guard-publicacao.py (reprova no build), entao
+    # removido aqui para nao quebrar os assets estaticos.
+  # Tema: grayscale fiel ao DS do app (arkar-system-frontend/styles/globals.css).
+  # Sem cromática na chrome. Link = cor do texto (secondary == dark) + underline
+  # persistente (aplicado em quartz/styles/custom.scss). Fontes self-hosted p/ nao
+  # depender de rede no build. Shiki github-light/github-dark.
+  theme:
+    fontOrigin: local
+    cdnCaching: true
+    typography:
+      header: Space Grotesk
+      body: Space Grotesk
+      code: JetBrains Mono
+    colors:
+      lightMode:
+        light: "#ffffff"          # gray-50   — fundo de pagina
+        lightgray: "#d9d9de"      # gray-200  — bordas, hr
+        gray: "#b8b9c1"           # gray-300  — grafo, tracos neutros
+        darkgray: "#393941"       # gray-900  — corpo
+        dark: "#18181b"           # gray-950  — titulos, icones
+        secondary: "#18181b"      # gray-950  — links (= dark; underline distingue)
+        tertiary: "#5d5e6c"       # gray-600  — hover
+        highlight: "#eeeeef"      # gray-100  — bg de link interno / realce
+        textHighlight: "#d9d9de"  # gray-200  — ==marca==
+      darkMode:
+        light: "#18181b"          # gray-950  — fundo de pagina
+        lightgray: "#4c4d58"      # gray-700  — bordas, hr
+        gray: "#737584"           # gray-500  — grafo, tracos neutros
+        darkgray: "#d9d9de"       # gray-200  — corpo
+        dark: "#eeeeef"           # gray-100  — titulos, icones
+        secondary: "#eeeeef"      # gray-100  — links (= dark; underline distingue)
+        tertiary: "#91939f"       # gray-400  — hover
+        highlight: "#393941"      # gray-900  — bg de link interno / realce
+        textHighlight: "#4c4d58"  # gray-700  — ==marca==
+plugins:
+  - source: "@quartz-community/created-modified-date"
+    enabled: true
+    options:
+      defaultDateType: modified
+      priority:
+        - frontmatter
+        - git
+        - filesystem
+    order: 10
+  - source: "@quartz-community/syntax-highlighting"
+    enabled: true
+    options:
+      theme:
+        light: github-light
+        dark: github-dark
+      keepBackground: false
+    order: 20
+  - source: "@quartz-community/obsidian-flavored-markdown"
+    enabled: true
+    options:
+      enableInHtmlEmbed: false
+      enableCheckbox: true
+    order: 30
+  - source: "@quartz-community/github-flavored-markdown"
+    enabled: true
+    order: 40
+  - source: "@quartz-community/table-of-contents"
+    enabled: true
+    order: 50
+    layout:
+      position: right
+      priority: 30
+  - source: "@quartz-community/crawl-links"
+    enabled: true
+    options:
+      markdownLinkResolution: shortest
+    order: 60
+  - source: "@quartz-community/description"
+    enabled: true
+    order: 70
+  - source: "@quartz-community/latex"
+    enabled: true
+    options:
+      renderEngine: katex
+    order: 80
+  - source: "@quartz-community/citations"
+    enabled: false
+    order: 85
+  - source: "@quartz-community/hard-line-breaks"
+    enabled: false
+    order: 90
+  - source: "@quartz-community/ox-hugo"
+    enabled: false
+    order: 91
+  - source: "@quartz-community/roam"
+    enabled: false
+    order: 92
+  # DESLIGADO de proposito. Este plugin tem defaults proprios
+  # (fontOrigin: googleFonts + Schibsted Grotesk/Source Sans Pro/IBM Plex Mono) e
+  # IGNORA configuration.theme.typography: com ele ligado o HTML ganhava um
+  # <link rel="stylesheet"> para fonts.googleapis.com pedindo as fontes ERRADAS,
+  # criando dependencia de rede e 3rd-party em runtime. As vars --headerFont/--bodyFont/
+  # --codeFont vem do core (quartz/util/theme.ts) e o @font-face self-hosted esta em
+  # quartz/styles/custom.scss, entao nada e perdido ao desligar.
+  - source: "@quartz-community/quartz-fonts"
+    enabled: false
+  - source: "@quartz-community/remove-draft"
+    enabled: true
+  - source: "@quartz-community/explicit-publish"
+    enabled: true
+  - source: "@quartz-community/alias-redirects"
+    enabled: true
+  - source: "@quartz-community/content-index"
+    enabled: true
+    options:
+      enableSiteMap: true
+      enableRSS: true
+  - source: "@quartz-community/favicon"
+    enabled: true
+  - source: "@quartz-community/og-image"
+    enabled: true
+  - source: "@quartz-community/cname"
+    enabled: true
+  - source: "@quartz-community/canvas-page"
+    enabled: true
+  - source: "@quartz-community/content-page"
+    enabled: true
+  - source: "@quartz-community/folder-page"
+    enabled: true
+  - source: "@quartz-community/tag-page"
+    enabled: true
+  - source: "@quartz-community/explorer"
+    enabled: true
+    layout:
+      position: left
+      priority: 50
+  - source: "@quartz-community/graph"
+    enabled: true
+    layout:
+      position: right
+      priority: 10
+  - source: "@quartz-community/search"
+    enabled: true
+    layout:
+      position: left
+      priority: 20
+      group: toolbar
+      groupOptions:
+        grow: true
+  - source: "@quartz-community/backlinks"
+    enabled: true
+    layout:
+      position: right
+      priority: 50
+  - source: "@quartz-community/article-title"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 10
+  - source: "@quartz-community/content-meta"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 20
+  - source: "@quartz-community/tag-list"
+    enabled: false
+    layout:
+      position: beforeBody
+      priority: 30
+  - source: "@quartz-community/page-title"
+    enabled: true
+    layout:
+      position: left
+      priority: 10
+  - source: "@quartz-community/darkmode"
+    enabled: true
+    layout:
+      position: left
+      priority: 30
+      group: toolbar
+  - source: "@quartz-community/reader-mode"
+    enabled: true
+    layout:
+      position: left
+      priority: 35
+      group: toolbar
+  - source: "@quartz-community/breadcrumbs"
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 5
+      condition: not-index
+  - source: "@quartz-community/comments"
+    enabled: false
+    options:
+      provider: giscus
+      options: {}
+    layout:
+      position: afterBody
+      priority: 10
+  # DESLIGADO: nao renderizava (<footer> ausente do HTML emitido) e as opcoes herdadas do
+  # template apontavam para o GitHub/Discord do Quartz UPSTREAM, nao da Arkar.
+  # Reavaliar depois, ja com links da Arkar.
+  # NOTA: existe uma tag literal `<undefined ctx="[object Object]" ...>` no HTML, vinda do
+  # painel direito depois do Sumario (@quartz-community/backlinks, que por isso nao aparece).
+  # Cosmetico (tag desconhecida nao renderiza nada) — deixado como esta para decisao do dono.
+  - source: "@quartz-community/footer"
+    enabled: false
+  - source: "@quartz-community/recent-notes"
+    enabled: false
+  - source: "@quartz-community/spacer"
+    enabled: true
+    options: {}
+    order: 25
+    layout:
+      position: left
+      priority: 25
+      display: mobile-only
+  - source: "@quartz-community/bases-page"
+    enabled: true
+    options: {}
+    order: 50
+  - source: "@quartz-community/note-properties"
+    enabled: true
+    options:
+      includeAll: false
+      includedProperties:
+        - description
+        - tags
+        - aliases
+      excludedProperties: []
+      hidePropertiesView: false
+      delimiters: ---
+      language: yaml
+    order: 5
+    layout:
+      position: beforeBody
+      priority: 15
+      display: all
+  - source: "@quartz-community/unlisted-pages"
+    enabled: true
+    options: {}
+    order: 45
+  - source: "@quartz-community/encrypted-pages"
+    enabled: true
+    options:
+      iterations: 600000
+      passwordField: password
+      unlistWhenEncrypted: false
+      outputPath: static/encryptedContentIndex.json
+    order: 900
+    layout:
+      position: body
+      priority: 100
+      display: all
+  - source: "@quartz-community/stacked-pages"
+    enabled: false
+    layout:
+      position: afterBody
+      priority: 50
+      display: all
+layout:
+  groups:
+    toolbar:
+      priority: 35
+      direction: row
+      gap: 0.5rem
+  byPageType:
+    "404":
+      positions:
+        beforeBody: []
+        left: []
+        right: []
+    content: {}
+    folder:
+      exclude:
+        - reader-mode
+      positions:
+        right: []
+    tag:
+      exclude:
+        - reader-mode
+      positions:
+        right: []
+    canvas: {}
+    bases: {}

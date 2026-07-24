@@ -1,0 +1,5801 @@
+[
+  {
+    "id": "cvm175-seq-0001",
+    "sequencia": 1,
+    "arquivo": "seq-001__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Adaptação",
+      "Questões cadastrais"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0002",
+    "sequencia": 2,
+    "arquivo": "seq-002__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Questões fiscais"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "11",
+        "no_base": true,
+        "raw": "Item 1.5 > Pergunta 11 Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0003",
+    "sequencia": 3,
+    "arquivo": "seq-003__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Adaptação",
+      "Questões sistêmicas"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular Conjunto nº 2/2024/SIN/SSE",
+        "oficio_key": "OCC-2-2024-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 2 Ofício-Circular Conjunto nº 2/2024/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0004",
+    "sequencia": 4,
+    "arquivo": "seq-004__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Adaptação"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 2/2024/SIN",
+        "oficio_key": "OC-2-2024-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 8 Ofício-Circular nº 2/2024/SIN"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE",
+        "oficio_key": "OCC-2-2023-CVM-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0005",
+    "sequencia": 5,
+    "arquivo": "seq-005__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Período de transição",
+      "Adaptação",
+      "Enquadramento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0006",
+    "sequencia": 6,
+    "arquivo": "seq-006__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Subclasses"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0007",
+    "sequencia": 7,
+    "arquivo": "seq-007__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Subclasses"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0008",
+    "sequencia": 8,
+    "arquivo": "seq-008__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Subclasses",
+      "Regime informacional"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0009",
+    "sequencia": 9,
+    "arquivo": "seq-009__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Enquadramento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0010",
+    "sequencia": 10,
+    "arquivo": "seq-010__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Taxas",
+      "Fundo, classe ou subclasse?",
+      "Subclasses"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0011",
+    "sequencia": 11,
+    "arquivo": "seq-011__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Questões cadastrais",
+      "Questões fiscais"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "2",
+        "no_base": true,
+        "raw": "Item 1.1 > Pergunta 2 Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0012",
+    "sequencia": 12,
+    "arquivo": "seq-012__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Questões cadastrais",
+      "Questões fiscais"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0013",
+    "sequencia": 13,
+    "arquivo": "seq-013__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Regime informacional",
+      "Comunicações à CVM",
+      "Responsabilidade de PSE"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0014",
+    "sequencia": 14,
+    "arquivo": "seq-014__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Regime informacional",
+      "Comunicações à CVM",
+      "Responsabilidade de PSE"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0015",
+    "sequencia": 15,
+    "arquivo": "seq-015__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Regime informacional",
+      "Regras contábeis"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0016",
+    "sequencia": 16,
+    "arquivo": "seq-016__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Regime informacional",
+      "Comunicações à CVM"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0017",
+    "sequencia": 17,
+    "arquivo": "seq-017__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Compartilhamento de informações entre PSE"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 1.22 Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0018",
+    "sequencia": 18,
+    "arquivo": "seq-018__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "Regime informacional",
+      "Período de transição",
+      "Fundo, classe ou subclasse?"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0019",
+    "sequencia": 19,
+    "arquivo": "seq-019__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "Regime informacional",
+      "Período de transição",
+      "Contratação de terceiros"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0020",
+    "sequencia": 20,
+    "arquivo": "seq-020__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "Regime informacional",
+      "Período de transição",
+      "Fundos fechados"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0021",
+    "sequencia": 21,
+    "arquivo": "seq-021__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Relações com distribuidores",
+      "Taxa máxima de distribuição",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0022",
+    "sequencia": 22,
+    "arquivo": "seq-022__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Reversão de rebates",
+      "Período de transição"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0023",
+    "sequencia": 23,
+    "arquivo": "seq-023__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Taxas",
+      "Taxas mínimas e máximas",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0024",
+    "sequencia": 24,
+    "arquivo": "seq-024__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Conteúdo de regulamento",
+      "Rearranjo de taxas"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "29 e 30",
+        "no_base": true,
+        "raw": "Item 1.8. > Perguntas 29 e 30 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 7/2024/SIN",
+        "oficio_key": "OC-7-2024-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 1 Ofício-Circular nº 7/2024/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0025",
+    "sequencia": 25,
+    "arquivo": "seq-025__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Taxas",
+      "Fundo, classe ou subclasse?",
+      "Encargos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0026",
+    "sequencia": 26,
+    "arquivo": "seq-026__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Período de transição",
+      "Adaptação",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "59",
+        "no_base": true,
+        "raw": "Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "7 a 11, 16, 17, 20 a 22 e 27",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0027",
+    "sequencia": 27,
+    "arquivo": "seq-027__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Contratação de terceiros"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0028",
+    "sequencia": 28,
+    "arquivo": "seq-028__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Reversão de rebates",
+      "Transações com partes relacionadas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0029",
+    "sequencia": 29,
+    "arquivo": "seq-029__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Reversão de rebates",
+      "Adaptação",
+      "Ato unilateral",
+      "Taxa de performance",
+      "Rearranjo de taxas",
+      "Fundos espelho",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "24 e 30",
+        "no_base": true,
+        "raw": "Item 1.8. > Perguntas 24 e 30 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 7/2024/SIN",
+        "oficio_key": "OC-7-2024-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 1 Ofício-Circular nº 7/2024/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0030",
+    "sequencia": 30,
+    "arquivo": "seq-030__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Reversão de rebates",
+      "Adaptação",
+      "Ato unilateral",
+      "Taxa de performance",
+      "Rearranjo de taxas",
+      "Fundos espelho",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "24 e 29",
+        "no_base": true,
+        "raw": "Item 1.8. > Perguntas 24 e 29 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 7/2024/SIN",
+        "oficio_key": "OC-7-2024-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 1 Ofício-Circular nº 7/2024/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0031",
+    "sequencia": 31,
+    "arquivo": "seq-031__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Reversão de rebates",
+      "Período de transição"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0032",
+    "sequencia": 32,
+    "arquivo": "seq-032__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Subclasses",
+      "Rearranjo de taxas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0033",
+    "sequencia": 33,
+    "arquivo": "seq-033__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Reversão de rebates"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0034",
+    "sequencia": 34,
+    "arquivo": "seq-034__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Reversão de rebates",
+      "Ato unilateral"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0035",
+    "sequencia": 35,
+    "arquivo": "seq-035__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Rearranjo de taxas",
+      "Ato unilateral"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0036",
+    "sequencia": 36,
+    "arquivo": "seq-036__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Relações com distribuidores",
+      "Rebate de taxa de performance"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 3/2024/SIN",
+        "oficio_key": "OC-3-2024-SIN",
+        "item": null,
+        "perguntas": "1",
+        "no_base": true,
+        "raw": "Item 2 > Pergunta 1 Ofício-Circular nº 3/2024/SIN"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 36 Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0037",
+    "sequencia": 37,
+    "arquivo": "seq-037__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de cotistas",
+      "Adaptação",
+      "Ato unilateral",
+      "Termo de Ciência e Assunção de Responsabilidade Ilimitada",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0038",
+    "sequencia": 38,
+    "arquivo": "seq-038__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Adaptação",
+      "Ato unilateral",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0039",
+    "sequencia": 39,
+    "arquivo": "seq-039__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Regime informacional"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0040",
+    "sequencia": 40,
+    "arquivo": "seq-040__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Contratação de terceiros",
+      "Responsabilidade de PSE"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0041",
+    "sequencia": 41,
+    "arquivo": "seq-041__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Contratação de terceiros"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0042",
+    "sequencia": 42,
+    "arquivo": "seq-042__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Contratação de terceiros"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0043",
+    "sequencia": 43,
+    "arquivo": "seq-043__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Contratação de terceiros",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0044",
+    "sequencia": 44,
+    "arquivo": "seq-044__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Contratação de terceiros",
+      "Relações com distribuidores",
+      "Adaptação"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0045",
+    "sequencia": 45,
+    "arquivo": "seq-045__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Contratação de terceiros"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0046",
+    "sequencia": 46,
+    "arquivo": "seq-046__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Contratação de terceiros",
+      "Responsabilidade de PSE"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0047",
+    "sequencia": 47,
+    "arquivo": "seq-047__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Encargos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0048",
+    "sequencia": 48,
+    "arquivo": "seq-048__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Contratação de terceiros",
+      "Encargos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0049",
+    "sequencia": 49,
+    "arquivo": "seq-049__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0050",
+    "sequencia": 50,
+    "arquivo": "seq-050__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Rearranjo de taxas",
+      "Taxa global e segregação"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0051",
+    "sequencia": 51,
+    "arquivo": "seq-051__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Relações com distribuidores",
+      "Contratação de terceiros"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0052",
+    "sequencia": 52,
+    "arquivo": "seq-052__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Integralização em ativos",
+      "Questões fiscais"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0053",
+    "sequencia": 53,
+    "arquivo": "seq-053__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Classes exclusivas",
+      "Classes restritas",
+      "Integralização em ativos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0054",
+    "sequencia": 54,
+    "arquivo": "seq-054__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "PL mínimo"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0055",
+    "sequencia": 55,
+    "arquivo": "seq-055__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Assembleias de cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0056",
+    "sequencia": 56,
+    "arquivo": "seq-056__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "PL mínimo"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0057",
+    "sequencia": 57,
+    "arquivo": "seq-057__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Comunicações à CVM",
+      "Questões cadastrais"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0058",
+    "sequencia": 58,
+    "arquivo": "seq-058__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Encargos",
+      "Taxa de registro"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0059",
+    "sequencia": 59,
+    "arquivo": "seq-059__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Período de transição",
+      "Adaptação",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "26 e",
+        "no_base": true,
+        "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "7 a 11, 16, 17, 20 a 22 e 27",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0060",
+    "sequencia": 60,
+    "arquivo": "seq-060__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Regras contábeis",
+      "Demonstrações financeiras"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0061",
+    "sequencia": 61,
+    "arquivo": "seq-061__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Regras contábeis",
+      "Demonstrações financeiras"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "75",
+        "no_base": true,
+        "raw": "Item 1.24 > Pergunta 75 Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0062",
+    "sequencia": 62,
+    "arquivo": "seq-062__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Comunicação com cotistas",
+      "Questões cadastrais"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0063",
+    "sequencia": 63,
+    "arquivo": "seq-063__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Fundos fechados"
+    ],
+    "palavras_chave": [
+      "Fundos fechados"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0064",
+    "sequencia": 64,
+    "arquivo": "seq-064__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de cotistas",
+      "Termo de adesão"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0065",
+    "sequencia": 65,
+    "arquivo": "seq-065__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Relações com distribuidores",
+      "Distribuição por conta e ordem",
+      "Contratação de terceiros",
+      "Período de transição",
+      "Adaptação"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0066",
+    "sequencia": 66,
+    "arquivo": "seq-066__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Relações com distribuidores",
+      "Contratação de terceiros"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0067",
+    "sequencia": 67,
+    "arquivo": "seq-067__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Relações com distribuidores",
+      "Distribuição por conta e ordem",
+      "Assembleias de cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0068",
+    "sequencia": 68,
+    "arquivo": "seq-068__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Relações com distribuidores",
+      "Distribuição por conta e ordem",
+      "Assembleias de cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0069",
+    "sequencia": 69,
+    "arquivo": "seq-069__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Teste de estresse",
+      "Gerenciamento de liquidez"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0070",
+    "sequencia": 70,
+    "arquivo": "seq-070__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Comunicações à CVM",
+      "Regime informacional",
+      "Responsabilidade de PSE"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0071",
+    "sequencia": 71,
+    "arquivo": "seq-071__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Compartilhamento de informações entre PSE"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "17",
+        "no_base": true,
+        "raw": "Item 1.6., Pergunta 17, Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0072",
+    "sequencia": 72,
+    "arquivo": "seq-072__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Compartilhamento de informações entre PSE"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "17",
+        "no_base": true,
+        "raw": "Item 1.6., Pergunta 17, Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0073",
+    "sequencia": 73,
+    "arquivo": "seq-073__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Responsabilidade de PSE",
+      "Transferência de administração"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0074",
+    "sequencia": 74,
+    "arquivo": "seq-074__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Responsabilidade de PSE",
+      "Transferência de administração"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0075",
+    "sequencia": 75,
+    "arquivo": "seq-075__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Regras contábeis",
+      "Demonstrações financeiras"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "61",
+        "no_base": true,
+        "raw": "Item 1.16 > Pergunta 61 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "76",
+        "no_base": true,
+        "raw": "Item 1.24 > Pergunta 76 Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0076",
+    "sequencia": 76,
+    "arquivo": "seq-076__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Regras contábeis",
+      "Demonstrações financeiras"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "61",
+        "no_base": true,
+        "raw": "Item 1.16 > Pergunta 61 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "75",
+        "no_base": true,
+        "raw": "Item 1.24 > Pergunta 75 Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0077",
+    "sequencia": 77,
+    "arquivo": "seq-077__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Assembleias de cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0078",
+    "sequencia": 78,
+    "arquivo": "seq-078__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Assembleias de cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0079",
+    "sequencia": 79,
+    "arquivo": "seq-079__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Classes exclusivas",
+      "Classes restritas"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+        "oficio_key": "OCC-2-2023-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 1.4.a e b. Ofício-Circular Conjunto nº 02/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0080",
+    "sequencia": 80,
+    "arquivo": "seq-080__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "ESG",
+      "Sufixos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0081",
+    "sequencia": 81,
+    "arquivo": "seq-081__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "ESG",
+      "Sufixos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0082",
+    "sequencia": 82,
+    "arquivo": "seq-082__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Adaptação",
+      "ESG"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0083",
+    "sequencia": 83,
+    "arquivo": "seq-083__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "ESG",
+      "Sufixos"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 6/2024/SIN",
+        "oficio_key": "OC-6-2024-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Revogado pelo item 13 do Ofício-Circular nº 6/2024/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0084",
+    "sequencia": 84,
+    "arquivo": "seq-084__oficio-circular-no-1-2023-sin-sse.md",
+    "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+    "oficio_key": "OC-1-2023-SIN-SSE",
+    "data": "2023-04-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de cotistas",
+      "Descasamento de regimes de responsabilidade"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0085",
+    "sequencia": 85,
+    "arquivo": "seq-085__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Limites de concentração",
+      "Enquadramento",
+      "Cálculo de margem",
+      "Derivativos"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 6/2023/SIN",
+        "oficio_key": "OC-6-2023-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 1 Ofício-Circular nº 6/2023/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0086",
+    "sequencia": 86,
+    "arquivo": "seq-086__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Investimentos no exterior",
+      "Cálculo de margem",
+      "Responsabilidade de PSE",
+      "Derivativos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0087",
+    "sequencia": 87,
+    "arquivo": "seq-087__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Investimentos no exterior",
+      "Responsabilidade de PSE",
+      "Cálculo de margem",
+      "Derivativos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0088",
+    "sequencia": 88,
+    "arquivo": "seq-088__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Cálculo de margem",
+      "Derivativos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0089",
+    "sequencia": 89,
+    "arquivo": "seq-089__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Cálculo de margem",
+      "Derivativos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0090",
+    "sequencia": 90,
+    "arquivo": "seq-090__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Cálculo de margem",
+      "Derivativos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0091",
+    "sequencia": 91,
+    "arquivo": "seq-091__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Cálculo de margem",
+      "Derivativos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0092",
+    "sequencia": 92,
+    "arquivo": "seq-092__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Cálculo de margem",
+      "Derivativos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0093",
+    "sequencia": 93,
+    "arquivo": "seq-093__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Cálculo de margem",
+      "Derivativos",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0094",
+    "sequencia": 94,
+    "arquivo": "seq-094__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Relações com distribuidores",
+      "Taxas",
+      "Taxa de performance",
+      "Rebate de taxa de performance"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0095",
+    "sequencia": 95,
+    "arquivo": "seq-095__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Relações com distribuidores",
+      "Taxas",
+      "Taxa de performance",
+      "Rebate de taxa de performance"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0096",
+    "sequencia": 96,
+    "arquivo": "seq-096__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Relações com distribuidores",
+      "Taxas",
+      "Taxa de performance",
+      "Rebate de taxa de performance"
+    ],
+    "vinculos": [
+      {
+        "relacao": "complementa",
+        "oficio": "Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE",
+        "oficio_key": "OCC-1-2023-CVM-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Complementa o Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0097",
+    "sequencia": 97,
+    "arquivo": "seq-097__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Comunicação com cotistas",
+      "Master-Feeders"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0098",
+    "sequencia": 98,
+    "arquivo": "seq-098__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Limites de concentração",
+      "Sufixos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0099",
+    "sequencia": 99,
+    "arquivo": "seq-099__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Enquadramento",
+      "Responsabilidade de PSE"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0100",
+    "sequencia": 100,
+    "arquivo": "seq-100__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Investimentos no exterior",
+      "Responsabilidade de PSE",
+      "Enquadramento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0101",
+    "sequencia": 101,
+    "arquivo": "seq-101__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Investimentos no exterior",
+      "Sufixos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0102",
+    "sequencia": 102,
+    "arquivo": "seq-102__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Investimentos no exterior",
+      "Cálculo de margem",
+      "Responsabilidade de PSE",
+      "Derivativos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0103",
+    "sequencia": 103,
+    "arquivo": "seq-103__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Investimentos no exterior",
+      "Limites de concentração",
+      "Responsabilidade de PSE",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0104",
+    "sequencia": 104,
+    "arquivo": "seq-104__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Investimentos no exterior",
+      "Limites de concentração",
+      "Responsabilidade de PSE",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0105",
+    "sequencia": 105,
+    "arquivo": "seq-105__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Investimentos no exterior",
+      "Limites de concentração",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0106",
+    "sequencia": 106,
+    "arquivo": "seq-106__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Limites de concentração",
+      "Enquadramento",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0107",
+    "sequencia": 107,
+    "arquivo": "seq-107__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Limites de concentração",
+      "Enquadramento",
+      "Responsabilidade de PSE",
+      "Comunicações à CVM"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0108",
+    "sequencia": 108,
+    "arquivo": "seq-108__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Limites de concentração",
+      "Enquadramento",
+      "Responsabilidade de PSE",
+      "Comunicações à CVM"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0109",
+    "sequencia": 109,
+    "arquivo": "seq-109__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Limites de concentração",
+      "Enquadramento",
+      "Responsabilidade de PSE",
+      "Comunicações à CVM"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0110",
+    "sequencia": 110,
+    "arquivo": "seq-110__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Limites de concentração",
+      "Enquadramento",
+      "Responsabilidade de PSE",
+      "Comunicações à CVM"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0111",
+    "sequencia": 111,
+    "arquivo": "seq-111__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Periodicidade de verificação"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0112",
+    "sequencia": 112,
+    "arquivo": "seq-112__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Limites de concentração",
+      "Enquadramento",
+      "Responsabilidade de PSE",
+      "Comunicações à CVM"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0113",
+    "sequencia": 113,
+    "arquivo": "seq-113__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Limites de concentração",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0114",
+    "sequencia": 114,
+    "arquivo": "seq-114__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Limites de concentração",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0115",
+    "sequencia": 115,
+    "arquivo": "seq-115__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Limites de concentração",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0116",
+    "sequencia": 116,
+    "arquivo": "seq-116__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Enquadramento",
+      "Limites de concentração",
+      "Permissões da carteira",
+      "Questões fiscais"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0117",
+    "sequencia": 117,
+    "arquivo": "seq-117__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Permissões da carteira",
+      "Gerenciamento de liquidez"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0118",
+    "sequencia": 118,
+    "arquivo": "seq-118__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Investimentos no exterior",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0119",
+    "sequencia": 119,
+    "arquivo": "seq-119__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Permissões da carteira",
+      "Gerenciamento de liquidez"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0120",
+    "sequencia": 120,
+    "arquivo": "seq-120__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Limites de concentração",
+      "Adaptação",
+      "Enquadramento",
+      "Responsabilidade de PSE"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 2/2023/SIN",
+        "oficio_key": "OC-2-2023-SIN",
+        "item": null,
+        "perguntas": "34",
+        "no_base": true,
+        "raw": "Item M > Pergunta 34 Ofício-Circular nº 2/2023/SIN"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 7/2024/SIN",
+        "oficio_key": "OC-7-2024-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 2 - Ofício-Circular nº 7/2024/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0121",
+    "sequencia": 121,
+    "arquivo": "seq-121__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0122",
+    "sequencia": 122,
+    "arquivo": "seq-122__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Contratação de terceiros",
+      "Renúncia"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0123",
+    "sequencia": 123,
+    "arquivo": "seq-123__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "ISIN",
+      "Questões cadastrais"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0124",
+    "sequencia": 124,
+    "arquivo": "seq-124__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "ISIN",
+      "Fundo, classe ou subclasse?"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0125",
+    "sequencia": 125,
+    "arquivo": "seq-125__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "ISIN"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 2/2024/SIN",
+        "oficio_key": "OC-2-2024-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 13 Ofício-Circular nº 2/2024/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0126",
+    "sequencia": 126,
+    "arquivo": "seq-126__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Enquadramento",
+      "Adaptação"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 2/2023/SIN",
+        "oficio_key": "OC-2-2023-SIN",
+        "item": null,
+        "perguntas": "28",
+        "no_base": true,
+        "raw": "Item J > Pergunta 28(v) Ofício-Circular nº 2/2023/SIN"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 7/2024/SIN",
+        "oficio_key": "OC-7-2024-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 2 - Ofício-Circular nº 7/2024/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0127",
+    "sequencia": 127,
+    "arquivo": "seq-127__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Taxa máxima de distribuição",
+      "Relações com distribuidores"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0128",
+    "sequencia": 128,
+    "arquivo": "seq-128__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Taxas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0129",
+    "sequencia": 129,
+    "arquivo": "seq-129__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Limites de concentração",
+      "Enquadramento",
+      "Criptoativos"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 6/2023/SIN",
+        "oficio_key": "OC-6-2023-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 2 Ofício-Circular nº 6/2023/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0130",
+    "sequencia": 130,
+    "arquivo": "seq-130__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Criptoativos",
+      "Responsabilidade de PSE"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0131",
+    "sequencia": 131,
+    "arquivo": "seq-131__oficio-circular-no-2-2023-sin.md",
+    "oficio": "Ofício-Circular nº 2/2023/SIN",
+    "oficio_key": "OC-2-2023-SIN",
+    "data": "2023-05-03",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Permissões da carteira",
+      "ESG"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0132",
+    "sequencia": 132,
+    "arquivo": "seq-132__oficio-circular-no-7-2023-sse.md",
+    "oficio": "Ofício-Circular nº 7/2023/SSE",
+    "oficio_key": "OC-7-2023-SSE",
+    "data": "2023-08-14",
+    "tipos_de_fundos": [
+      "FIDC"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0133",
+    "sequencia": 133,
+    "arquivo": "seq-133__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Reversão de rebates",
+      "Relações com distribuidores",
+      "Relações com alocadores",
+      "Período de transição"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE",
+        "oficio_key": "OCC-1-2023-CVM-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Item 31 do Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 7/2024/SIN",
+        "oficio_key": "OC-7-2024-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 3 Ofício-Circular nº 7/2024/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0134",
+    "sequencia": 134,
+    "arquivo": "seq-134__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Taxas",
+      "Taxa global e segregação",
+      "Relações com distribuidores",
+      "Sumário",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0135",
+    "sequencia": 135,
+    "arquivo": "seq-135__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Adaptação",
+      "Período de transição",
+      "Taxas",
+      "Classes restritas",
+      "Classes exclusivas"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular Nº 1/2023/CVM/SIN/SSE",
+        "oficio_key": "OC-1-2023-CVM-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "item 23 do Ofício-Circular Nº 1/2023/CVM/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0136",
+    "sequencia": 136,
+    "arquivo": "seq-136__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Adaptação",
+      "Período de transição",
+      "Taxas",
+      "Contratação de terceiros"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular Nº 1/2023/CVM/SIN/SSE",
+        "oficio_key": "OC-1-2023-CVM-SIN-SSE",
+        "item": "23 e 31",
+        "perguntas": null,
+        "no_base": false,
+        "raw": "itens 23 e 31 do Ofício-Circular Nº 1/2023/CVM/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0137",
+    "sequencia": 137,
+    "arquivo": "seq-137__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Relações com distribuidores",
+      "Contratação de terceiros",
+      "Distribuição por conta e ordem"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0138",
+    "sequencia": 138,
+    "arquivo": "seq-138__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Relações com distribuidores",
+      "Taxa máxima de distribuição"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0139",
+    "sequencia": 139,
+    "arquivo": "seq-139__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Classes exclusivas",
+      "Classes restritas"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "79",
+        "no_base": true,
+        "raw": "Item 1.26 > Pergunta 79 Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0140",
+    "sequencia": 140,
+    "arquivo": "seq-140__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Classes exclusivas",
+      "Classes restritas"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "79",
+        "no_base": true,
+        "raw": "Item 1.26 > Pergunta 79 Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0141",
+    "sequencia": 141,
+    "arquivo": "seq-141__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de cotistas",
+      "Termo de Ciência e Assunção de Responsabilidade Ilimitada"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0142",
+    "sequencia": 142,
+    "arquivo": "seq-142__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de cotistas",
+      "Termo de Ciência e Assunção de Responsabilidade Ilimitada"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0143",
+    "sequencia": 143,
+    "arquivo": "seq-143__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Investimentos no exterior",
+      "Responsabilidade de PSE",
+      "Contratação de terceiros",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0144",
+    "sequencia": 144,
+    "arquivo": "seq-144__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Taxa de performance"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0145",
+    "sequencia": 145,
+    "arquivo": "seq-145__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Gerenciamento de liquidez",
+      "Side pocket"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0146",
+    "sequencia": 146,
+    "arquivo": "seq-146__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Gerenciamento de liquidez",
+      "Side pocket",
+      "Assembleias de cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0147",
+    "sequencia": 147,
+    "arquivo": "seq-147__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Gerenciamento de liquidez",
+      "Side pocket",
+      "Assembleias de cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0148",
+    "sequencia": 148,
+    "arquivo": "seq-148__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Gerenciamento de liquidez",
+      "Side pocket",
+      "PL mínimo",
+      "Limites de concentração"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0149",
+    "sequencia": 149,
+    "arquivo": "seq-149__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Gerenciamento de liquidez",
+      "Side pocket",
+      "Encargos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0150",
+    "sequencia": 150,
+    "arquivo": "seq-150__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Gerenciamento de liquidez",
+      "Barreiras de resgate",
+      "Classes restritas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0151",
+    "sequencia": 151,
+    "arquivo": "seq-151__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Gerenciamento de liquidez",
+      "Barreiras de resgate",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0152",
+    "sequencia": 152,
+    "arquivo": "seq-152__oficio-circular-conjunto-no-02-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+    "oficio_key": "OCC-2-2023-SIN-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Adaptação",
+      "Período de transição"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular Conjunto nº 03/2023/SIN/SSE",
+        "oficio_key": "OCC-3-2023-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Ofício-Circular Conjunto nº 03/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0153",
+    "sequencia": 153,
+    "arquivo": "seq-153__oficio-circular-no-8-2023-sse.md",
+    "oficio": "Ofício-Circular nº 8/2023/SSE",
+    "oficio_key": "OC-8-2023-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "FIDC"
+    ],
+    "palavras_chave": [
+      "Registro de direitos creditórios"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 6/2024/SSE",
+        "oficio_key": "OC-6-2024-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item VIII > Pontos 32 a 35 Ofício-Circular nº 6/2024/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0154",
+    "sequencia": 154,
+    "arquivo": "seq-154__oficio-circular-no-8-2023-sse.md",
+    "oficio": "Ofício-Circular nº 8/2023/SSE",
+    "oficio_key": "OC-8-2023-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "FIDC"
+    ],
+    "palavras_chave": [
+      "Registro de direitos creditórios",
+      "Responsabilidade de PSE",
+      "Contratação de terceiros"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0155",
+    "sequencia": 155,
+    "arquivo": "seq-155__oficio-circular-no-8-2023-sse.md",
+    "oficio": "Ofício-Circular nº 8/2023/SSE",
+    "oficio_key": "OC-8-2023-SSE",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "FIDC"
+    ],
+    "palavras_chave": [
+      "Registro de direitos creditórios",
+      "Responsabilidade de PSE",
+      "Contratação de terceiros"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0156",
+    "sequencia": 156,
+    "arquivo": "seq-156__oficio-circular-no-6-2023-sin.md",
+    "oficio": "Ofício-Circular nº 6/2023/SIN",
+    "oficio_key": "OC-6-2023-SIN",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Limites de concentração",
+      "Enquadramento",
+      "Cálculo de margem",
+      "Derivativos"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 2/2023/SIN",
+        "oficio_key": "OC-2-2023-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 1 Ofício-Circular nº 2/2023/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0157",
+    "sequencia": 157,
+    "arquivo": "seq-157__oficio-circular-no-6-2023-sin.md",
+    "oficio": "Ofício-Circular nº 6/2023/SIN",
+    "oficio_key": "OC-6-2023-SIN",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Limites de concentração",
+      "Enquadramento",
+      "Criptoativos"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 2/2023/SIN",
+        "oficio_key": "OC-2-2023-SIN",
+        "item": null,
+        "perguntas": "37",
+        "no_base": true,
+        "raw": "Item P > Pergunta 37 Ofício-Circular nº 2/2023/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0158",
+    "sequencia": 158,
+    "arquivo": "seq-158__oficio-circular-no-6-2023-sin.md",
+    "oficio": "Ofício-Circular nº 6/2023/SIN",
+    "oficio_key": "OC-6-2023-SIN",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Previdenciário"
+    ],
+    "palavras_chave": [
+      "Aplicação do anexo XI"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0159",
+    "sequencia": 159,
+    "arquivo": "seq-159__oficio-circular-no-6-2023-sin.md",
+    "oficio": "Ofício-Circular nº 6/2023/SIN",
+    "oficio_key": "OC-6-2023-SIN",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0160",
+    "sequencia": 160,
+    "arquivo": "seq-160__oficio-circular-no-6-2023-sin.md",
+    "oficio": "Ofício-Circular nº 6/2023/SIN",
+    "oficio_key": "OC-6-2023-SIN",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0161",
+    "sequencia": 161,
+    "arquivo": "seq-161__oficio-circular-no-6-2023-sin.md",
+    "oficio": "Ofício-Circular nº 6/2023/SIN",
+    "oficio_key": "OC-6-2023-SIN",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0162",
+    "sequencia": 162,
+    "arquivo": "seq-162__oficio-circular-no-6-2023-sin.md",
+    "oficio": "Ofício-Circular nº 6/2023/SIN",
+    "oficio_key": "OC-6-2023-SIN",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Responsabilidade de PSE"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0163",
+    "sequencia": 163,
+    "arquivo": "seq-163__oficio-circular-no-6-2023-sin.md",
+    "oficio": "Ofício-Circular nº 6/2023/SIN",
+    "oficio_key": "OC-6-2023-SIN",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Assembleias de cotistas",
+      "Cálculo de participação em AGC"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0164",
+    "sequencia": 164,
+    "arquivo": "seq-164__oficio-circular-no-6-2023-sin.md",
+    "oficio": "Ofício-Circular nº 6/2023/SIN",
+    "oficio_key": "OC-6-2023-SIN",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "Fundos de índice"
+    ],
+    "palavras_chave": [
+      "Assembleias de cotistas",
+      "Cálculo de participação em AGC"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0165",
+    "sequencia": 165,
+    "arquivo": "seq-165__oficio-circular-no-6-2023-sin.md",
+    "oficio": "Ofício-Circular nº 6/2023/SIN",
+    "oficio_key": "OC-6-2023-SIN",
+    "data": "2023-09-27",
+    "tipos_de_fundos": [
+      "FMP-FGTS"
+    ],
+    "palavras_chave": [
+      "Assembleias de cotistas",
+      "Cálculo de participação em AGC"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0166",
+    "sequencia": 166,
+    "arquivo": "seq-166__oficio-circular-conjunto-no-03-2023-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 03/2023/SIN/SSE",
+    "oficio_key": "OCC-3-2023-SIN-SSE",
+    "data": "2023-10-02",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Adaptação",
+      "Período de transição"
+    ],
+    "vinculos": [
+      {
+        "relacao": "interpreta",
+        "oficio": "Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE",
+        "oficio_key": "OCC-2-2023-CVM-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Interpretação complementar sobre teor do item 1.9 Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0167",
+    "sequencia": 167,
+    "arquivo": "seq-167__oficio-circular-no-7-2023-sin.md",
+    "oficio": "Ofício-Circular nº 7/2023/SIN",
+    "oficio_key": "OC-7-2023-SIN",
+    "data": "2023-10-06",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Limites de concentração",
+      "Permissões da carteira",
+      "Cálculo de margem",
+      "Período de transição",
+      "Derivativos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0168",
+    "sequencia": 168,
+    "arquivo": "seq-168__oficio-circular-no-7-2023-sin.md",
+    "oficio": "Ofício-Circular nº 7/2023/SIN",
+    "oficio_key": "OC-7-2023-SIN",
+    "data": "2023-10-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Cálculo de margem",
+      "Período de transição",
+      "Questões sistêmicas",
+      "Regime informacional"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0169",
+    "sequencia": 169,
+    "arquivo": "seq-169__oficio-circular-no-8-2023-sin.md",
+    "oficio": "Ofício-Circular nº 8/2023/SIN",
+    "oficio_key": "OC-8-2023-SIN",
+    "data": "2023-10-13",
+    "tipos_de_fundos": [
+      "Previdenciário"
+    ],
+    "palavras_chave": [
+      "Taxa de estruturação de previdência",
+      "Encargos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0170",
+    "sequencia": 170,
+    "arquivo": "seq-170__oficio-circular-no-10-2023-sin.md",
+    "oficio": "Ofício-Circular nº 10/2023/SIN",
+    "oficio_key": "OC-10-2023-SIN",
+    "data": "2023-12-28",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Cálculo de margem",
+      "Derivativos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0171",
+    "sequencia": 171,
+    "arquivo": "seq-171__oficio-circular-no-1-2024-sse.md",
+    "oficio": "Ofício-Circular nº 1/2024/SSE",
+    "oficio_key": "OC-1-2024-SSE",
+    "data": "2024-02-22",
+    "tipos_de_fundos": [
+      "FII"
+    ],
+    "palavras_chave": [
+      "Prestação de garantias",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0172",
+    "sequencia": 172,
+    "arquivo": "seq-172__oficio-circular-no-2-2024-sse.md",
+    "oficio": "Ofício-Circular nº 2/2024/SSE",
+    "oficio_key": "OC-2-2024-SSE",
+    "data": "2024-03-28",
+    "tipos_de_fundos": [
+      "FIDC"
+    ],
+    "palavras_chave": [
+      "Registro de direitos creditórios"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 8/2023/CVM/SSE",
+        "oficio_key": "OC-8-2023-CVM-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Ofício-Circular nº 8/2023/CVM/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0173",
+    "sequencia": 173,
+    "arquivo": "seq-173__oficio-circular-no-2-2024-sse.md",
+    "oficio": "Ofício-Circular nº 2/2024/SSE",
+    "oficio_key": "OC-2-2024-SSE",
+    "data": "2024-03-28",
+    "tipos_de_fundos": [
+      "FIDC"
+    ],
+    "palavras_chave": [
+      "Integralização em ativos",
+      "Classes restritas"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 8/2023/CVM/SSE",
+        "oficio_key": "OC-8-2023-CVM-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Ofício-Circular nº 8/2023/CVM/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0174",
+    "sequencia": 174,
+    "arquivo": "seq-174__oficio-circular-no-1-2024-sse-snc.md",
+    "oficio": "Ofício-Circular nº 1/2024/SSE/SNC",
+    "oficio_key": "OC-1-2024-SSE-SNC",
+    "data": "2024-04-19",
+    "tipos_de_fundos": [
+      "FII"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "Assembleias de cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0175",
+    "sequencia": 175,
+    "arquivo": "seq-175__oficio-circular-no-1-2024-sse-snc.md",
+    "oficio": "Ofício-Circular nº 1/2024/SSE/SNC",
+    "oficio_key": "OC-1-2024-SSE-SNC",
+    "data": "2024-04-19",
+    "tipos_de_fundos": [
+      "FII"
+    ],
+    "palavras_chave": [
+      "Regras contábeis",
+      "Demonstrações financeiras",
+      "Distribuição de rendimentos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0176",
+    "sequencia": 176,
+    "arquivo": "seq-176__oficio-circular-no-3-2024-sse.md",
+    "oficio": "Ofício-Circular nº 3/2024/SSE",
+    "oficio_key": "OC-3-2024-SSE",
+    "data": "2024-05-08",
+    "tipos_de_fundos": [
+      "FIDC"
+    ],
+    "palavras_chave": [
+      "Regime informacional"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0177",
+    "sequencia": 177,
+    "arquivo": "seq-177__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Taxas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0178",
+    "sequencia": 178,
+    "arquivo": "seq-178__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Taxas mínimas e máximas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0179",
+    "sequencia": 179,
+    "arquivo": "seq-179__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Adaptação",
+      "Ato unilateral",
+      "Rearranjo de taxas",
+      "Taxas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0180",
+    "sequencia": 180,
+    "arquivo": "seq-180__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Prestação de garantias",
+      "Conteúdo de regulamento",
+      "Fundos espelho",
+      "Investimentos no exterior",
+      "Assembleias de cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0181",
+    "sequencia": 181,
+    "arquivo": "seq-181__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Prestação de garantias",
+      "Conteúdo de regulamento",
+      "Fundos espelho",
+      "Investimentos no exterior",
+      "Assembleias de cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0182",
+    "sequencia": 182,
+    "arquivo": "seq-182__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Prestação de garantias",
+      "Conteúdo de regulamento",
+      "Fundos espelho",
+      "Investimentos no exterior",
+      "Assembleias de cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0183",
+    "sequencia": 183,
+    "arquivo": "seq-183__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "PL mínimo"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0184",
+    "sequencia": 184,
+    "arquivo": "seq-184__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Questões cadastrais"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE",
+        "oficio_key": "OCC-1-2023-CVM-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Retificando o item 11 do Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0185",
+    "sequencia": 185,
+    "arquivo": "seq-185__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Regime informacional",
+      "Questões sistêmicas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0186",
+    "sequencia": 186,
+    "arquivo": "seq-186__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Adaptação",
+      "Período de transição",
+      "Comunicações à CVM"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE",
+        "oficio_key": "OCC-2-2023-CVM-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Oficio-Circular-Conjunto nº 1/2023/SIN/SSE",
+        "oficio_key": "OCC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Item 4 Oficio-Circular-Conjunto nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0187",
+    "sequencia": 187,
+    "arquivo": "seq-187__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "FI-INFRA"
+    ],
+    "palavras_chave": [
+      "Taxa de performance"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0188",
+    "sequencia": 188,
+    "arquivo": "seq-188__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Investimentos no exterior",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0189",
+    "sequencia": 189,
+    "arquivo": "seq-189__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Regime informacional",
+      "Responsabilidade de PSE",
+      "Comunicações à CVM"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0190",
+    "sequencia": 190,
+    "arquivo": "seq-190__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Comunicação com cotistas",
+      "Responsabilidade de PSE"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0191",
+    "sequencia": 191,
+    "arquivo": "seq-191__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "ISIN"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 2/2023/SIN",
+        "oficio_key": "OC-2-2023-SIN",
+        "item": null,
+        "perguntas": "33",
+        "no_base": true,
+        "raw": "Item L > Pergunta 33 Ofício-Circular nº 2/2023/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0192",
+    "sequencia": 192,
+    "arquivo": "seq-192__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "Questões fiscais",
+      "Adaptação",
+      "Criação de novas classes"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE",
+        "oficio_key": "OCC-1-2023-CVM-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Retifica o item 2 do Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0193",
+    "sequencia": 193,
+    "arquivo": "seq-193__oficio-circular-no-2-2024-sin.md",
+    "oficio": "Ofício-Circular nº 2/2024/SIN",
+    "oficio_key": "OC-2-2024-SIN",
+    "data": "2024-06-06",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Investimentos no exterior",
+      "Limites de concentração",
+      "Permissões da carteira",
+      "Cálculo de margem",
+      "Derivativos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0194",
+    "sequencia": 194,
+    "arquivo": "seq-194__oficio-circular-no-3-2024-sin.md",
+    "oficio": "Ofício-Circular nº 3/2024/SIN",
+    "oficio_key": "OC-3-2024-SIN",
+    "data": "2024-06-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Taxas",
+      "Taxa global e segregação",
+      "Relações com distribuidores",
+      "Sumário"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 6/2024/SIN",
+        "oficio_key": "OC-6-2024-SIN",
+        "item": "2 a 9",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "itens 2 a 9 do Ofício-Circular nº 6/2024/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0195",
+    "sequencia": 195,
+    "arquivo": "seq-195__oficio-circular-no-3-2024-sin.md",
+    "oficio": "Ofício-Circular nº 3/2024/SIN",
+    "oficio_key": "OC-3-2024-SIN",
+    "data": "2024-06-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Taxas",
+      "Taxa global e segregação",
+      "Relações com distribuidores",
+      "Sumário"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 6/2024/SIN",
+        "oficio_key": "OC-6-2024-SIN",
+        "item": "2 a 9",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "itens 2 a 9 do Ofício-Circular nº 6/2024/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0196",
+    "sequencia": 196,
+    "arquivo": "seq-196__oficio-circular-no-3-2024-sin.md",
+    "oficio": "Ofício-Circular nº 3/2024/SIN",
+    "oficio_key": "OC-3-2024-SIN",
+    "data": "2024-06-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Taxas",
+      "Taxa global e segregação",
+      "Relações com distribuidores",
+      "Sumário"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 6/2024/SIN",
+        "oficio_key": "OC-6-2024-SIN",
+        "item": "2 a 9",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "itens 2 a 9 do Ofício-Circular nº 6/2024/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0197",
+    "sequencia": 197,
+    "arquivo": "seq-197__oficio-circular-no-3-2024-sin.md",
+    "oficio": "Ofício-Circular nº 3/2024/SIN",
+    "oficio_key": "OC-3-2024-SIN",
+    "data": "2024-06-11",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Relações com distribuidores",
+      "Rebate de taxa de performance"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "36",
+        "no_base": true,
+        "raw": "Item 1.8. > Pergunta 36 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 3/2024/SIN",
+        "oficio_key": "OC-3-2024-SIN",
+        "item": null,
+        "perguntas": "1",
+        "no_base": true,
+        "raw": "Item 2 > Pergunta 1 Ofício-Circular nº 3/2024/SIN"
+      },
+      {
+        "relacao": "complementa",
+        "oficio": "Ofício-Circular 01/2023/CVM/SIN/SSE",
+        "oficio_key": "OC-1-2023-CVM-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Complementa o  item 36 do Ofício-Circular 01/2023/CVM/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0198",
+    "sequencia": 198,
+    "arquivo": "seq-198__oficio-circular-no-4-2024-sin.md",
+    "oficio": "Ofício-Circular nº 4/2024/SIN",
+    "oficio_key": "OC-4-2024-SIN",
+    "data": "2024-08-06",
+    "tipos_de_fundos": [
+      "Fundos de índice"
+    ],
+    "palavras_chave": [
+      "Gerenciamento de liquidez",
+      "Política de investimentos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0199",
+    "sequencia": 199,
+    "arquivo": "seq-199__oficio-circular-no-5-2024-sin.md",
+    "oficio": "Ofício-Circular nº 5/2024/SIN",
+    "oficio_key": "OC-5-2024-SIN",
+    "data": "2024-09-26",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Questões fiscais"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0200",
+    "sequencia": 200,
+    "arquivo": "seq-200__oficio-circular-no-5-2024-sin.md",
+    "oficio": "Ofício-Circular nº 5/2024/SIN",
+    "oficio_key": "OC-5-2024-SIN",
+    "data": "2024-09-26",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Regime informacional",
+      "Comunicações à CVM",
+      "Comunicação com cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0201",
+    "sequencia": 201,
+    "arquivo": "seq-201__oficio-circular-no-5-2024-sin.md",
+    "oficio": "Ofício-Circular nº 5/2024/SIN",
+    "oficio_key": "OC-5-2024-SIN",
+    "data": "2024-09-26",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Regime informacional",
+      "Comunicações à CVM",
+      "Comunicação com cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0202",
+    "sequencia": 202,
+    "arquivo": "seq-202__oficio-circular-no-5-2024-sin.md",
+    "oficio": "Ofício-Circular nº 5/2024/SIN",
+    "oficio_key": "OC-5-2024-SIN",
+    "data": "2024-09-26",
+    "tipos_de_fundos": [
+      "FI-INFRA"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Permissões da carteira",
+      "Limites de concentração"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0203",
+    "sequencia": 203,
+    "arquivo": "seq-203__oficio-circular-no-5-2024-sin.md",
+    "oficio": "Ofício-Circular nº 5/2024/SIN",
+    "oficio_key": "OC-5-2024-SIN",
+    "data": "2024-09-26",
+    "tipos_de_fundos": [
+      "Fundos de índice"
+    ],
+    "palavras_chave": [
+      "Encargos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0204",
+    "sequencia": 204,
+    "arquivo": "seq-204__oficio-circular-no-5-2024-sin.md",
+    "oficio": "Ofício-Circular nº 5/2024/SIN",
+    "oficio_key": "OC-5-2024-SIN",
+    "data": "2024-09-26",
+    "tipos_de_fundos": [
+      "Fundos de índice"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Limites de concentração",
+      "Permissões da carteira",
+      "Derivativos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0205",
+    "sequencia": 205,
+    "arquivo": "seq-205__oficio-circular-no-5-2024-sse.md",
+    "oficio": "Ofício-Circular nº 5/2024/SSE",
+    "oficio_key": "OC-5-2024-SSE",
+    "data": "2024-09-30",
+    "tipos_de_fundos": [
+      "FII",
+      "FIDC",
+      "FIAGRO"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "Regime informacional",
+      "Período de transição"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0206",
+    "sequencia": 206,
+    "arquivo": "seq-206__oficio-circular-no-5-2024-sse.md",
+    "oficio": "Ofício-Circular nº 5/2024/SSE",
+    "oficio_key": "OC-5-2024-SSE",
+    "data": "2024-09-30",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "Regime informacional"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0207",
+    "sequencia": 207,
+    "arquivo": "seq-207__oficio-circular-no-5-2024-sse.md",
+    "oficio": "Ofício-Circular nº 5/2024/SSE",
+    "oficio_key": "OC-5-2024-SSE",
+    "data": "2024-09-30",
+    "tipos_de_fundos": [
+      "FIDC"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "Regime informacional"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0208",
+    "sequencia": 208,
+    "arquivo": "seq-208__oficio-circular-no-6-2024-sin.md",
+    "oficio": "Ofício-Circular nº 6/2024/SIN",
+    "oficio_key": "OC-6-2024-SIN",
+    "data": "2024-10-15",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Subclasses",
+      "Questões sistêmicas"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 2/2024/CVM/SIN",
+        "oficio_key": "OC-2-2024-CVM-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Retifica o item 6 do Ofício-Circular nº 2/2024/CVM/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0209",
+    "sequencia": 209,
+    "arquivo": "seq-209__oficio-circular-no-6-2024-sin.md",
+    "oficio": "Ofício-Circular nº 6/2024/SIN",
+    "oficio_key": "OC-6-2024-SIN",
+    "data": "2024-10-15",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Taxas",
+      "Taxa global e segregação",
+      "Relações com distribuidores",
+      "Sumário",
+      "Taxa de estruturação de previdência",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 3/2024/SIN",
+        "oficio_key": "OC-3-2024-SIN",
+        "item": null,
+        "perguntas": "1 a 3",
+        "no_base": true,
+        "raw": "Item 1 > Perguntas 1 a 3 Ofício-Circular nº 3/2024/SIN"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0210",
+    "sequencia": 210,
+    "arquivo": "seq-210__oficio-circular-no-6-2024-sin.md",
+    "oficio": "Ofício-Circular nº 6/2024/SIN",
+    "oficio_key": "OC-6-2024-SIN",
+    "data": "2024-10-15",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "ESG"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0211",
+    "sequencia": 211,
+    "arquivo": "seq-211__oficio-circular-no-6-2024-sin.md",
+    "oficio": "Ofício-Circular nº 6/2024/SIN",
+    "oficio_key": "OC-6-2024-SIN",
+    "data": "2024-10-15",
+    "tipos_de_fundos": [
+      "ESG"
+    ],
+    "palavras_chave": [
+      "ESG"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": null,
+        "oficio_key": null,
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Revoga item 83 do Oficio Circular Conjunto 1/23/CVM/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0212",
+    "sequencia": 212,
+    "arquivo": "seq-212__oficio-circular-no-6-2024-sse.md",
+    "oficio": "Ofício-Circular nº 6/2024/SSE",
+    "oficio_key": "OC-6-2024-SSE",
+    "data": "2024-10-30",
+    "tipos_de_fundos": [
+      "FII"
+    ],
+    "palavras_chave": [
+      "Taxas",
+      "Taxa de gestão",
+      "Encargos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0213",
+    "sequencia": 213,
+    "arquivo": "seq-213__oficio-circular-no-6-2024-sse.md",
+    "oficio": "Ofício-Circular nº 6/2024/SSE",
+    "oficio_key": "OC-6-2024-SSE",
+    "data": "2024-10-30",
+    "tipos_de_fundos": [
+      "FII"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Emissão de novas cotas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0214",
+    "sequencia": 214,
+    "arquivo": "seq-214__oficio-circular-no-6-2024-sse.md",
+    "oficio": "Ofício-Circular nº 6/2024/SSE",
+    "oficio_key": "OC-6-2024-SSE",
+    "data": "2024-10-30",
+    "tipos_de_fundos": [
+      "FII"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Contratação de terceiros"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0215",
+    "sequencia": 215,
+    "arquivo": "seq-215__oficio-circular-no-6-2024-sse.md",
+    "oficio": "Ofício-Circular nº 6/2024/SSE",
+    "oficio_key": "OC-6-2024-SSE",
+    "data": "2024-10-30",
+    "tipos_de_fundos": [
+      "FII"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Política de investimentos",
+      "Enquadramento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0216",
+    "sequencia": 216,
+    "arquivo": "seq-216__oficio-circular-no-6-2024-sse.md",
+    "oficio": "Ofício-Circular nº 6/2024/SSE",
+    "oficio_key": "OC-6-2024-SSE",
+    "data": "2024-10-30",
+    "tipos_de_fundos": [
+      "FIDC"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de cotistas",
+      "Subordinação"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0217",
+    "sequencia": 217,
+    "arquivo": "seq-217__oficio-circular-no-6-2024-sse.md",
+    "oficio": "Ofício-Circular nº 6/2024/SSE",
+    "oficio_key": "OC-6-2024-SSE",
+    "data": "2024-10-30",
+    "tipos_de_fundos": [
+      "FIDC"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Limites de concentração",
+      "Permissões da carteira",
+      "Transações com partes relacionadas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0218",
+    "sequencia": 218,
+    "arquivo": "seq-218__oficio-circular-no-6-2024-sse.md",
+    "oficio": "Ofício-Circular nº 6/2024/SSE",
+    "oficio_key": "OC-6-2024-SSE",
+    "data": "2024-10-30",
+    "tipos_de_fundos": [
+      "FIDC"
+    ],
+    "palavras_chave": [
+      "Adaptação",
+      "Registro de direitos creditórios"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0219",
+    "sequencia": 219,
+    "arquivo": "seq-219__oficio-circular-no-6-2024-sse.md",
+    "oficio": "Ofício-Circular nº 6/2024/SSE",
+    "oficio_key": "OC-6-2024-SSE",
+    "data": "2024-10-30",
+    "tipos_de_fundos": [
+      "FIDC"
+    ],
+    "palavras_chave": [
+      "Registro de direitos creditórios"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 8/2023/SSE",
+        "oficio_key": "OC-8-2023-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item I Ofício-Circular nº 8/2023/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0220",
+    "sequencia": 220,
+    "arquivo": "seq-220__oficio-circular-no-7-2024-sin.md",
+    "oficio": "Ofício-Circular nº 7/2024/SIN",
+    "oficio_key": "OC-7-2024-SIN",
+    "data": "2024-11-12",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Reversão de rebates",
+      "Adaptação",
+      "Ato unilateral",
+      "Taxa de performance",
+      "Rearranjo de taxas",
+      "Fundos espelho",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "29 e 30",
+        "no_base": true,
+        "raw": "Item 1.8. > Perguntas 29 e 30 Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0221",
+    "sequencia": 221,
+    "arquivo": "seq-221__oficio-circular-no-7-2024-sin.md",
+    "oficio": "Ofício-Circular nº 7/2024/SIN",
+    "oficio_key": "OC-7-2024-SIN",
+    "data": "2024-11-12",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Taxas",
+      "Taxa global e segregação",
+      "Rearranjo de taxas",
+      "Adaptação",
+      "Conteúdo de regulamento",
+      "Período de transição"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0222",
+    "sequencia": 222,
+    "arquivo": "seq-222__oficio-circular-no-7-2024-sin.md",
+    "oficio": "Ofício-Circular nº 7/2024/SIN",
+    "oficio_key": "OC-7-2024-SIN",
+    "data": "2024-11-12",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Reversão de rebates",
+      "Relações com distribuidores",
+      "Relações com alocadores",
+      "Período de transição"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular Conjunto nº 02/2023/SIN/SSE",
+        "oficio_key": "OCC-2-2023-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 1.a Ofício-Circular Conjunto nº 02/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0223",
+    "sequencia": 223,
+    "arquivo": "seq-223__oficio-circular-conjunto-no-2-2024-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 2/2024/SIN/SSE",
+    "oficio_key": "OCC-2-2024-SIN-SSE",
+    "data": "2024-12-13",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Relações com distribuidores",
+      "Distribuição pelo gestor",
+      "Taxa máxima de distribuição",
+      "Questões fiscais"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 3/2024/CVM/SIN",
+        "oficio_key": "OC-3-2024-CVM-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Ofício-Circular nº 3/2024/CVM/SIN"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 6/2024/CVM/SIN",
+        "oficio_key": "OC-6-2024-CVM-SIN",
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Ofício-Circular nº 6/2024/CVM/SIN"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular Conjunto nº 2/2024/SIN/SSE",
+        "oficio_key": "OCC-2-2024-SIN-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item 1 Ofício-Circular Conjunto nº 2/2024/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0224",
+    "sequencia": 224,
+    "arquivo": "seq-224__oficio-circular-conjunto-no-2-2024-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 2/2024/SIN/SSE",
+    "oficio_key": "OCC-2-2024-SIN-SSE",
+    "data": "2024-12-13",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Ato unilateral",
+      "Adaptação",
+      "Transformação de fundos"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "3",
+        "no_base": true,
+        "raw": "Item 1.1., Pergunta 3, Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0225",
+    "sequencia": 225,
+    "arquivo": "seq-225__oficio-circular-conjunto-no-2-2024-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 2/2024/SIN/SSE",
+    "oficio_key": "OCC-2-2024-SIN-SSE",
+    "data": "2024-12-13",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Adaptação",
+      "Ato unilateral",
+      "Criação de novas classes",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0226",
+    "sequencia": 226,
+    "arquivo": "seq-226__oficio-circular-conjunto-no-2-2024-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 2/2024/SIN/SSE",
+    "oficio_key": "OCC-2-2024-SIN-SSE",
+    "data": "2024-12-13",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Adaptação",
+      "Ato unilateral",
+      "Criação de novas classes",
+      "Conteúdo de regulamento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0227",
+    "sequencia": 227,
+    "arquivo": "seq-227__oficio-circular-conjunto-no-2-2024-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 2/2024/SIN/SSE",
+    "oficio_key": "OCC-2-2024-SIN-SSE",
+    "data": "2024-12-13",
+    "tipos_de_fundos": [
+      "FIF"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Limites de concentração",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0228",
+    "sequencia": 228,
+    "arquivo": "seq-228__oficio-circular-conjunto-no-2-2024-sin-sse.md",
+    "oficio": "Ofício-Circular Conjunto nº 2/2024/SIN/SSE",
+    "oficio_key": "OCC-2-2024-SIN-SSE",
+    "data": "2024-12-13",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "Regime informacional",
+      "Período de transição",
+      "Transformação de fundos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0229",
+    "sequencia": 229,
+    "arquivo": "seq-229__oficio-circular-no-2-2025-sin.md",
+    "oficio": "Ofício-Circular nº 2/2025/SIN",
+    "oficio_key": "OC-2-2025-SIN",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Integralização em ativos",
+      "Classes restritas"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "53",
+        "no_base": true,
+        "raw": "Item 1.14. > Pergunta 53 Ofício-Circular nº 1/2023/SIN/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0230",
+    "sequencia": 230,
+    "arquivo": "seq-230__oficio-circular-no-2-2025-sin.md",
+    "oficio": "Ofício-Circular nº 2/2025/SIN",
+    "oficio_key": "OC-2-2025-SIN",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Enquadramento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0231",
+    "sequencia": 231,
+    "arquivo": "seq-231__oficio-circular-no-2-2025-sin.md",
+    "oficio": "Ofício-Circular nº 2/2025/SIN",
+    "oficio_key": "OC-2-2025-SIN",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Responsabilidade de PSE",
+      "Enquadramento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0232",
+    "sequencia": 232,
+    "arquivo": "seq-232__oficio-circular-no-2-2025-sin.md",
+    "oficio": "Ofício-Circular nº 2/2025/SIN",
+    "oficio_key": "OC-2-2025-SIN",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0233",
+    "sequencia": 233,
+    "arquivo": "seq-233__oficio-circular-no-2-2025-sin.md",
+    "oficio": "Ofício-Circular nº 2/2025/SIN",
+    "oficio_key": "OC-2-2025-SIN",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Enquadramento"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0234",
+    "sequencia": 234,
+    "arquivo": "seq-234__oficio-circular-no-2-2025-sin.md",
+    "oficio": "Ofício-Circular nº 2/2025/SIN",
+    "oficio_key": "OC-2-2025-SIN",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Assembleias de cotistas",
+      "Comitês"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0235",
+    "sequencia": 235,
+    "arquivo": "seq-235__oficio-circular-no-2-2025-sin.md",
+    "oficio": "Ofício-Circular nº 2/2025/SIN",
+    "oficio_key": "OC-2-2025-SIN",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Enquadramento",
+      "Permissões da carteira",
+      "Limites de concentração"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0236",
+    "sequencia": 236,
+    "arquivo": "seq-236__oficio-circular-no-2-2025-sin.md",
+    "oficio": "Ofício-Circular nº 2/2025/SIN",
+    "oficio_key": "OC-2-2025-SIN",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Enquadramento",
+      "Permissões da carteira",
+      "Limites de concentração"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0237",
+    "sequencia": 237,
+    "arquivo": "seq-237__oficio-circular-no-2-2025-sin.md",
+    "oficio": "Ofício-Circular nº 2/2025/SIN",
+    "oficio_key": "OC-2-2025-SIN",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Conteúdo de regulamento",
+      "Encargos"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0238",
+    "sequencia": 238,
+    "arquivo": "seq-238__oficio-circular-no-2-2025-sin.md",
+    "oficio": "Ofício-Circular nº 2/2025/SIN",
+    "oficio_key": "OC-2-2025-SIN",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0239",
+    "sequencia": 239,
+    "arquivo": "seq-239__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Fundo, classe ou subclasse?"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0240",
+    "sequencia": 240,
+    "arquivo": "seq-240__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Período de transição",
+      "Adaptação",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "26 e",
+        "no_base": true,
+        "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "7 a 11, 16, 17, 20 a 22 e 27",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0241",
+    "sequencia": 241,
+    "arquivo": "seq-241__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Período de transição",
+      "Adaptação",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "26 e",
+        "no_base": true,
+        "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "7 a 11, 16, 17, 20 a 22 e 27",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0242",
+    "sequencia": 242,
+    "arquivo": "seq-242__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Período de transição",
+      "Adaptação",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "26 e",
+        "no_base": true,
+        "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "7 a 11, 16, 17, 20 a 22 e 27",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0243",
+    "sequencia": 243,
+    "arquivo": "seq-243__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Período de transição",
+      "Adaptação",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "26 e",
+        "no_base": true,
+        "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "7 a 11, 16, 17, 20 a 22 e 27",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0244",
+    "sequencia": 244,
+    "arquivo": "seq-244__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Taxa de fiscalização"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0245",
+    "sequencia": 245,
+    "arquivo": "seq-245__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Período de transição",
+      "Adaptação",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "26 e",
+        "no_base": true,
+        "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "7 a 11, 16, 17, 20 a 22 e 27",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0246",
+    "sequencia": 246,
+    "arquivo": "seq-246__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Período de transição",
+      "Adaptação",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "26 e",
+        "no_base": true,
+        "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "7 a 11, 16, 17, 20 a 22 e 27",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0247",
+    "sequencia": 247,
+    "arquivo": "seq-247__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Comparabilidade de DFs"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0248",
+    "sequencia": 248,
+    "arquivo": "seq-248__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "FIF",
+      "FIP"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "Regras contábeis",
+      "Regime informacional",
+      "Demonstrações financeiras"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0249",
+    "sequencia": 249,
+    "arquivo": "seq-249__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Período de transição",
+      "Adaptação",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "26 e",
+        "no_base": true,
+        "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "7 a 11, 16, 17, 20 a 22 e 27",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0250",
+    "sequencia": 250,
+    "arquivo": "seq-250__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Período de transição",
+      "Adaptação",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": null,
+        "oficio_key": null,
+        "item": null,
+        "perguntas": "15, 26 e 16",
+        "no_base": false,
+        "raw": "Perguntas 15, 26 e 16 do Ofício Circular CVM/SIN/SSE 01/23"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0251",
+    "sequencia": 251,
+    "arquivo": "seq-251__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Período de transição",
+      "Adaptação",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "26 e",
+        "no_base": true,
+        "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "7 a 11, 16, 17, 20 a 22 e 27",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0252",
+    "sequencia": 252,
+    "arquivo": "seq-252__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "Regras contábeis",
+      "Regime informacional"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0253",
+    "sequencia": 253,
+    "arquivo": "seq-253__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Comparabilidade de DFs",
+      "Master-Feeders"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0254",
+    "sequencia": 254,
+    "arquivo": "seq-254__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Período de transição",
+      "Adaptação",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2023/SIN/SSE",
+        "oficio_key": "OC-1-2023-SIN-SSE",
+        "item": null,
+        "perguntas": "26 e",
+        "no_base": true,
+        "raw": "Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "7 a 11, 16, 17, 20 a 22 e 27",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0255",
+    "sequencia": 255,
+    "arquivo": "seq-255__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "28 a 31, 34",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 28 a 31, 34 Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0256",
+    "sequencia": 256,
+    "arquivo": "seq-256__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "28 a 31, 34",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 28 a 31, 34 Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0257",
+    "sequencia": 257,
+    "arquivo": "seq-257__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": null,
+        "oficio_key": null,
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Ofício Circular CVM/SIN/SSE"
+      },
+      {
+        "relacao": "referencia",
+        "oficio": null,
+        "oficio_key": null,
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "01/23"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0258",
+    "sequencia": 258,
+    "arquivo": "seq-258__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Regras contábeis",
+      "Questões sistêmicas",
+      "Fundo, classe ou subclasse?"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0259",
+    "sequencia": 259,
+    "arquivo": "seq-259__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+        "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+        "item": "28 a 31, 34",
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Itens 28 a 31, 34 Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0260",
+    "sequencia": 260,
+    "arquivo": "seq-260__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Relações com alocadores",
+      "Demonstrações financeiras",
+      "Regras contábeis"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0261",
+    "sequencia": 261,
+    "arquivo": "seq-261__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Relações com alocadores",
+      "Demonstrações financeiras",
+      "Regras contábeis"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0262",
+    "sequencia": 262,
+    "arquivo": "seq-262__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0263",
+    "sequencia": 263,
+    "arquivo": "seq-263__oficio-circular-no-1-2025-sin-snc-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/SIN/SNC/SSE",
+    "oficio_key": "OC-1-2025-SIN-SNC-SSE",
+    "data": "2025-01-23",
+    "tipos_de_fundos": [
+      "Todos os fundos"
+    ],
+    "palavras_chave": [
+      "Fundo, classe ou subclasse?",
+      "Demonstrações financeiras",
+      "Regras contábeis",
+      "Subclasses"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": null,
+        "oficio_key": null,
+        "item": null,
+        "perguntas": null,
+        "no_base": false,
+        "raw": "Sim, Ofício Circular CVM/SIN/SSE 01/23, perguntas 61"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0264",
+    "sequencia": 264,
+    "arquivo": "seq-264__oficio-no-15-2024-cvm-sse-sse.md",
+    "oficio": "Ofício nº 15/2024/CVM/SSE/SSE",
+    "oficio_key": "OC-15-2024-CVM-SSE",
+    "data": "2025-02-17",
+    "tipos_de_fundos": [
+      "FII"
+    ],
+    "palavras_chave": [
+      "Transações com partes relacionadas",
+      "Responsabilidade de PSE",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0265",
+    "sequencia": 265,
+    "arquivo": "seq-265__oficio-no-15-2024-cvm-sse-sse.md",
+    "oficio": "Ofício nº 15/2024/CVM/SSE/SSE",
+    "oficio_key": "OC-15-2024-CVM-SSE",
+    "data": "2025-02-17",
+    "tipos_de_fundos": [
+      "FII"
+    ],
+    "palavras_chave": [
+      "Transações com partes relacionadas",
+      "Responsabilidade de PSE",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0266",
+    "sequencia": 266,
+    "arquivo": "seq-266__oficio-circular-no-3-2025-cvm-sse.md",
+    "oficio": "Ofício-Circular nº 3/2025/CVM/SSE",
+    "oficio_key": "OC-3-2025-CVM-SSE",
+    "data": "2025-06-12",
+    "tipos_de_fundos": [
+      "FIAGRO"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Assembleias de cotistas",
+      "Permissões da carteira",
+      "Regime informacional"
+    ],
+    "vinculos": [
+      {
+        "relacao": "referencia",
+        "oficio": "Ofício-Circular nº1/2025/CVM/SSE",
+        "oficio_key": "OC-1-2025-CVM-SSE",
+        "item": null,
+        "perguntas": null,
+        "no_base": true,
+        "raw": "Item I, Ofício-Circular nº1/2025/CVM/SSE"
+      }
+    ],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0267",
+    "sequencia": 267,
+    "arquivo": "seq-267__oficio-circular-no-3-2025-cvm-sse.md",
+    "oficio": "Ofício-Circular nº 3/2025/CVM/SSE",
+    "oficio_key": "OC-3-2025-CVM-SSE",
+    "data": "2025-06-12",
+    "tipos_de_fundos": [
+      "FIAGRO"
+    ],
+    "palavras_chave": [
+      "Política de investimentos",
+      "Permissões da carteira"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0268",
+    "sequencia": 268,
+    "arquivo": "seq-268__oficio-circular-no-2-2025-cvm-sse.md",
+    "oficio": "Ofício-Circular nº 2/2025/CVM/SSE",
+    "oficio_key": "OC-2-2025-CVM-SSE",
+    "data": "2025-03-18",
+    "tipos_de_fundos": [
+      "FII"
+    ],
+    "palavras_chave": [
+      "Conteúdo de regulamento",
+      "Responsabilidade de cotistas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0269",
+    "sequencia": 269,
+    "arquivo": "seq-269__oficio-circular-no-1-2025-cvm-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/CVM/SSE",
+    "oficio_key": "OC-1-2025-CVM-SSE",
+    "data": "2025-02-27",
+    "tipos_de_fundos": [
+      "FIAGRO"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0270",
+    "sequencia": 270,
+    "arquivo": "seq-270__oficio-circular-no-1-2025-cvm-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/CVM/SSE",
+    "oficio_key": "OC-1-2025-CVM-SSE",
+    "data": "2025-02-27",
+    "tipos_de_fundos": [
+      "FIAGRO"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "Regime informacional"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  },
+  {
+    "id": "cvm175-seq-0271",
+    "sequencia": 271,
+    "arquivo": "seq-271__oficio-circular-no-1-2025-cvm-sse.md",
+    "oficio": "Ofício-Circular nº 1/2025/CVM/SSE",
+    "oficio_key": "OC-1-2025-CVM-SSE",
+    "data": "2025-02-27",
+    "tipos_de_fundos": [
+      "FIAGRO"
+    ],
+    "palavras_chave": [
+      "Questões sistêmicas",
+      "Questões cadastrais",
+      "Regime informacional",
+      "Adaptação",
+      "Período de transição"
+    ],
+    "vinculos": [],
+    "status": "rascunho"
+  }
+]

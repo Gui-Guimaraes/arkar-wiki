@@ -1,0 +1,18 @@
+---
+titulo: "Politica de revisao"
+tipo: meta
+status: stub
+tags: [meta]
+---
+
+# Politica de revisao
+
+**Fluxo de status:** `stub` -> `rascunho` -> `revisado`.
+
+Uma nota so pode receber `publish: true` quando tiver, cumulativamente:
+
+1. `status: revisado`
+2. `verificado_em` (data ISO `YYYY-MM-DD`)
+3. `fontes` preenchido (≥1 fonte oficial)
+
+O `guard-publicacao.py` reprova o build se qualquer uma faltar. Notas com `verificado_em` > 180 dias geram **aviso** (nao bloqueiam) e devem ser re-revisadas.

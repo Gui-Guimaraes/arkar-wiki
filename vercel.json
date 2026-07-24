@@ -1,0 +1,5 @@
+{
+  "buildCommand": "python3 scripts/guard-publicacao.py && npx quartz build",
+  "outputDirectory": "public",
+  "cleanUrls": true
+}

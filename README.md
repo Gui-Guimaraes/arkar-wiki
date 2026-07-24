@@ -1,15 +1,9 @@
 # arkar-wiki
 
-Cérebro regulatório para fundos de investimento brasileiros (CVM · CMN · ANBIMA).
+Cerebro regulatorio de fundos de investimento brasileiros (CVM · CMN · BACEN · RFB · ANBIMA).
 
-Uma base de conhecimento estruturada — normas, conceitos, veículos e obrigações,
-ligados entre si — que serve tanto de referência quanto de corpus para a IA da Arkar.
+- **Edicao:** Obsidian (abrir esta pasta como vault).
+- **Site:** Quartz v5 -> `wiki.arkar.ai` (Vercel). So `content/` e publicado.
+- **Repo privado.** `interno/` nunca vai ao site (tres barreiras: ExplicitPublish + ignorePatterns + guard).
 
-## Como é feito
-
-- **[Obsidian](https://obsidian.md)** — edição das notas em Markdown (o vault é esta pasta).
-- **[Quartz](https://quartz.jzhao.xyz)** — transforma as notas em site estático, publicado em `wiki.arkar.ai`.
-
-Repositório privado; só o site gerado é público.
-
-> Guia de instalação e publicação: [`SETUP.md`](SETUP.md)
+Setup completo em [SETUP.md](SETUP.md).

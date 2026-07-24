@@ -1,0 +1,97 @@
+source_id,source_oficio_key,relacao,target_oficio_key,target_oficio,target_item,target_perguntas,target_no_base,raw
+cvm175-seq-0002,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,11,True,Item 1.5 > Pergunta 11 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0003,OC-1-2023-SIN-SSE,referencia,OCC-2-2024-SIN-SSE,Ofício-Circular Conjunto nº 2/2024/SIN/SSE,,,True,Item 2 Ofício-Circular Conjunto nº 2/2024/SIN/SSE
+cvm175-seq-0004,OC-1-2023-SIN-SSE,referencia,OC-2-2024-SIN,Ofício-Circular nº 2/2024/SIN,,,True,Item 8 Ofício-Circular nº 2/2024/SIN
+cvm175-seq-0004,OC-1-2023-SIN-SSE,referencia,OCC-2-2023-CVM-SIN-SSE,Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE,,,False,Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE
+cvm175-seq-0011,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,2,True,Item 1.1 > Pergunta 2 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0017,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,,True,Item 1.22 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0024,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,29 e 30,True,Item 1.8. > Perguntas 29 e 30 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0024,OC-1-2023-SIN-SSE,referencia,OC-7-2024-SIN,Ofício-Circular nº 7/2024/SIN,,,True,Item 1 Ofício-Circular nº 7/2024/SIN
+cvm175-seq-0026,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,59,True,"Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0026,OC-1-2023-SIN-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"7 a 11, 16, 17, 20 a 22 e 27",,True,"Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0029,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,24 e 30,True,Item 1.8. > Perguntas 24 e 30 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0029,OC-1-2023-SIN-SSE,referencia,OC-7-2024-SIN,Ofício-Circular nº 7/2024/SIN,,,True,Item 1 Ofício-Circular nº 7/2024/SIN
+cvm175-seq-0030,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,24 e 29,True,Item 1.8. > Perguntas 24 e 29 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0030,OC-1-2023-SIN-SSE,referencia,OC-7-2024-SIN,Ofício-Circular nº 7/2024/SIN,,,True,Item 1 Ofício-Circular nº 7/2024/SIN
+cvm175-seq-0036,OC-1-2023-SIN-SSE,referencia,OC-3-2024-SIN,Ofício-Circular nº 3/2024/SIN,,1,True,Item 2 > Pergunta 1 Ofício-Circular nº 3/2024/SIN
+cvm175-seq-0036,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,,True,Item 36 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0059,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,26 e,True,"Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0059,OC-1-2023-SIN-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"7 a 11, 16, 17, 20 a 22 e 27",,True,"Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0061,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,75,True,Item 1.24 > Pergunta 75 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0071,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,17,True,"Item 1.6., Pergunta 17, Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0072,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,17,True,"Item 1.6., Pergunta 17, Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0075,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,61,True,Item 1.16 > Pergunta 61 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0075,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,76,True,Item 1.24 > Pergunta 76 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0076,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,61,True,Item 1.16 > Pergunta 61 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0076,OC-1-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,75,True,Item 1.24 > Pergunta 75 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0079,OC-1-2023-SIN-SSE,referencia,OCC-2-2023-SIN-SSE,Ofício-Circular Conjunto nº 02/2023/SIN/SSE,,,True,Item 1.4.a e b. Ofício-Circular Conjunto nº 02/2023/SIN/SSE
+cvm175-seq-0083,OC-1-2023-SIN-SSE,referencia,OC-6-2024-SIN,Ofício-Circular nº 6/2024/SIN,,,True,Revogado pelo item 13 do Ofício-Circular nº 6/2024/SIN
+cvm175-seq-0085,OC-2-2023-SIN,referencia,OC-6-2023-SIN,Ofício-Circular nº 6/2023/SIN,,,True,Item 1 Ofício-Circular nº 6/2023/SIN
+cvm175-seq-0096,OC-2-2023-SIN,complementa,OCC-1-2023-CVM-SIN-SSE,Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE,,,False,Complementa o Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE
+cvm175-seq-0120,OC-2-2023-SIN,referencia,OC-2-2023-SIN,Ofício-Circular nº 2/2023/SIN,,34,True,Item M > Pergunta 34 Ofício-Circular nº 2/2023/SIN
+cvm175-seq-0120,OC-2-2023-SIN,referencia,OC-7-2024-SIN,Ofício-Circular nº 7/2024/SIN,,,True,Item 2 - Ofício-Circular nº 7/2024/SIN
+cvm175-seq-0125,OC-2-2023-SIN,referencia,OC-2-2024-SIN,Ofício-Circular nº 2/2024/SIN,,,True,Item 13 Ofício-Circular nº 2/2024/SIN
+cvm175-seq-0126,OC-2-2023-SIN,referencia,OC-2-2023-SIN,Ofício-Circular nº 2/2023/SIN,,28,True,Item J > Pergunta 28(v) Ofício-Circular nº 2/2023/SIN
+cvm175-seq-0126,OC-2-2023-SIN,referencia,OC-7-2024-SIN,Ofício-Circular nº 7/2024/SIN,,,True,Item 2 - Ofício-Circular nº 7/2024/SIN
+cvm175-seq-0129,OC-2-2023-SIN,referencia,OC-6-2023-SIN,Ofício-Circular nº 6/2023/SIN,,,True,Item 2 Ofício-Circular nº 6/2023/SIN
+cvm175-seq-0133,OCC-2-2023-SIN-SSE,referencia,OCC-1-2023-CVM-SIN-SSE,Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE,,,False,Item 31 do Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE
+cvm175-seq-0133,OCC-2-2023-SIN-SSE,referencia,OC-7-2024-SIN,Ofício-Circular nº 7/2024/SIN,,,True,Item 3 Ofício-Circular nº 7/2024/SIN
+cvm175-seq-0135,OCC-2-2023-SIN-SSE,referencia,OC-1-2023-CVM-SIN-SSE,Ofício-Circular Nº 1/2023/CVM/SIN/SSE,,,False,item 23 do Ofício-Circular Nº 1/2023/CVM/SIN/SSE
+cvm175-seq-0136,OCC-2-2023-SIN-SSE,referencia,OC-1-2023-CVM-SIN-SSE,Ofício-Circular Nº 1/2023/CVM/SIN/SSE,23 e 31,,False,itens 23 e 31 do Ofício-Circular Nº 1/2023/CVM/SIN/SSE
+cvm175-seq-0139,OCC-2-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,79,True,Item 1.26 > Pergunta 79 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0140,OCC-2-2023-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,79,True,Item 1.26 > Pergunta 79 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0152,OCC-2-2023-SIN-SSE,referencia,OCC-3-2023-SIN-SSE,Ofício-Circular Conjunto nº 03/2023/SIN/SSE,,,True,Ofício-Circular Conjunto nº 03/2023/SIN/SSE
+cvm175-seq-0153,OC-8-2023-SSE,referencia,OC-6-2024-SSE,Ofício-Circular nº 6/2024/SSE,,,True,Item VIII > Pontos 32 a 35 Ofício-Circular nº 6/2024/SSE
+cvm175-seq-0156,OC-6-2023-SIN,referencia,OC-2-2023-SIN,Ofício-Circular nº 2/2023/SIN,,,True,Item 1 Ofício-Circular nº 2/2023/SIN
+cvm175-seq-0157,OC-6-2023-SIN,referencia,OC-2-2023-SIN,Ofício-Circular nº 2/2023/SIN,,37,True,Item P > Pergunta 37 Ofício-Circular nº 2/2023/SIN
+cvm175-seq-0166,OCC-3-2023-SIN-SSE,interpreta,OCC-2-2023-CVM-SIN-SSE,Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE,,,False,Interpretação complementar sobre teor do item 1.9 Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE
+cvm175-seq-0172,OC-2-2024-SSE,referencia,OC-8-2023-CVM-SSE,Ofício-Circular nº 8/2023/CVM/SSE,,,False,Ofício-Circular nº 8/2023/CVM/SSE
+cvm175-seq-0173,OC-2-2024-SSE,referencia,OC-8-2023-CVM-SSE,Ofício-Circular nº 8/2023/CVM/SSE,,,False,Ofício-Circular nº 8/2023/CVM/SSE
+cvm175-seq-0184,OC-2-2024-SIN,referencia,OCC-1-2023-CVM-SIN-SSE,Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE,,,False,Retificando o item 11 do Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE
+cvm175-seq-0186,OC-2-2024-SIN,referencia,OCC-2-2023-CVM-SIN-SSE,Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE,,,False,Ofício-Circular-Conjunto nº 2/2023/CVM/SIN/SSE
+cvm175-seq-0186,OC-2-2024-SIN,referencia,OCC-1-2023-SIN-SSE,Oficio-Circular-Conjunto nº 1/2023/SIN/SSE,,,False,Item 4 Oficio-Circular-Conjunto nº 1/2023/SIN/SSE
+cvm175-seq-0191,OC-2-2024-SIN,referencia,OC-2-2023-SIN,Ofício-Circular nº 2/2023/SIN,,33,True,Item L > Pergunta 33 Ofício-Circular nº 2/2023/SIN
+cvm175-seq-0192,OC-2-2024-SIN,referencia,OCC-1-2023-CVM-SIN-SSE,Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE,,,False,Retifica o item 2 do Ofício-Circular-Conjunto nº 1/2023/CVM/SIN/SSE
+cvm175-seq-0194,OC-3-2024-SIN,referencia,OC-6-2024-SIN,Ofício-Circular nº 6/2024/SIN,2 a 9,,True,itens 2 a 9 do Ofício-Circular nº 6/2024/SIN
+cvm175-seq-0195,OC-3-2024-SIN,referencia,OC-6-2024-SIN,Ofício-Circular nº 6/2024/SIN,2 a 9,,True,itens 2 a 9 do Ofício-Circular nº 6/2024/SIN
+cvm175-seq-0196,OC-3-2024-SIN,referencia,OC-6-2024-SIN,Ofício-Circular nº 6/2024/SIN,2 a 9,,True,itens 2 a 9 do Ofício-Circular nº 6/2024/SIN
+cvm175-seq-0197,OC-3-2024-SIN,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,36,True,Item 1.8. > Pergunta 36 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0197,OC-3-2024-SIN,referencia,OC-3-2024-SIN,Ofício-Circular nº 3/2024/SIN,,1,True,Item 2 > Pergunta 1 Ofício-Circular nº 3/2024/SIN
+cvm175-seq-0197,OC-3-2024-SIN,complementa,OC-1-2023-CVM-SIN-SSE,Ofício-Circular 01/2023/CVM/SIN/SSE,,,False,Complementa o  item 36 do Ofício-Circular 01/2023/CVM/SIN/SSE
+cvm175-seq-0208,OC-6-2024-SIN,referencia,OC-2-2024-CVM-SIN,Ofício-Circular nº 2/2024/CVM/SIN,,,False,Retifica o item 6 do Ofício-Circular nº 2/2024/CVM/SIN
+cvm175-seq-0209,OC-6-2024-SIN,referencia,OC-3-2024-SIN,Ofício-Circular nº 3/2024/SIN,,1 a 3,True,Item 1 > Perguntas 1 a 3 Ofício-Circular nº 3/2024/SIN
+cvm175-seq-0211,OC-6-2024-SIN,referencia,,,,,False,Revoga item 83 do Oficio Circular Conjunto 1/23/CVM/SIN/SSE
+cvm175-seq-0219,OC-6-2024-SSE,referencia,OC-8-2023-SSE,Ofício-Circular nº 8/2023/SSE,,,True,Item I Ofício-Circular nº 8/2023/SSE
+cvm175-seq-0220,OC-7-2024-SIN,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,29 e 30,True,Item 1.8. > Perguntas 29 e 30 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0222,OC-7-2024-SIN,referencia,OCC-2-2023-SIN-SSE,Ofício-Circular Conjunto nº 02/2023/SIN/SSE,,,True,Item 1.a Ofício-Circular Conjunto nº 02/2023/SIN/SSE
+cvm175-seq-0223,OCC-2-2024-SIN-SSE,referencia,OC-3-2024-CVM-SIN,Ofício-Circular nº 3/2024/CVM/SIN,,,False,Ofício-Circular nº 3/2024/CVM/SIN
+cvm175-seq-0223,OCC-2-2024-SIN-SSE,referencia,OC-6-2024-CVM-SIN,Ofício-Circular nº 6/2024/CVM/SIN,,,False,Ofício-Circular nº 6/2024/CVM/SIN
+cvm175-seq-0223,OCC-2-2024-SIN-SSE,referencia,OCC-2-2024-SIN-SSE,Ofício-Circular Conjunto nº 2/2024/SIN/SSE,,,True,Item 1 Ofício-Circular Conjunto nº 2/2024/SIN/SSE
+cvm175-seq-0224,OCC-2-2024-SIN-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,3,True,"Item 1.1., Pergunta 3, Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0229,OC-2-2025-SIN,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,53,True,Item 1.14. > Pergunta 53 Ofício-Circular nº 1/2023/SIN/SSE
+cvm175-seq-0240,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,26 e,True,"Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0240,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"7 a 11, 16, 17, 20 a 22 e 27",,True,"Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0241,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,26 e,True,"Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0241,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"7 a 11, 16, 17, 20 a 22 e 27",,True,"Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0242,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,26 e,True,"Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0242,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"7 a 11, 16, 17, 20 a 22 e 27",,True,"Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0243,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,26 e,True,"Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0243,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"7 a 11, 16, 17, 20 a 22 e 27",,True,"Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0245,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,26 e,True,"Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0245,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"7 a 11, 16, 17, 20 a 22 e 27",,True,"Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0246,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,26 e,True,"Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0246,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"7 a 11, 16, 17, 20 a 22 e 27",,True,"Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0249,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,26 e,True,"Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0249,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"7 a 11, 16, 17, 20 a 22 e 27",,True,"Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0250,OC-1-2025-SIN-SNC-SSE,referencia,,,,"15, 26 e 16",False,"Perguntas 15, 26 e 16 do Ofício Circular CVM/SIN/SSE 01/23"
+cvm175-seq-0251,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,26 e,True,"Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0251,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"7 a 11, 16, 17, 20 a 22 e 27",,True,"Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0254,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2023-SIN-SSE,Ofício-Circular nº 1/2023/SIN/SSE,,26 e,True,"Item 1.8, Pergunta 26 e Item 1.16, Pergunta 59 Ofício-Circular nº 1/2023/SIN/SSE"
+cvm175-seq-0254,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"7 a 11, 16, 17, 20 a 22 e 27",,True,"Itens 7 a 11, 16, 17, 20 a 22 e 27 do Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0255,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"28 a 31, 34",,True,"Itens 28 a 31, 34 Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0256,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"28 a 31, 34",,True,"Itens 28 a 31, 34 Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0257,OC-1-2025-SIN-SNC-SSE,referencia,,,,,False,Ofício Circular CVM/SIN/SSE
+cvm175-seq-0257,OC-1-2025-SIN-SNC-SSE,referencia,,,,,False,01/23
+cvm175-seq-0259,OC-1-2025-SIN-SNC-SSE,referencia,OC-1-2025-SIN-SNC-SSE,Ofício-Circular nº 1/2025/SIN/SNC/SSE,"28 a 31, 34",,True,"Itens 28 a 31, 34 Ofício-Circular nº 1/2025/SIN/SNC/SSE"
+cvm175-seq-0263,OC-1-2025-SIN-SNC-SSE,referencia,,,,,False,"Sim, Ofício Circular CVM/SIN/SSE 01/23, perguntas 61"
+cvm175-seq-0266,OC-3-2025-CVM-SSE,referencia,OC-1-2025-CVM-SSE,Ofício-Circular nº1/2025/CVM/SSE,,,True,"Item I, Ofício-Circular nº1/2025/CVM/SSE"
