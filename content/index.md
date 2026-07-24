@@ -12,13 +12,13 @@ fontes:
 tags: [indice]
 ---
 
-# Arkar Funds Brain — Cérebro regulatório de Fundos
+# Arkar Funds Brain — Cérebro Regulatório de Fundos
 
-Base de conhecimento sobre a regulação de fundos de investimento.
+Base de conhecimento sobre fundos de investimento.
 
 ## Secoes
 
 - [[normas/index|Normas]]
 - [[conceitos/index|Conceitos]]
-- [[veiculos/index|Veículos]]
+- [[estruturas/index|Veículos]]
 - [[obrigacoes/index|Obrigações]]
