@@ -2,7 +2,7 @@
 title: "FIP"
 titulo: "FIP"
 tipo: veiculo
-status: em_revisao
+status: revisado
 sigla: FIP
 norma_base: ["Resolução CVM 175/2022", "Anexo Normativo IV", "Lei 14.754/2023", "Lei 14.711/2023", "Resolução CMN 5.111/2023"]
 anexo_rcvm175: "Anexo Normativo IV"
@@ -10,7 +10,7 @@ publico_alvo: "Investidores qualificados (registro automático); influência efe
 tributacao: "Entidade de investimento: 15% no resgate/amortização/distribuição, sem come-cotas; INR não domiciliado em paraíso fiscal, em FIP entidade de investimento: alíquota zero (Lei 14.711 revogou o teste dos 40%)"
 prestadores_obrigatorios: ["administrador fiduciário", "gestor de carteira", "custodiante", "auditor independente"]
 conceitos_chave: ["participações", "governança", "piso de 90% em VM conversíveis/participação", "entidade de investimento", "MEP x valor justo", "FIP-IE"]
-verificado_em:
+verificado_em:2026-07-24
 verificado_por:
 fontes:
   - "Resolução CVM 175/2022 — Anexo Normativo IV (FIP): https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html"

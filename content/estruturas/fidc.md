@@ -2,7 +2,7 @@
 title: "FIDC"
 titulo: "FIDC"
 tipo: veiculo
-status: em_revisao
+status: revisado
 sigla: FIDC
 norma_base: ["Resolução CVM 175/2022", "Anexo Normativo II", "Lei 14.754/2023", "Resolução CMN 5.111/2023"]
 anexo_rcvm175: "Anexo Normativo II"
@@ -10,7 +10,7 @@ publico_alvo: "Geral (varejo) e qualificados, conforme a classe e o tipo de dire
 tributacao: "Entidade de investimento: 15% no resgate/amortização, sem come-cotas; se não enquadrado: come-cotas de 15% (maio/novembro)"
 prestadores_obrigatorios: ["administrador fiduciário", "gestor de carteira", "custodiante", "consultor especializado (quando houver)", "entidade registradora", "auditor independente"]
 conceitos_chave: ["direitos creditórios", "cotas sênior/subordinada", "piso de 50% do PL", "verificação de lastro pelo gestor", "entidade de investimento"]
-verificado_em:
+verificado_em:2026-07-24
 verificado_por:
 fontes:
   - "Resolução CVM 175/2022 — Anexo Normativo II (FIDC): https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html"

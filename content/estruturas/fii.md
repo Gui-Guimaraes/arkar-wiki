@@ -2,7 +2,7 @@
 title: "FII"
 titulo: "FII"
 tipo: veiculo
-status: em_revisao
+status: revisado
 sigla: FII
 norma_base: ["Resolução CVM 175/2022", "Anexo Normativo III", "Lei 14.754/2023"]
 anexo_rcvm175: "Anexo Normativo III"
@@ -10,7 +10,7 @@ publico_alvo: "Geral (varejo); cotas usualmente negociadas em bolsa ou balcão o
 tributacao: "Distribuição de rendimentos isenta de IR para PF sob condições cumulativas (100+ cotistas, negociação em bolsa/balcão, PF < 10%); ganho de capital na venda de cotas a 20%"
 prestadores_obrigatorios: ["administrador fiduciário", "gestor de carteira (quando invista preponderantemente em valores mobiliários)", "auditor independente"]
 conceitos_chave: ["condomínio fechado", "CRI/LCI", "renda imobiliária", "isenção de PF", "mínimo de 100 cotistas"]
-verificado_em:
+verificado_em:2026-07-24
 verificado_por:
 fontes:
   - "Resolução CVM 175/2022 — Anexo Normativo III (FII): https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html"

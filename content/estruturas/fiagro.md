@@ -2,7 +2,7 @@
 title: "FIAGRO"
 titulo: "FIAGRO"
 tipo: veiculo
-status: em_revisao
+status: revisado
 sigla: FIAGRO
 norma_base: ["Lei 14.130/2021", "Resolução CVM 175/2022", "Anexo Normativo VI", "Resolução CVM 214/2024"]
 anexo_rcvm175: "Anexo Normativo VI"
@@ -10,7 +10,7 @@ publico_alvo: "Conforme o anexo aplicável por equiparação (regra de FIDC, FII
 tributacao: "Segue o regime do tipo a que o fundo se equipara; FIAGRO 'imobiliário' com isenção de PF sob condições (100+ cotistas)"
 prestadores_obrigatorios: ["administrador fiduciário", "gestor de carteira", "custodiante", "auditor independente"]
 conceitos_chave: ["cadeias produtivas do agronegócio", "equiparação (Art. 2º do Anexo VI)", "mais de 50% do PL", "imóvel rural", "propriedade fiduciária", "migração SGF/FNET"]
-verificado_em:
+verificado_em:2026-07-24
 verificado_por:
 fontes:
   - "Lei 14.130/2021 (cria o FIAGRO): https://www.planalto.gov.br"

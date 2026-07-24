@@ -2,7 +2,7 @@
 title: "INR"
 titulo: "INR"
 tipo: veiculo
-status: em_revisao
+status: revisado
 sigla: INR
 norma_base: ["Lei 14.286/2021 (marco cambial)", "Resolução Conjunta BCB/CVM nº 13/2024", "Lei 14.754/2023", "Lei 14.711/2023"]
 anexo_rcvm175: "não aplicável (regime de investidor, não é categoria de fundo)"
@@ -10,7 +10,7 @@ publico_alvo: "Investidores não residentes — pessoas físicas, pessoas juríd
 tributacao: "Tratamento diferenciado para INR não domiciliado em paraíso fiscal (ex.: alíquota zero em FIP entidade de investimento); INR domiciliado em paraíso fiscal, em regra, equiparado a residente"
 prestadores_obrigatorios: ["representante no País (com dispensas)", "custodiante (dispensa da obrigatoriedade prévia)"]
 conceitos_chave: ["registro na CVM", "operações simultâneas de câmbio", "conta de não residente (CNR)", "paraíso fiscal", "fim do RDE-Portfólio"]
-verificado_em:
+verificado_em:2026-07-24
 verificado_por:
 fontes:
   - "Lei 14.286/2021 (novo marco cambial): https://www.planalto.gov.br"

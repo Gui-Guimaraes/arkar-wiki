@@ -2,7 +2,7 @@
 title: "FIF"
 titulo: "FIF"
 tipo: veiculo
-status: em_revisao
+status: revisado
 sigla: FIF
 norma_base: ["Resolução CVM 175/2022", "Anexo Normativo I", "Lei 14.754/2023"]
 anexo_rcvm175: "Anexo Normativo I"
@@ -10,7 +10,7 @@ publico_alvo: "Geral (varejo) e qualificados/profissionais, conforme a classe"
 tributacao: "Come-cotas em maio e novembro: 15% (carteira de longo prazo) ou 20% (curto prazo); classe de ações fora do come-cotas (15% no resgate)"
 prestadores_obrigatorios: ["administrador fiduciário", "gestor de carteira", "custodiante", "auditor independente"]
 conceitos_chave: ["fundo 555", "classe", "subclasse", "come-cotas", "renda fixa/ações/cambial/multimercado"]
-verificado_em:
+verificado_em:2026-07-24
 verificado_por:
 fontes:
   - "Resolução CVM 175/2022 — Anexo Normativo I (FIF): https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html"
