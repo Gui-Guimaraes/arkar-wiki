@@ -72,7 +72,7 @@ revogada_por:
 alterada_por: []
 aplica_a: ["Administradores fiduciários", "Gestores de recursos (Assets)", "Custodiantes locais", "Controladores e contadores de fundos"]
 verificado_em: 2026-07-24
-verificado_por: Inteligência Artificial
+verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
