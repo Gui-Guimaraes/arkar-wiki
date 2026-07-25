@@ -18,7 +18,7 @@ verificado_por: ""
 fontes:
   - "Banco Central do Brasil - Portal Institucional: https://bcb.gov.br"
 aliases: [BACEN, BC, Banco Central]
-tags: [entidade, regulador, autoridade-monetaria, sistema-financeiro]
+tags: [entidade, regulador, sistema-financeiro]
 publish: true
 ---
 

@@ -20,7 +20,7 @@ fontes:
   - "Comitê de Pronunciamentos Contábeis (CPC) - Pronunciamentos: http://cpc.org.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [CPC 32, IAS 12, Imposto de Renda Diferido, Tributos Diferidos, Ativo Diferido]
-tags: [norma, contabilidade, cpc, ias-12, tributos-diferidos, balanço-patrimonial]
+tags: [norma, contabilidade, cpc, ifrs, tributação, balanço-patrimonial]
 publish: true
 ---
 

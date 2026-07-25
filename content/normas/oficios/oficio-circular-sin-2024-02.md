@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
 aliases: [Ofício-Circular Anual SIN 2024, OC SIN 02/24, Guia de Rotinas SIN 2024]
-tags: [norma, oficio-circular, fundos-de-investimento, obrigações-periódicas, compliance, cvm]
+tags: [norma, ofício-circular, fundos-de-investimento, obrigações-periódicas, compliance, cvm]
 publish: true
 ---
 

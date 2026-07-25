@@ -18,7 +18,7 @@ fontes:
   - "Lei 14.711/2023 (fim do teste dos 40% para alíquota zero de IRRF a INR em FIP/FIC-FIP/FIEE entidade de investimento)"
   - "Histórico: Resolução CMN 4.373/2014 — revogada em 1/1/2025"
 aliases: ["Investidor Não Residente", "4.373", "2689"]
-tags: [veiculo]
+tags: [veículo]
 publish: true
 ---
 

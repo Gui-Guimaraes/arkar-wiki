@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
 aliases: [OC SSE 02/24, Segundo Ofício de Securitização 2024, Guia de Pedidos Técnicos SSE]
-tags: [norma, oficio-circular, securitizacao, fundos-estruturados, rcvm-160, compliance]
+tags: [norma, ofício-circular, securitização, fundos-estruturados, rcvm-160, compliance]
 publish: true
 ---
 

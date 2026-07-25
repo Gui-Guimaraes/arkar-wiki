@@ -20,7 +20,7 @@ fontes:
   - "Comitê de Pronunciamentos Contábeis (CPC) - Pronunciamentos: http://cpc.org.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [CPC 18, CPC 18 (R2), IAS 28, Método de Equivalência Patrimonial, MEP, Coligadas]
-tags: [norma, contabilidade, cpc, ias-28, mep, coligadas, controladas, participações]
+tags: [norma, contabilidade, cpc, ifrs, equivalência-patrimonial, consolidação]
 publish: true
 ---
 

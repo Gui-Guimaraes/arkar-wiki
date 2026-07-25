@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "ANBIMA - Códigos de Autorregulação: https://anbima.com.br"
 aliases: [Código de Serviços Qualificados ANBIMA, Manual de Custódia ANBIMA]
-tags: [norma, autorregulacao, servicos-qualificados, custodia, controladoria, anbima]
+tags: [norma, autorregulação, serviços-qualificados, custódia, anbima]
 publish: true
 ---
 

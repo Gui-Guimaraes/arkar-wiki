@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [RCVM 35, Resolução 35, Norma de Intermediação]
-tags: [norma, intermediacao, corretoras, b3, suitability, conduta]
+tags: [norma, intermediação, b3, suitability, conduta]
 publish: true
 ---
 

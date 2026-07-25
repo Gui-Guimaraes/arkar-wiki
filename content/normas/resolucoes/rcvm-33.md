@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [RCVM 33, Resolução 33, Regra de Escrituração, Agente Escriturador]
-tags: [norma, escrituracao, infraestrutura, custodia, mercado-de-capitais, compliance]
+tags: [norma, serviços-qualificados, infraestrutura, custódia, mercado-de-capitais, compliance]
 publish: true
 ---
 

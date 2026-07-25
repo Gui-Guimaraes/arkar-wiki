@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [RCVM 23, Resolução 23, Regulação de Analistas, Regra de Research]
-tags: [norma, analista, research, relatorio-de-analise, mercado-de-capitais, compliance]
+tags: [norma, research, mercado-de-capitais, compliance]
 publish: true
 ---
 

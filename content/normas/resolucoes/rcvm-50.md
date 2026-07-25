@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [RCVM 50, Resolução 50, Norma de PLD/FTP]
-tags: [norma, pld-ftp, fiscalizacao, integridade, mercado-de-capitais]
+tags: [norma, pld-ft, fiscalização, conduta, mercado-de-capitais]
 publish: true
 ---
 

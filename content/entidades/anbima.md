@@ -17,7 +17,7 @@ verificado_por: ""
 fontes:
   - "ANBIMA - Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais: https://anbima.com.br"
 aliases: []
-tags: [entidade, autorregulacao, mercado-financeiro]
+tags: [entidade, autorregulação, mercado-financeiro]
 publish: true
 ---
 

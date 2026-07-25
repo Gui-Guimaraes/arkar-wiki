@@ -20,7 +20,7 @@ fontes:
   - "Comitê de Pronunciamentos Contábeis (CPC) - Pronunciamentos: http://cpc.org.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [CPC 03, CPC 03 (R2), Demonstração dos Fluxos de Caixa, DFC]
-tags: [norma, contabilidade, cpc, dfc, demonstracoes-financeiras, companhias-abertas]
+tags: [norma, contabilidade, cpc, demonstrações-financeiras]
 publish: true
 ---
 

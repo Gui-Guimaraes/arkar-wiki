@@ -16,7 +16,7 @@ fontes:
   - "Resolução CVM 175/2022 — Anexo Normativo I (FIF): https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html"
   - "Lei 14.754/2023 (tributação de fundos): https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14754.htm"
 aliases: ["Fundo de Investimento Financeiro", "fundo 555"]
-tags: [veiculo]
+tags: [veículo]
 publish: true
 ---
 

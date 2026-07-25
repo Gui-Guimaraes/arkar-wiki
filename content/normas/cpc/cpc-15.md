@@ -20,7 +20,7 @@ fontes:
   - "Comitê de Pronunciamentos Contábeis (CPC) - Pronunciamentos: http://cpc.org.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [CPC 15, CPC 15 (R1), IFRS 3, Combinações de Negócios, M&A, Goodwill, Ágio]
-tags: [norma, contabilidade, cpc, ifrs-3, ma, goodwill, agio, fusões]
+tags: [norma, contabilidade, cpc, ifrs, combinação-de-negócios]
 publish: true
 ---
 

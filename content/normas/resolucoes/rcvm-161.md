@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [RCVM 161, Resolução 161, Registro de Coordenadores]
-tags: [norma, coordenadores, ofertas-publicas, intermediacao, mercado-de-capitais]
+tags: [norma, coordenadores, ofertas-públicas, intermediação, mercado-de-capitais]
 publish: true
 ---
 

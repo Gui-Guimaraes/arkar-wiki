@@ -20,7 +20,7 @@ fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [OC SSE 06/24, Ofício de Crédito Vencido FIDC, Guia de Direitos Inadimplentes]
-tags: [norma, oficio-circular, securitizacao, fidc, rcvm-175, inadimplencia, contabilidade]
+tags: [norma, ofício-circular, securitização, fidc, rcvm-175, inadimplência, contabilidade]
 publish: true
 ---
 

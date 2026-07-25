@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
 aliases: [OC SIN 07/23, Guia de Ativos no Exterior 2023, Ofício de Alocações Internacionais SIN]
-tags: [norma, oficio-circular, fundos-de-investimento, ativos-no-exterior, rcvm-175, compliance]
+tags: [norma, ofício-circular, fundos-de-investimento, ativos-no-exterior, rcvm-175, compliance]
 publish: true
 ---
 

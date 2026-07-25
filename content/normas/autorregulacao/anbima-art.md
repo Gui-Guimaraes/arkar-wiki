@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "ANBIMA - Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais: https://anbima.com.br"
 aliases: [Código de Fundos ANBIMA, Código de Gestão de Recursos, Código de Administração Fiduciária]
-tags: [norma, autorregulacao, fundos-de-investimento, asset-management, anbima]
+tags: [norma, autorregulação, fundos-de-investimento, asset-management, anbima]
 publish: true
 ---
 

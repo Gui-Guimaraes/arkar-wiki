@@ -17,7 +17,7 @@ fontes:
   - "Lei 14.754/2023 (requisitos de isenção do FII): https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14754.htm"
   - "Ofício-Circular CVM/SSE 8/2025 (FIDC, FII e FIAGRO)"
 aliases: ["Fundo de Investimento Imobiliário"]
-tags: [veiculo]
+tags: [veículo]
 publish: true
 ---
 

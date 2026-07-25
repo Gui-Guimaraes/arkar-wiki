@@ -20,7 +20,7 @@ fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [OC SIN 07/24, Ofício de Rebates da 175, Guia de Remuneração de Distribuidores]
-tags: [norma, oficio-circular, fundos-de-investimento, rcvm-175, distribuicao, rebate, compliance]
+tags: [norma, ofício-circular, fundos-de-investimento, rcvm-175, distribuição, compliance]
 publish: true
 ---
 

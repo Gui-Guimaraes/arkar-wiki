@@ -20,7 +20,7 @@ fontes:
   - "Comitê de Pronunciamentos Contábeis (CPC) - Pronunciamentos: http://cpc.org.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [CPC 36, CPC 36 (R3), IFRS 10, Consolidação de Balanços, Demonstrações Consolidadas]
-tags: [norma, contabilidade, cpc, ifrs-10, consolidacao, controladas, holding]
+tags: [norma, contabilidade, cpc, ifrs, consolidação]
 publish: true
 ---
 

@@ -17,7 +17,7 @@ fontes:
   - "Ofício-Circular CVM/SSE 8/2025 (FIDC, FII e FIAGRO): https://www.gov.br/cvm/pt-br/assuntos/noticias/2025"
   - "Resolução CMN 5.111/2023 (entidade de investimento e direitos creditórios)"
 aliases: ["Fundo de Investimento em Direitos Creditórios"]
-tags: [veiculo]
+tags: [veículo]
 publish: true
 ---
 

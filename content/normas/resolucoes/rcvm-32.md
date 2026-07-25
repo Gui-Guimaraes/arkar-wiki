@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [RCVM 32, Resolução 32, Regra de Custódia, Custodiante]
-tags: [norma, custodia, infraestrutura, guarda-de-ativos, mercado-de-capitais, compliance]
+tags: [norma, custódia, infraestrutura, mercado-de-capitais, compliance]
 publish: true
 ---
 

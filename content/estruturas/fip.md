@@ -17,7 +17,7 @@ fontes:
   - "Lei 14.754/2023 e Lei 14.711/2023 (tributação; fim do teste dos 40% p/ INR): https://www.planalto.gov.br"
   - "Resolução CMN 5.111/2023 (entidade de investimento)"
 aliases: ["Fundo de Investimento em Participações"]
-tags: [veiculo]
+tags: [veículo]
 publish: true
 ---
 

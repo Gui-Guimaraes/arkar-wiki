@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "ANBIMA - Códigos de Autorregulação: https://anbima.com.br"
 aliases: [Código de Distribuição ANBIMA, Código de Comercialização ANBIMA]
-tags: [norma, autorregulacao, distribuicao, suitability, comercializacao, anbima]
+tags: [norma, autorregulação, distribuição, suitability, anbima]
 publish: true
 ---
 

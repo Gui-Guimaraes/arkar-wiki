@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br"
 aliases: [RCVM 160, Resolução 160, Novo Marco das Ofertas]
-tags: [norma, ofertas-publicas, mercado-de-capitais, regulacao, emissao-de-titulos]
+tags: [norma, ofertas-públicas, mercado-de-capitais, regulação]
 publish: true
 ---
 

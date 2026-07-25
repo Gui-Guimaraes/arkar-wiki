@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [RCVM 19, Resolução 19, Regulação de Consultores]
-tags: [norma, consultoria-de-investimento, prestacao-de-servicos, mercado-de-capitais, compliance]
+tags: [norma, consultoria-de-investimento, serviços-qualificados, mercado-de-capitais, compliance]
 publish: true
 ---
 

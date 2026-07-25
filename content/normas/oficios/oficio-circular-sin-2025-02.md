@@ -20,7 +20,7 @@ fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [Ofício-Circular Anual SIN 2025, OC SIN 02/25, Guia de Rotinas SIN 2025]
-tags: [norma, oficio-circular, fundos-de-investimento, obrigações-periódicas, compliance, cvm]
+tags: [norma, ofício-circular, fundos-de-investimento, obrigações-periódicas, compliance, cvm]
 publish: true
 ---
 

@@ -20,7 +20,7 @@ fontes:
   - "Comitê de Pronunciamentos Contábeis (CPC) - Pronunciamentos: http://cpc.org.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [CPC 48, IFRS 9, Instrumentos Financeiros, Perda de Crédito Esperada, Hedge Accounting]
-tags: [norma, contabilidade, cpc, ifrs-9, instrumentos-financeiros, derivativos, hedge]
+tags: [norma, contabilidade, cpc, ifrs, instrumentos-financeiros]
 publish: true
 ---
 

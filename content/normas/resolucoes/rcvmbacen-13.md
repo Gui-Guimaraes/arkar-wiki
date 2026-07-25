@@ -20,7 +20,7 @@ fontes:
   - "Comissão de Valores Mobiliários - Destaques Normativos: https://www.gov.br/cvm/pt-br"
   - "Banco Central do Brasil - Atos Conjuntos: https://bcb.gov.br"
 aliases: [Resolução Conjunta 13, Norma CAI, Cadastro de Acesso de Investidores]
-tags: [norma, resolucao-conjunta, investidor-nao-residente, pld-ftp, desburocratizacao]
+tags: [norma, investidor-não-residente, pld-ft, desburocratização]
 publish: true
 ---
 

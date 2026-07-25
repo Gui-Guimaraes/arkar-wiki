@@ -18,7 +18,7 @@ verificado_por: ""
 fontes:
   - "Receita Federal do Brasil - Portal Institucional: https://www.gov.br"
 aliases: [Receita Federal, Receita, Leão]
-tags: [entidade, arrecadacao, fiscalizacao, tributaria, aduana]
+tags: [entidade, fiscalização, tributação]
 publish: true
 ---
 

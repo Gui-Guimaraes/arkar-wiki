@@ -20,7 +20,7 @@ fontes:
   - "Comitê de Pronunciamentos Contábeis (CPC) - Pronunciamentos: http://cpc.org.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [CPC 51, IFRS 17, Contratos de Seguro, Nova Regra de Seguradoras]
-tags: [norma, contabilidade, cpc, ifrs-17, seguros, provisões-técnicas, balanço-patrimonial]
+tags: [norma, contabilidade, cpc, ifrs, seguros, balanço-patrimonial]
 publish: true
 ---
 

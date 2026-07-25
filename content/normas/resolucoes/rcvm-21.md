@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [RCVM 21, Resolução 21, Regulação de Gestores]
-tags: [norma, administracao-de-carteiras, gestao-de-recursos, asset-management, mercado-de-capitais]
+tags: [norma, gestão-de-recursos, asset-management, mercado-de-capitais]
 publish: true
 ---
 

@@ -9,7 +9,7 @@ publish: true
 verificado_em: 2026-07-24
 fontes:
   - "CVM — portal de legislacao e regulamentacao: https://www.gov.br/cvm/pt-br"
-tags: [indice]
+tags: [índice]
 ---
 
 # Arkar Funds Brain — Cérebro Regulatório de Fundos

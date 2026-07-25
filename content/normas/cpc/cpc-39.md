@@ -20,7 +20,7 @@ fontes:
   - "Comitê de Pronunciamentos Contábeis (CPC) - Pronunciamentos: http://cpc.org.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [CPC 39, IAS 32, Instrumentos Financeiros Apresentação, Passivo versus Patrimônio]
-tags: [norma, contabilidade, cpc, ias-32, instrumentos-financeiros, capital-proprio]
+tags: [norma, contabilidade, cpc, ifrs, instrumentos-financeiros]
 publish: true
 ---
 

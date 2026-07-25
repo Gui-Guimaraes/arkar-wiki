@@ -17,7 +17,7 @@ fontes:
   - "Resolução CVM 39/2021 (regra experimental) e Resolução CVM 214/2024 (Anexo Normativo VI, vigência 3/3/2025)"
   - "Ofícios-Circulares CVM/SSE 1/2025, 3/2025 e 8/2025 (registro, Art. 2º e esclarecimentos)"
 aliases: ["Fundo de Investimento nas Cadeias Produtivas do Agronegócio", "Fundo de Investimento nas Cadeias Produtivas Agroindustriais"]
-tags: [veiculo]
+tags: [veículo]
 publish: true
 ---
 

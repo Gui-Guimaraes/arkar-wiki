@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Portal de Normas: https://www.gov.br/cvm/pt-br"
 aliases: [RCVM 175, Resolução 175, Novo Marco dos Fundos]
-tags: [norma, fundos-de-investimento, regulacao, mercado-de-capitais]
+tags: [norma, fundos-de-investimento, regulação, mercado-de-capitais]
 publish: true
 ---
 

@@ -18,7 +18,7 @@ fontes:
   - "Ministério da Fazenda - Colegiados: https://www.gov.br"
   - "Banco Central do Brasil - Composição do SFN: https://bcb.gov.br"
 aliases: [Conselho Monetário]
-tags: [entidade, ordenador, deliberativo, sistema-financeiro]
+tags: [entidade, sistema-financeiro]
 publish: true
 ---
 

@@ -3,7 +3,7 @@ title: "Ofícios"
 titulo: "Ofícios"
 tipo: indice
 status: revisado
-tags: [indice]
+tags: [índice]
 verificado_em: 2026-07-24
 fontes:
   - "CVM - Consolidador de Oficios-Circulares (RCVM 175): https://www.gov.br/cvm/pt-br"

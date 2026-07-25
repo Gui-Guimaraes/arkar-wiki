@@ -20,7 +20,7 @@ fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [OC SIN 03/24, Ofício de Reorganizações Estruturais, Guia de Fusões de Fundos SIN]
-tags: [norma, oficio-circular, fundos-de-investimento, rcvm-175, reorganizacao-estrutural, compliance]
+tags: [norma, ofício-circular, fundos-de-investimento, rcvm-175, reorganização-estrutural, compliance]
 publish: true
 ---
 

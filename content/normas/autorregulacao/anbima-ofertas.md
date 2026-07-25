@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "ANBIMA - Códigos de Autorregulação: https://anbima.com.br"
 aliases: [Código de Ofertas ANBIMA, Código de Coordenação ANBIMA, Manual de Originação ANBIMA]
-tags: [norma, autorregulacao, ofertas-publicas, coordenadores, originação, anbima]
+tags: [norma, autorregulação, ofertas-públicas, coordenadores, anbima]
 publish: true
 ---
 

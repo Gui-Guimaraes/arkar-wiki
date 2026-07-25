@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "ANBIMA - Códigos de Autorregulação: https://anbima.com.br"
 aliases: [Código de Procedimentos ANBIMA, Manual de Enforcement ANBIMA, Regimento de Supervisão]
-tags: [norma, autorregulacao, enforcement, supervisao, processo-sancionador, anbima]
+tags: [norma, autorregulação, supervisão, anbima]
 publish: true
 ---
 

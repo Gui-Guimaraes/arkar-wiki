@@ -18,7 +18,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários (CVM) - Portal Institucional: https://www.gov.br/cvm/pt-br"
 aliases: [Comissão de Valores Mobiliários]
-tags: [entidade, regulador, fiscalizador, mercado-de-capitais]
+tags: [entidade, regulador, mercado-de-capitais]
 publish: true
 ---
 

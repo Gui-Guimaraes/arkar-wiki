@@ -20,7 +20,7 @@ fontes:
   - "Comitê de Pronunciamentos Contábeis (CPC) - Pronunciamentos: http://cpc.org.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [CPC 40, CPC 40 (R1), IFRS 7, Instrumentos Financeiros Evidenciação, Notas de Risco]
-tags: [norma, contabilidade, cpc, ifrs-7, instrumentos-financeiros, gerenciamento-de-risco]
+tags: [norma, contabilidade, cpc, ifrs, instrumentos-financeiros]
 publish: true
 ---
 

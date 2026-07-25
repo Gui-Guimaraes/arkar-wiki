@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br"
 aliases: [ICVM 579, Instrução 579, Regra do FIP]
-tags: [norma, fip, private-equity, venture-capital, fundos-estruturados]
+tags: [norma, fip, fundos-estruturados]
 publish: true
 ---
 

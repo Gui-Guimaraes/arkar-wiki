@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
 aliases: [Ofício-Circular Conjunto SSE/SNC 01/24, Guia Contábil de Securitização, Manual Técnico SSE SNC]
-tags: [norma, oficio-circular, contabilidade, auditoria, securitizacao, cpc, compliance]
+tags: [norma, ofício-circular, contabilidade, auditoria, securitização, cpc, compliance]
 publish: true
 ---
 
