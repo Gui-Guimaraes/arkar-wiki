@@ -18,10 +18,6 @@ fontes:
   - "Resolução CMN 5.111/2023 (entidade de investimento)"
 aliases: ["Fundo de Investimento em Participações"]
 publish: true
-## Texto oficial
-
-- [Anexo Normativo IV — FIP (PDF consolidado)](https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol175consolid_Anexo04.pdf)
-- [Página da RCVM 175 no site da CVM](https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html)
 ---
 
 ## Escopo
@@ -43,3 +39,9 @@ O **enquadramento como entidade de investimento** (Resolução CMN 5.111/2023, n
 
 - Prestadores obrigatórios: [[administrador-fiduciario|Administrador Fiduciário]], [[gestor-de-recursos|Gestor]], [[custodiante|Custodiante]], [[auditor-independente|Auditor Independente]].
 - Não residentes: [[inr|INR]] · [[cmn-4373|Resolução CMN nº 4.373]] (alíquota zero condicionada).
+
+## Texto oficial
+
+- [Anexo Normativo IV — FIP (PDF consolidado)](https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol175consolid_Anexo04.pdf)
+- [Página da RCVM 175 no site da CVM](https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html)
+
