@@ -5,6 +5,7 @@ tipo: indice
 status: revisado
 tags: [índice]
 verificado_em: 2026-07-24
+verificado_por: ""
 fontes:
   - "CVM - Consolidador de Oficios-Circulares (RCVM 175): https://www.gov.br/cvm/pt-br"
 publish: true
