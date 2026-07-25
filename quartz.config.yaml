@@ -145,8 +145,41 @@ plugins:
     layout:
       position: left
       priority: 50
+  # Legibilidade do grafo. O ruido vem de duas fontes: (a) as tags entram como NOS
+  # (533 usos / 140 tags distintas contra so 8 wikilinks — hoje a estrutura do grafo
+  # e praticamente toda de tag), e (b) as forcas default empacotam os nos, e os rotulos
+  # daqui sao longos ("Codigo ANBIMA de Distribuicao de Produtos de Investimento"),
+  # entao colidem mesmo com zoom.
+  # `indice` fica em removeTags: e tag ESTRUTURAL (86 das 193 notas), gera um hub sem
+  # significado semantico que domina o layout.
+  # NAO usamos opacityScale para isso: alpha = max((zoom * opacityScale - 1) / 3.75, 0),
+  # ou seja, aumenta-lo mostraria os rotulos MAIS CEDO, piorando a colisao.
   - source: "@quartz-community/graph"
     enabled: true
+    options:
+      localGraph:
+        depth: 1
+        scale: 1.1
+        repelForce: 0.9 # afasta os nos (era 0.5)
+        centerForce: 0.25 # menos aglomeracao no centro
+        linkDistance: 45 # arestas mais longas (era 30)
+        fontSize: 0.5 # rotulo menor ocupa menos espaco
+        focusOnHover: true # ao passar o mouse, escurece o que nao e vizinho
+        showTags: true
+        removeTags:
+          - indice
+      globalGraph:
+        depth: -1
+        scale: 0.9
+        repelForce: 1.1
+        centerForce: 0.15
+        linkDistance: 60
+        fontSize: 0.45
+        focusOnHover: true
+        enableRadial: true
+        showTags: true
+        removeTags:
+          - indice
     layout:
       position: right
       priority: 10
