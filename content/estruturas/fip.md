@@ -18,6 +18,10 @@ fontes:
   - "Resolução CMN 5.111/2023 (entidade de investimento)"
 aliases: ["Fundo de Investimento em Participações"]
 publish: true
+## Texto oficial
+
+- [Anexo Normativo IV — FIP (PDF consolidado)](https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol175consolid_Anexo04.pdf)
+- [Página da RCVM 175 no site da CVM](https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html)
 ---
 
 ## Escopo
