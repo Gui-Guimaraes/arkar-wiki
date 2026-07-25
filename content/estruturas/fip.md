@@ -17,17 +17,16 @@ fontes:
   - "Lei 14.754/2023 e Lei 14.711/2023 (tributação; fim do teste dos 40% p/ INR): https://www.planalto.gov.br"
   - "Resolução CMN 5.111/2023 (entidade de investimento)"
 aliases: ["Fundo de Investimento em Participações"]
-tags: [veículo]
 publish: true
 ---
 
 ## Escopo
 
-FIP é o veículo do **Anexo Normativo IV**, **condomínio fechado** destinado a **investidores qualificados**, que aplica preponderantemente — **piso de 90% do PL** — em ações, debêntures conversíveis, bônus de subscrição e outros títulos conversíveis, com a marca da **influência efetiva na gestão das investidas** (governança). Comporta as categorias capital semente, empresas emergentes, multiestratégia, **infraestrutura (FIP-IE)** e produção econômica intensiva em P&D. A contabilidade específica (origem na ICVM 579, consolidada na 175) distingue o **FIP entidade de investimento** — que avalia a carteira a **valor justo** — do não entidade, que usa **MEP** para controladas e coligadas.
+FIP é o veículo do **[[rcvm-175-anexo-04|Anexo Normativo IV]]**, **condomínio fechado** destinado a **[[investidor-qualificado|investidores qualificados]]**, que aplica preponderantemente — **piso de 90% do PL** — em ações, debêntures conversíveis, bônus de subscrição e outros títulos conversíveis, com a marca da **influência efetiva na gestão das investidas** (governança). Comporta as categorias capital semente, empresas emergentes, multiestratégia, **infraestrutura** (FIP-IE, [[lei-11478-2007|Lei 11.478/2007]]) e produção econômica intensiva em P&D. A contabilidade específica (origem na [[icvm-579|ICVM 579]], consolidada na 175) distingue o **FIP entidade de investimento** — que avalia a carteira a **valor justo** ([[cpc-46|CPC 46]]) — do não entidade, que usa **MEP** ([[cpc-18|CPC 18]]) para controladas e coligadas.
 
 ## Consequência operacional
 
-O **enquadramento como entidade de investimento** (Resolução CMN 5.111/2023, na linha da antiga ICVM 579) governa a tributação: se qualificado, **não há come-cotas** — o cotista é tributado a **15% apenas no resgate, amortização ou distribuição**; se não, incide **come-cotas de 15%** em maio e novembro. Para o **investidor não residente não domiciliado em paraíso fiscal**, o FIP entidade de investimento distribui com **alíquota zero de IRRF** — a Lei 14.711/2023 revogou o antigo "teste dos 40%". A **discricionariedade do gestor é da essência** do veículo: arranjos que a retirem (por exemplo, poder de veto de cotista PF majoritário sobre decisões de investimento/desinvestimento) **descaracterizam** a entidade de investimento.
+O **enquadramento como entidade de investimento** (Resolução CMN 5.111/2023, na linha da antiga [[icvm-579|ICVM 579]]) governa a tributação: se qualificado, **não há [[come-cotas]]** — o cotista é tributado a **15% apenas no resgate, [[amortizacao|amortização]] ou distribuição**; se não, incide **come-cotas de 15%** em maio e novembro. Para o **[[investidor-nao-residente|investidor não residente]] não domiciliado em paraíso fiscal**, o FIP entidade de investimento distribui com **alíquota zero de IRRF** — a Lei 14.711/2023 revogou o antigo "teste dos 40%". A **discricionariedade do [[gestor-de-recursos|gestor]] é da essência** do veículo: arranjos que a retirem (por exemplo, poder de veto de cotista PF majoritário sobre decisões de investimento/desinvestimento) **descaracterizam** a entidade de investimento.
 
 ## Erros comuns
 
@@ -38,7 +37,5 @@ O **enquadramento como entidade de investimento** (Resolução CMN 5.111/2023, n
 
 ## Relação com outras notas
 
-- Casca regulatória: [[rcvm-175]].
-- Não residentes: [[inr]] · [[investidor-nao-residente]] (alíquota zero condicionada).
-- Equiparação no agro: [[fiagro]] (FIAGRO-FIP).
-- Demais veículos: [[fif]], [[fidc]], [[fii]].
+- Prestadores obrigatórios: [[administrador-fiduciario|Administrador Fiduciário]], [[gestor-de-recursos|Gestor]], [[custodiante|Custodiante]], [[auditor-independente|Auditor Independente]].
+- Não residentes: [[inr|INR]] · [[cmn-4373|Resolução CMN nº 4.373]] (alíquota zero condicionada).
