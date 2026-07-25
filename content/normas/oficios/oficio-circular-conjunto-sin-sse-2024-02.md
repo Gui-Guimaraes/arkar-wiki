@@ -20,7 +20,7 @@ fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [Ofício-Circular Conjunto SIN/SSE 02/24, Ofício de Calamidade RS CVM, Guia Excepcional Rio Grande do Sul]
-tags: [norma, ofio-circular, calamidade-publica, dilacao-de-prazos, fundos-de-investimento, securitizacao, compliance]
+tags: [norma, oficio-circular, calamidade-publica, dilacao-de-prazos, fundos-de-investimento, securitizacao, compliance]
 publish: true
 ---
 

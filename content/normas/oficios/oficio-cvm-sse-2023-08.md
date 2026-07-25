@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
 aliases: [OC SSE 08/23, Segundo Ofício de Securitização 2023, Guia de Transição Complementar SSE]
-tags: [norma, ofio-circular, securitizacao, fundos-estruturados, rcvm-160, rcvm-175, compliance]
+tags: [norma, oficio-circular, securitizacao, fundos-estruturados, rcvm-160, rcvm-175, compliance]
 publish: true
 ---
 

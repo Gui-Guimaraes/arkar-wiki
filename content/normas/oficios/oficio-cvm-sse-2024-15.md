@@ -20,7 +20,7 @@ fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [Ofício SSE 15/24, Memorando Técnico de Securitização, Guia de Debêntures de Lastro]
-tags: [norma, ofio-circular, securitizacao, fundos-estruturados, rcvm-160, rcvm-175, compliance]
+tags: [norma, oficio-circular, securitizacao, fundos-estruturados, rcvm-160, rcvm-175, compliance]
 publish: true
 ---
 

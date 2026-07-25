@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://www.gov.br/cvm/pt-br"
 aliases: [Ofício-Circular SIN/SSE 01/23, Manual de Transição da 175, Guia de Orientação SIN/SSE]
-tags: [norma, ofio-circular, fundos-de-investimento, rcvm-175, transicao, compliance]
+tags: [norma, oficio-circular, fundos-de-investimento, rcvm-175, transicao, compliance]
 publish: true
 ---
 

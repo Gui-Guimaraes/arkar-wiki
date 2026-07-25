@@ -20,7 +20,7 @@ fontes:
   - "Comitê de Pronunciamentos Contábeis (CPC) - Pronunciamentos: http://cpc.org.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [CPC 06, CPC 06 (R2), IFRS 16, Leases, Arrendamento Mercantil]
-tags: [norma, contabilidade, cpc, ifrs-16, lease, balanco-patrimonial]
+tags: [norma, contabilidade, cpc, ifrs-16, lease, balanço-patrimonial]
 publish: true
 ---
 

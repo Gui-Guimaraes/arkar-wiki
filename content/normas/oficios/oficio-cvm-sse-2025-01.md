@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
 aliases: [Ofício-Circular Anual SSE 2025, OC SSE 01/25, Guia do Mercado de Securitização 2025]
-tags: [norma, ofio-circular, securitizacao, obrigações-periódicas, fundos-estruturados, compliance]
+tags: [norma, oficio-circular, securitizacao, obrigações-periódicas, fundos-estruturados, compliance]
 publish: true
 ---
 

@@ -20,7 +20,7 @@ fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [OC SSE 05/24, Ofício de Adaptação de FIIs, Guia de Imobiliários SSE]
-tags: [norma, ofio-circular, fundos-de-investimento, fii, rcvm-175, compliance]
+tags: [norma, oficio-circular, fundos-de-investimento, fii, rcvm-175, compliance]
 publish: true
 ---
 

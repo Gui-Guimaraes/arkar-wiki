@@ -20,7 +20,7 @@ fontes:
   - "Comitê de Pronunciamentos Contábeis (CPC) - Pronunciamentos: http://cpc.org.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [CPC 26, CPC 26 (R1), IAS 1, Apresentação das Demonstrações, Estrutura das Demonstrações]
-tags: [norma, contabilidade, cpc, ias-1, demonstracoes-financeiras, balanco-patrimonial]
+tags: [norma, contabilidade, cpc, ias-1, demonstracoes-financeiras, balanço-patrimonial]
 publish: true
 ---
 

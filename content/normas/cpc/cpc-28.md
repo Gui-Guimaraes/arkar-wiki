@@ -20,7 +20,7 @@ fontes:
   - "Comitê de Pronunciamentos Contábeis (CPC) - Pronunciamentos: http://cpc.org.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [CPC 28, IAS 40, Propriedade para Investimento, Imóveis de Renda]
-tags: [norma, contabilidade, cpc, ias-40, imoveis, balanco-patrimonial]
+tags: [norma, contabilidade, cpc, ias-40, imoveis, balanço-patrimonial]
 publish: true
 ---
 

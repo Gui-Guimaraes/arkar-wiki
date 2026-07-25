@@ -20,7 +20,7 @@ fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [OC SIN 08/23, Manual de Práticas Contábeis SIN, Guia de Custos da 175]
-tags: [norma, ofio-circular, fundos-de-investimento, contabilidade, rcvm-175, despesas, compliance]
+tags: [norma, oficio-circular, fundos-de-investimento, contabilidade, rcvm-175, despesas, compliance]
 publish: true
 ---
 
@@ -77,7 +77,7 @@ fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [OC SIN 08/23, Manual de Práticas Contábeis SIN, Guia de Custos da 175]
-tags: [norma, ofio-circular, fundos-de-investimento, contabilidade, rcvm-175, despesas, compliance]
+tags: [norma, oficio-circular, fundos-de-investimento, contabilidade, rcvm-175, despesas, compliance]
 publish: true
 ---
 

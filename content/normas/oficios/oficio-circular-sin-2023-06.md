@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
 aliases: [OC SIN 06/23, Guia de Sistemas SIN 2023, Ofício de Informes Digitais SIN]
-tags: [norma, ofio-circular, fundos-de-investimento, cvm-web, obrigações-periódicas, compliance]
+tags: [norma, oficio-circular, fundos-de-investimento, cvm-web, obrigações-periódicas, compliance]
 publish: true
 ---
 

@@ -20,7 +20,7 @@ fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [Ofício-Circular Tripartite 2025, OC SIN/SNC/SSE 01/25, Guia Contábil Unificado de Fundos]
-tags: [norma, ofio-circular, contabilidade, auditoria, fundos-de-investimento, rcvm-175, cpc, compliance]
+tags: [norma, oficio-circular, contabilidade, auditoria, fundos-de-investimento, rcvm-175, cpc, compliance]
 publish: true
 ---
 

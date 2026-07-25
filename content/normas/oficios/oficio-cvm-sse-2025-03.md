@@ -20,7 +20,7 @@ fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [OC SSE 03/25, Terceiro Ofício de Securitização 2025, Guia de Lastros e Garantias]
-tags: [norma, ofio-circular, securitizacao, fundos-estruturados, rcvm-160, compliance]
+tags: [norma, oficio-circular, securitizacao, fundos-estruturados, rcvm-160, compliance]
 publish: true
 ---
 

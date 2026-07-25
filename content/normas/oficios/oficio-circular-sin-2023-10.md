@@ -20,7 +20,7 @@ fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://www.gov.br/cvm/pt-br"
 aliases: [OC SIN 10/23, Guia de Criptoativos SIN 2023, Ofício de Ativos Digitais]
-tags: [norma, ofio-circular, fundos-de-investimento, criptoativos, rcvm-175, compliance]
+tags: [norma, oficio-circular, fundos-de-investimento, criptoativos, rcvm-175, compliance]
 publish: true
 ---
 

@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Orientações da CVM (Ofícios Circulares): https://cvm.gov.br"
 aliases: [Ofício-Circular Anual SSE 2024, OC SSE 01/24, Guia do Mercado de Securitização 2024]
-tags: [norma, ofio-circular, securitizacao, obrigações-periódicas, fundos-estruturados, compliance]
+tags: [norma, oficio-circular, securitizacao, obrigações-periódicas, fundos-estruturados, compliance]
 publish: true
 ---
 

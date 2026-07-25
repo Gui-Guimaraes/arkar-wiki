@@ -19,7 +19,7 @@ verificado_por: ""
 fontes:
   - "Comissão de Valores Mobiliários - Portal de Legislação: https://cvm.gov.br"
 aliases: [Ofício-Circular SIN 04/24, Cota Teórica de ETF, Preço Teórico Intradia]
-tags: [norma, ofio-circular, etf, renda-fixa, b3, rcvm-175, precificação]
+tags: [norma, oficio-circular, etf, renda-fixa, b3, rcvm-175, precificação]
 publish: true
 ---
 
