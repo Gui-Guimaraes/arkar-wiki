@@ -1,6 +1,5 @@
 ---
 title: "Código ANBIMA dos Processos de Regulação e Melhores Práticas"
-titulo: "Código dos Processos de Regulação e Melhores Práticas"
 tipo: norma
 status: revisado
 orgao: ANBIMA

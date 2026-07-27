@@ -1,6 +1,5 @@
 ---
 title: "Resolução CVM 33 (Atividade de Escrituração de Valores Mobiliários)"
-titulo: "Resolução CVM nº 33"
 tipo: norma
 status: revisado
 orgao: CVM

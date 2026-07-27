@@ -1,6 +1,5 @@
 ---
-title: "Pronunciamento Técnico CPC 15 (Combinações de Negócios)"
-titulo: "Pronunciamento Técnico CPC 15 (R1)"
+title: "Pronunciamento Técnico CPC 15 (R1) — Combinações de Negócios"
 tipo: norma
 status: revisado
 orgao: Comitê de Pronunciamentos Contábeis (CPC) / chancelado por CVM e CFC

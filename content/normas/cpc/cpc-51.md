@@ -1,6 +1,5 @@
 ---
 title: "Pronunciamento Técnico CPC 51 (Contratos de Seguro)"
-titulo: "Pronunciamento Técnico CPC 51"
 tipo: norma
 status: revisado
 orgao: Comitê de Pronunciamentos Contábeis (CPC) / chancelado por CVM e Susep

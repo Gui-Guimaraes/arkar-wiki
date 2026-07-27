@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular nº 7/2024/CVM/SIN (Arranjos de Remuneração e Transição da Reforma)"
-titulo: "Ofício-Circular nº 7/2024/SIN"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Supervisão de Investidores Institucionais (SIN)

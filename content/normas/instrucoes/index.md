@@ -1,6 +1,5 @@
 ---
 title: "Instruções"
-titulo: "Instruções"
 tipo: indice
 status: revisado
 tags: [índice]

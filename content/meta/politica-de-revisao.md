@@ -1,6 +1,5 @@
 ---
 title: "Politica de revisao"
-titulo: "Politica de revisao"
 tipo: meta
 status: revisado
 tags: [meta]

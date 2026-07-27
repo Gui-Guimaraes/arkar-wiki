@@ -1,5 +1,5 @@
 ---
-titulo: "{{title}}"
+title: "{{title}}"
 tipo: conceito
 status: stub
 definicao_curta:

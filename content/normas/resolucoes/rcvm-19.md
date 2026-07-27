@@ -1,6 +1,5 @@
 ---
 title: "Resolução CVM 19 (Consultoria de Valores Mobiliários)"
-titulo: "Resolução CVM nº 19"
 tipo: norma
 status: revisado
 orgao: CVM

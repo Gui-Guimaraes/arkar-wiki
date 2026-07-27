@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular nº 2/2024/CVM/SIN (Diretrizes Anuais para Investidores Institucionais)"
-titulo: "Ofício-Circular nº 2/2024/SIN"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Supervisão de Investidores Institucionais (SIN)

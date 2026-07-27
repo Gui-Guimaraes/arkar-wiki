@@ -1,6 +1,5 @@
 ---
 title: "Consultor de Valores Mobiliarios"
-titulo: "Consultor de Valores Mobiliarios"
 tipo: conceito
 status: revisado
 definicao_curta:

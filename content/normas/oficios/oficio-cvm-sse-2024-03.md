@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular nº 3/2024/CVM/SSE"
-titulo: "Ofício-Circular nº 3/2024/SSE"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Securitização e Investimentos Estruturados (SSE)

@@ -1,6 +1,5 @@
 ---
 title: "NAV"
-titulo: "NAV"
 tipo: conceito
 status: revisado
 definicao_curta:

@@ -1,6 +1,5 @@
 ---
 title: "Distribuidor"
-titulo: "Distribuidor"
 tipo: conceito
 status: revisado
 definicao_curta:

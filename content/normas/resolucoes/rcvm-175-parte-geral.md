@@ -1,6 +1,5 @@
 ---
 title: "Resolução CVM 175 (Marco Regulatório dos Fundos de Investimento)"
-titulo: "Resolução CVM nº 175"
 tipo: norma
 status: revisado
 orgao: CVM

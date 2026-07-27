@@ -1,6 +1,5 @@
 ---
 title: "Resolução Conjunta BCB/CVM 13 (Acesso de Investidores Não Residentes)"
-titulo: "Resolução Conjunta BCB/CVM nº 13"
 tipo: norma
 status: revisado
 orgao: BCB e CVM

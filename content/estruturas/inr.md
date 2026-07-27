@@ -1,6 +1,5 @@
 ---
 title: "INR"
-titulo: "INR"
 tipo: veiculo
 status: revisado
 sigla: INR

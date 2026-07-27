@@ -1,6 +1,5 @@
 ---
 title: "CMN (Conselho Monetário Nacional)"
-titulo: "Conselho Monetário Nacional (CMN)"
 tipo: entidade
 status: revisado
 sigla: CMN

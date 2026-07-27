@@ -1,6 +1,5 @@
 ---
 title: "Resolução CVM 175 Anexo VII"
-titulo: "Resolução CVM nº 175 – Anexo Normativo VII"
 tipo: norma
 status: revisado
 orgao: CVM

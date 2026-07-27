@@ -1,6 +1,5 @@
 ---
 title: "Aviso legal"
-titulo: "Aviso legal"
 tipo: meta
 status: revisado
 tags: [meta]

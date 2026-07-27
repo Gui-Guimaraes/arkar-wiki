@@ -1,6 +1,5 @@
 ---
 title: "RCVM 175 anexo viii"
-titulo: "RCVM 175 anexo viii"
 tipo: normas
 status: revisado
 orgao: CVM

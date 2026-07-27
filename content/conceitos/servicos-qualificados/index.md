@@ -1,6 +1,5 @@
 ---
 title: "Serviços qualificados"
-titulo: "Serviços qualificados"
 tipo: indice
 status: revisado
 tags: [índice]

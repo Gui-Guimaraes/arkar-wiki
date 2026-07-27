@@ -1,6 +1,5 @@
 ---
 title: "Amortizacao"
-titulo: "Amortizacao"
 tipo: conceito
 status: revisado
 definicao_curta:

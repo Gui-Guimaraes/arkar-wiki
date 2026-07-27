@@ -1,5 +1,5 @@
 ---
-titulo: "{{title}}"
+title: "{{title}}"
 tipo: adr
 status: proposto
 data:

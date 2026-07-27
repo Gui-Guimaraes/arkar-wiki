@@ -1,6 +1,5 @@
 ---
 title: "Pronunciamento Técnico CPC 39 (Instrumentos Financeiros: Apresentação)"
-titulo: "Pronunciamento Técnico CPC 39"
 tipo: norma
 status: revisado
 orgao: Comitê de Pronunciamentos Contábeis (CPC) / chancelado por CVM e CFC

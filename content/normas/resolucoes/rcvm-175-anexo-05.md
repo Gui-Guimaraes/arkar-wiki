@@ -1,6 +1,5 @@
 ---
 title: "RCVM 175 anexo v"
-titulo: "RCVM 175 anexo v"
 tipo: normas
 status: revisado
 orgao: CVM

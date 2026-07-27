@@ -1,6 +1,5 @@
 ---
 title: "Responsabilidade Limitada do Cotista"
-titulo: "Responsabilidade Limitada do Cotista"
 tipo: conceito
 status: revisado
 definicao_curta:

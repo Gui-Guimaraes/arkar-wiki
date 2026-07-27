@@ -1,6 +1,5 @@
 ---
 title: "CVM (Comissão de Valores Mobiliários)"
-titulo: "Comissão de Valores Mobiliários (CVM)"
 tipo: entidade
 status: revisado
 sigla: CVM

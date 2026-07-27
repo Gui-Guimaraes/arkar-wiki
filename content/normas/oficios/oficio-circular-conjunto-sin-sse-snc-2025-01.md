@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular Conjunto nº 1/2025/CVM/SIN/SNC/SSE (Manual Geral de Contabilidade e Auditoria de Fundos)"
-titulo: "Ofício-Circular nº 1/2025/SIN/SNC/SSE"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - SIN, SNC e SSE

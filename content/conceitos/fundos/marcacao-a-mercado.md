@@ -1,6 +1,5 @@
 ---
 title: "Marcacao a Mercado"
-titulo: "Marcacao a Mercado"
 tipo: conceito
 status: revisado
 definicao_curta:

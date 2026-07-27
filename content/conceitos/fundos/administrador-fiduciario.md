@@ -1,6 +1,5 @@
 ---
 title: "Administrador Fiduciario"
-titulo: "Administrador Fiduciario"
 tipo: conceito
 status: revisado
 definicao_curta:

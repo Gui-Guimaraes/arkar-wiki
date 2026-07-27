@@ -1,5 +1,5 @@
 ---
-titulo: "{{title}}"
+title: "{{title}}"
 tipo: norma
 status: stub
 orgao:

@@ -1,6 +1,5 @@
 ---
 title: "LGPD"
-titulo: "LGPD"
 tipo: indice
 status: revisado
 tags: [índice]

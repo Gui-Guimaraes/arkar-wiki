@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular nº 4/2024/CVM/SIN (Preço Teórico de Cotas de ETFs de Renda Fixa)"
-titulo: "Ofício-Circular nº 4/2024/CVM/SIN"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Supervisão de Investidores Institucionais (SIN)

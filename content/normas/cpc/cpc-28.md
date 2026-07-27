@@ -1,6 +1,5 @@
 ---
 title: "Pronunciamento Técnico CPC 28 (Propriedade para Investimento)"
-titulo: "Pronunciamento Técnico CPC 28"
 tipo: norma
 status: revisado
 orgao: Comitê de Pronunciamentos Contábeis (CPC) / chancelado por CVM e CFC

@@ -1,6 +1,5 @@
 ---
 title: "Suitability"
-titulo: "Suitability"
 tipo: conceito
 status: revisado
 definicao_curta:

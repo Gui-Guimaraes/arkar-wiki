@@ -1,6 +1,5 @@
 ---
 title: "Escriturador"
-titulo: "Escriturador"
 tipo: conceito
 status: revisado
 definicao_curta:

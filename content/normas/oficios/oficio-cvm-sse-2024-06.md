@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular nº 6/2024/CVM/SSE (Registro do Estoque de Direitos Creditórios Vencidos)"
-titulo: "Ofício-Circular nº 6/2024/SSE"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Securitização e Investimentos Estruturados (SSE)

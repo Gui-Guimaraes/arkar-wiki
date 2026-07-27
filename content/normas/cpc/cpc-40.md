@@ -1,6 +1,5 @@
 ---
-title: "Pronunciamento Técnico CPC 40 (Instrumentos Financeiros: Evidenciação)"
-titulo: "Pronunciamento Técnico CPC 40 (R1)"
+title: "Pronunciamento Técnico CPC 40 (R1) — Instrumentos Financeiros: Evidenciação"
 tipo: norma
 status: revisado
 orgao: Comitê de Pronunciamentos Contábeis (CPC) / chancelado por CVM e CFC

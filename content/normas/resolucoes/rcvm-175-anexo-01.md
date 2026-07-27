@@ -1,6 +1,5 @@
 ---
 title: "Resolução CVM 175 Anexo I"
-titulo: "Resolução CVM nº 175 Anexo I"
 tipo: norma
 status: revisado
 orgao: CVM

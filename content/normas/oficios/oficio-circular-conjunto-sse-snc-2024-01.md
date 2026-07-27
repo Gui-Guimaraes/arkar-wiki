@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular Conjunto nº 1/2024/CVM/SSE/SNC (Auditoria e Demonstrações Contábeis de Securitizadoras)"
-titulo: "Ofício-Circular nº 1/2024/SSE/SNC"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Securitização e Investimentos Estruturados (SSE) e Superintendência de Normas Contábeis e Auditoria (SNC)

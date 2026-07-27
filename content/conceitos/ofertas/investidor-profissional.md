@@ -1,6 +1,5 @@
 ---
 title: "Investidor Profissional"
-titulo: "Investidor Profissional"
 tipo: conceito
 status: revisado
 definicao_curta:

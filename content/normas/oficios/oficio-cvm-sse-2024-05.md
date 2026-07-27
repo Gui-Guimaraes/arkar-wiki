@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular nº 5/2024/CVM/SSE (Supervisão de Fundos de Investimento Imobiliário)"
-titulo: "Ofício-Circular nº 5/2024/SSE"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Securitização e Investimentos Estruturados (SSE)

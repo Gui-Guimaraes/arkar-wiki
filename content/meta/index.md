@@ -1,6 +1,5 @@
 ---
 title: "Meta"
-titulo: "Meta"
 tipo: indice
 status: revisado
 tags: [índice]

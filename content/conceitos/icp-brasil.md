@@ -1,6 +1,5 @@
 ---
 title: "ICP-Brasil"
-titulo: "ICP-Brasil"
 tipo: conceito
 status: revisado
 definicao_curta:

@@ -1,5 +1,5 @@
 ---
-titulo: "{{title}}"
+title: "{{title}}"
 tipo: invariante
 status: ativo
 tags: [invariante]

@@ -1,6 +1,5 @@
 ---
 title: "Prestadores de Servico"
-titulo: "Prestadores de Servico"
 tipo: conceito
 status: revisado
 definicao_curta:

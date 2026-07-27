@@ -1,6 +1,5 @@
 ---
 title: "RCVM 175 anexo III"
-titulo: "RCVM 175 anexo III"
 tipo: normas
 status: revisado
 orgao: CVM

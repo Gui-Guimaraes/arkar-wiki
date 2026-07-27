@@ -1,6 +1,5 @@
 ---
 title: "Marco"
-titulo: "Marco"
 tipo: indice
 status: revisado
 tags: [índice]

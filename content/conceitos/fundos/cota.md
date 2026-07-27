@@ -1,6 +1,5 @@
 ---
 title: "Cota"
-titulo: "Cota"
 tipo: conceito
 status: revisado
 definicao_curta:

@@ -1,6 +1,5 @@
 ---
 title: "Código ANBIMA de Ofertas Públicas"
-titulo: "Código de Ofertas Públicas"
 tipo: norma
 status: revisado
 orgao: ANBIMA

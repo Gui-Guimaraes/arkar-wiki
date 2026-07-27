@@ -1,6 +1,5 @@
 ---
 title: "Gestor de Recursos"
-titulo: "Gestor de Recursos"
 tipo: conceito
 status: revisado
 definicao_curta:

@@ -1,6 +1,5 @@
 ---
 title: "KYC"
-titulo: "KYC"
 tipo: conceito
 status: revisado
 definicao_curta:

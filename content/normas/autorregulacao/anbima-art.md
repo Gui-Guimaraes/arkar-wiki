@@ -1,6 +1,5 @@
 ---
 title: "Código ANBIMA de Administração e Gestão de Recursos de Terceiros"
-titulo: "Código de Administração e Gestão de Recursos de Terceiros"
 tipo: norma
 status: revisado
 orgao: ANBIMA

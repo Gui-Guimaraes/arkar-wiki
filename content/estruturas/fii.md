@@ -1,6 +1,5 @@
 ---
 title: "FII"
-titulo: "FII"
 tipo: veiculo
 status: revisado
 sigla: FII

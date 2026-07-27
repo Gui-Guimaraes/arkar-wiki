@@ -1,6 +1,5 @@
 ---
 title: "2028"
-titulo: "2028"
 tipo: indice
 status: revisado
 tags: [índice]

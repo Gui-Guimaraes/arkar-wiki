@@ -1,6 +1,5 @@
 ---
 title: "Assembleia Geral de Cotistas"
-titulo: "Assembleia Geral de Cotistas"
 tipo: conceito
 status: revisado
 definicao_curta:

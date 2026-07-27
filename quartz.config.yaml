@@ -85,6 +85,10 @@ plugins:
     enabled: true
     options:
       markdownLinkResolution: shortest
+      # Vale apenas para links EXTERNOS (`if (isExternal && opts.openLinksInNewTab)`):
+      # a fonte oficial abre em aba nova e a leitura da wiki nao se perde. Navegacao
+      # interna continua na mesma aba, preservando o SPA.
+      openLinksInNewTab: true
     order: 60
   - source: "@quartz-community/description"
     enabled: true

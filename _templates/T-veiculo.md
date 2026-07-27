@@ -1,5 +1,5 @@
 ---
-titulo: "{{title}}"
+title: "{{title}}"
 tipo: veiculo
 status: stub
 sigla:

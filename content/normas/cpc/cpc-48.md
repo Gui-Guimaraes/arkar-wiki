@@ -1,6 +1,5 @@
 ---
 title: "Pronunciamento Técnico CPC 48 (Instrumentos Financeiros)"
-titulo: "Pronunciamento Técnico CPC 46"
 tipo: norma
 status: revisado
 orgao: Comitê de Pronunciamentos Contábeis (CPC) / chancelado por CVM e CFC

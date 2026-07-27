@@ -1,6 +1,5 @@
 ---
 title: "Entidades"
-titulo: "Entidades"
 tipo: indice
 status: revisado
 tags: [índice]

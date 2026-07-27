@@ -1,6 +1,5 @@
 ---
 title: "FIF"
-titulo: "FIF"
 tipo: veiculo
 status: revisado
 sigla: FIF

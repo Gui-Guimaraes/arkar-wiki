@@ -1,6 +1,5 @@
 ---
 title: "ANBIMA"
-titulo: "ANBIMA"
 tipo: entidade
 status: revisado
 sigla: ANBIMA

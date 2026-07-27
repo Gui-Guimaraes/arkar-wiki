@@ -1,6 +1,5 @@
 ---
 title: "Instrução CVM 579 (Fundos de Investimento em Participações - FIP)"
-titulo: "Instrução CVM nº 579"
 tipo: norma
 status: revisado
 orgao: CVM

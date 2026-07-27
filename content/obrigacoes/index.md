@@ -1,6 +1,5 @@
 ---
 title: "Obrigações"
-titulo: "Obrigações"
 tipo: indice
 status: revisado
 tags: [índice]

@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular nº 1/2023/CVM/SIN/SSE"
-titulo: "Ofício-Circular Conjunto CVM/SIN/SSE nº 01/2023"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Supervisão de Investidores Institucionais (SIN) e Superintendência de Securitização e Investimentos Estruturados (SSE)

@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular nº 3/2025/CVM/SSE (Diretrizes Temáticas de Garantias e Estruturas de Crédito)"
-titulo: "Ofício-Circular nº 3/2025/CVM/SSE"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Securitização e Investimentos Estruturados (SSE)

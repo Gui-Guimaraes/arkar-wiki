@@ -1,6 +1,5 @@
 ---
 title: "Estruturas"
-titulo: "Estruturas"
 tipo: indice
 status: revisado
 tags: [índice]

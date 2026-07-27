@@ -1,6 +1,5 @@
 ---
 title: "Jurisprudência"
-titulo: "Jurisprudência"
 tipo: indice
 status: revisado
 tags: [índice]

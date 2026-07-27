@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular nº 2/2025/CVM/SSE (Diretrizes Temáticas para Investimentos Estruturados)"
-titulo: "Ofício-Circular nº 2/2025/CVM/SSE"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Securitização e Investimentos Estruturados (SSE)

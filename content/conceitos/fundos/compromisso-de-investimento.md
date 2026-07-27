@@ -1,6 +1,5 @@
 ---
 title: "Compromisso de Investimento"
-titulo: "Compromisso de Investimento"
 tipo: conceito
 status: revisado
 definicao_curta:

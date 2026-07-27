@@ -1,6 +1,5 @@
 ---
 title: "Subclasse"
-titulo: "Subclasse"
 tipo: conceito
 status: revisado
 definicao_curta:

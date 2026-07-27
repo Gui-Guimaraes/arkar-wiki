@@ -1,6 +1,5 @@
 ---
 title: "Ofertas"
-titulo: "Ofertas"
 tipo: indice
 status: revisado
 tags: [índice]

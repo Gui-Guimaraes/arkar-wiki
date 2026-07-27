@@ -1,6 +1,5 @@
 ---
 title: "Auditor Independente"
-titulo: "Auditor Independente"
 tipo: conceito
 status: revisado
 definicao_curta:

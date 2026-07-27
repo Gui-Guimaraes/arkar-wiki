@@ -1,6 +1,5 @@
 ---
-title: "Pronunciamento Técnico CPC 18 (Investimento em Coligada, Controlada e Empreendimento Controlado Conjuntamente)"
-titulo: "Pronunciamento Técnico CPC 18 (R2)"
+title: "Pronunciamento Técnico CPC 18 (R2) — Investimento em Coligada, Controlada e Empreendimento Controlado Conjuntamente"
 tipo: norma
 status: revisado
 orgao: Comitê de Pronunciamentos Contábeis (CPC) / chancelado por CVM e CFC

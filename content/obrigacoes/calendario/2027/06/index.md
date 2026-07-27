@@ -1,6 +1,5 @@
 ---
 title: "Junho"
-titulo: "Junho"
 tipo: indice
 status: revisado
 tags: [índice]

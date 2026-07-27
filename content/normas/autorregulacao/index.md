@@ -1,6 +1,5 @@
 ---
 title: "Autorregulação"
-titulo: "Autorregulação"
 tipo: indice
 status: revisado
 tags: [índice]

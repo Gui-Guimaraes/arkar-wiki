@@ -1,6 +1,5 @@
 ---
 title: "RCVM 175 Suplementos Informacionais"
-titulo: "RCVM 175 Suplementos Informacionais"
 tipo: normas
 status: revisado
 orgao: CVM

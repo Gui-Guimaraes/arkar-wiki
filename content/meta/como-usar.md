@@ -1,6 +1,5 @@
 ---
 title: "Como usar"
-titulo: "Como usar"
 tipo: meta
 status: revisado
 tags: [meta]

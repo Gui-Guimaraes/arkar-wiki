@@ -1,6 +1,5 @@
 ---
 title: "Normas"
-titulo: "Normas"
 tipo: indice
 status: revisado
 tags: [índice]

@@ -1,6 +1,5 @@
 ---
 title: "Chamada de Capital"
-titulo: "Chamada de Capital"
 tipo: conceito
 status: revisado
 definicao_curta:

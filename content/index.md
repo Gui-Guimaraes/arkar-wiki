@@ -1,8 +1,6 @@
 ---
-# `title` e o campo que o Quartz le (Head.tsx); `titulo` e o do schema do vault.
-# Sem `title`, a pagina publicada herda o nome do arquivo ("index") no <title>, og:title e <h1>.
+# Sem `title`, a pagina publicada herda o nome do arquivo no <title>, og:title e <h1>.
 title: "Arkar Funds Brain"
-titulo: "Arkar Funds Brain"
 tipo: indice
 status: revisado
 publish: true

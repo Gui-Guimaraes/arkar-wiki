@@ -1,6 +1,5 @@
 ---
 title: "Patrimonio Segregado"
-titulo: "Patrimonio Segregado"
 tipo: conceito
 status: revisado
 definicao_curta:

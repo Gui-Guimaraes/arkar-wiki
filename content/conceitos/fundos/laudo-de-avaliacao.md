@@ -1,6 +1,5 @@
 ---
 title: "Laudo de Avaliacao"
-titulo: "Laudo de Avaliacao"
 tipo: conceito
 status: revisado
 definicao_curta:

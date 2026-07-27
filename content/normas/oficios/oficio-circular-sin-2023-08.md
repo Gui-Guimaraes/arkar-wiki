@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular nº 8/2023/CVM/SIN (Procedimentos Contábeis e Enquadramento de Cotas de Fundos)"
-titulo: "Ofício-Circular nº 8/2023/CVM/SIN"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Supervisão de Investidores Institucionais (SIN)

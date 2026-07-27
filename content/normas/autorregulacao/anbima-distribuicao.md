@@ -1,6 +1,5 @@
 ---
 title: "Código ANBIMA de Distribuição de Produtos de Investimento"
-titulo: "Código de Distribuição de Produtos de Investimento"
 tipo: norma
 status: revisado
 orgao: ANBIMA

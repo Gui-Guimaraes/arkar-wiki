@@ -1,6 +1,5 @@
 ---
-title: "Pronunciamento Técnico CPC 06 (Operações de Arrendamento Mercantil / Leases)"
-titulo: "Pronunciamento Técnico CPC 06 (R2)"
+title: "Pronunciamento Técnico CPC 06 (R2) — Operações de Arrendamento Mercantil / Leases"
 tipo: norma
 status: revisado
 orgao: Comitê de Pronunciamentos Contábeis (CPC) / chancelado por CVM e CFC

@@ -1,6 +1,5 @@
 ---
-title: "Pronunciamento Técnico CPC 26 (Apresentação das Demonstrações Contábeis)"
-titulo: "Pronunciamento Técnico CPC 26 (R1)"
+title: "Pronunciamento Técnico CPC 26 (R1) — Apresentação das Demonstrações Contábeis"
 tipo: norma
 status: revisado
 orgao: Comitê de Pronunciamentos Contábeis (CPC) / chancelado por CVM e CFC

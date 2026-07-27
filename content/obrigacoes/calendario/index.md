@@ -1,6 +1,5 @@
 ---
 title: "Calendário"
-titulo: "Calendário"
 tipo: indice
 status: revisado
 tags: [índice]

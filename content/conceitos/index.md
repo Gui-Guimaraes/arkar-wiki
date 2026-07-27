@@ -1,6 +1,5 @@
 ---
 title: "Conceitos"
-titulo: "Conceitos"
 tipo: indice
 status: revisado
 tags: [índice]

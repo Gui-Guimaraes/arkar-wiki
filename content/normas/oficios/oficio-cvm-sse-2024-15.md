@@ -1,6 +1,5 @@
 ---
 title: "Ofício nº 15/2024/CVM/SSE (Diretrizes de Securitização de Crédito e Fundo de Investimento Imobiliário)"
-titulo: "Ofício nº 15/2024/CVM/SSE"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Securitização e Investimentos Estruturados (SSE)

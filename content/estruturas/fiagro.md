@@ -1,6 +1,5 @@
 ---
 title: "FIAGRO"
-titulo: "FIAGRO"
 tipo: veiculo
 status: revisado
 sigla: FIAGRO

@@ -1,6 +1,5 @@
 ---
 title: "Resolução CVM 21 (Administração de Carteiras de Valores Mobiliários)"
-titulo: "Resolução CVM nº 21"
 tipo: norma
 status: revisado
 orgao: CVM

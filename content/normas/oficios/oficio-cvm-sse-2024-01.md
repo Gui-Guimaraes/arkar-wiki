@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular nº 1/2024/CVM/SSE (Diretrizes Anuais para Securitização)"
-titulo: "Ofício-Circular nº 1/2024/CVM/SSE"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Securitização e Investimentos Estruturados (SSE)

@@ -1,6 +1,5 @@
 ---
 title: "Resolução CVM 23 (Exercício de Atividade de Analista de Valores Mobiliários)"
-titulo: "Resolução CVM nº 23"
 tipo: norma
 status: revisado
 orgao: CVM

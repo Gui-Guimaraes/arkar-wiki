@@ -1,6 +1,5 @@
 ---
 title: "Resolução CVM 35 (Intermediação de Operações e Churning)"
-titulo: "Resolução CVM nº 35"
 tipo: norma
 status: revisado
 orgao: CVM

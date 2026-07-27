@@ -1,6 +1,5 @@
 ---
 title: "Pronunciamento Técnico CPC 46 (Mensuração do Valor Justo)"
-titulo: "Pronunciamento Técnico CPC 46"
 tipo: norma
 status: revisado
 orgao: Comitê de Pronunciamentos Contábeis (CPC) / chancelado por CVM e CFC

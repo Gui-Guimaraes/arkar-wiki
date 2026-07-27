@@ -1,6 +1,5 @@
 ---
 title: "CPC"
-titulo: "CPC"
 tipo: indice
 status: revisado
 tags: [índice]

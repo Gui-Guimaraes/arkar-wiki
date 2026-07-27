@@ -1,6 +1,5 @@
 ---
 title: "Pronunciamento Técnico CPC 32 (Tributos sobre o Lucro / Tributos Diferidos)"
-titulo: "Pronunciamento Técnico CPC 32"
 tipo: norma
 status: revisado
 orgao: Comitê de Pronunciamentos Contábeis (CPC) / chancelado por CVM e CFC

@@ -1,6 +1,5 @@
 ---
 title: "PLD/FT"
-titulo: "PLD/FT"
 tipo: conceito
 status: revisado
 definicao_curta:

@@ -1,6 +1,5 @@
 ---
 title: "RFB (Secretaria Especial da Receita Federal do Brasil)"
-titulo: "Secretaria Especial da Receita Federal do Brasil (RFB)"
 tipo: entidade
 status: revisado
 sigla: RFB

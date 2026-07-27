@@ -1,13 +1,11 @@
 ---
 title: "FIP"
-titulo: "FIP"
+description: "Fundo de Investimento em Participações: veículo do Anexo Normativo IV da RCVM 175, condomínio fechado para investidores qualificados, com piso de 90% em participação e enquadramento como entidade de investimento definindo a tributação."
 tipo: veiculo
 status: revisado
 sigla: FIP
 norma_base: ["Resolução CVM 175/2022", "Anexo Normativo IV", "Lei 14.754/2023", "Lei 14.711/2023", "Resolução CMN 5.111/2023"]
 anexo_rcvm175: "Anexo Normativo IV"
-publico_alvo: "Investidores qualificados (registro automático); influência efetiva na gestão das investidas"
-tributacao: "Entidade de investimento: 15% no resgate/amortização/distribuição, sem come-cotas; INR não domiciliado em paraíso fiscal, em FIP entidade de investimento: alíquota zero (Lei 14.711 revogou o teste dos 40%)"
 prestadores_obrigatorios: ["administrador fiduciário", "gestor de carteira", "custodiante", "auditor independente"]
 conceitos_chave: ["participações", "governança", "piso de 90% em VM conversíveis/participação", "entidade de investimento", "MEP x valor justo", "FIP-IE"]
 verificado_em: 2026-07-24
@@ -20,13 +18,29 @@ aliases: ["Fundo de Investimento em Participações"]
 publish: true
 ---
 
+## Ficha
+
+- **Norma aplicável:** [[rcvm-175-anexo-04|Anexo Normativo IV]] da RCVM 175 · contabilidade: [[icvm-579|ICVM 579]]
+- **Forma:** condomínio fechado
+- **Público-alvo:** investidores qualificados — registro automático
+- **Composição:** piso de 90% do PL em participação e títulos conversíveis
+- **Prestadores obrigatórios:** [[administrador-fiduciario|administrador fiduciário]] · [[gestor-de-recursos|gestor de carteira]] · [[custodiante]] · [[auditor-independente|auditor independente]]
+- **Tributação:** 15% na saída, sem come-cotas, se entidade de investimento
+- **Verificado em:** 2026-07-24 · por: —
+
 ## Escopo
 
-FIP é o veículo do **[[rcvm-175-anexo-04|Anexo Normativo IV]]**, **condomínio fechado** destinado a **[[investidor-qualificado|investidores qualificados]]**, que aplica preponderantemente — **piso de 90% do PL** — em ações, debêntures conversíveis, bônus de subscrição e outros títulos conversíveis, com a marca da **influência efetiva na gestão das investidas** (governança). Comporta as categorias capital semente, empresas emergentes, multiestratégia, **infraestrutura** (FIP-IE, [[lei-11478-2007|Lei 11.478/2007]]) e produção econômica intensiva em P&D. A contabilidade específica (origem na [[icvm-579|ICVM 579]], consolidada na 175) distingue o **FIP entidade de investimento** — que avalia a carteira a **valor justo** ([[cpc-46|CPC 46]]) — do não entidade, que usa **MEP** ([[cpc-18|CPC 18]]) para controladas e coligadas.
+O **Fundo de Investimento em Participações (FIP)** é o veículo do **[[rcvm-175-anexo-04|Anexo Normativo IV]]**, **condomínio fechado** destinado a **[[investidor-qualificado|investidores qualificados]]**, que aplica preponderantemente — **piso de 90% do PL** — em ações, debêntures conversíveis, bônus de subscrição e outros títulos conversíveis, com a marca da **influência efetiva na gestão das investidas** (governança). Comporta as categorias capital semente, empresas emergentes, multiestratégia, **infraestrutura** (FIP-IE, [[lei-11478-2007|Lei 11.478/2007]]) e produção econômica intensiva em P&D.
 
-## Consequência operacional
+## Enquadramento como entidade de investimento
 
-O **enquadramento como entidade de investimento** (Resolução CMN 5.111/2023, na linha da antiga [[icvm-579|ICVM 579]]) governa a tributação: se qualificado, **não há [[come-cotas]]** — o cotista é tributado a **15% apenas no resgate, [[amortizacao|amortização]] ou distribuição**; se não, incide **come-cotas de 15%** em maio e novembro. Para o **[[investidor-nao-residente|investidor não residente]] não domiciliado em paraíso fiscal**, o FIP entidade de investimento distribui com **alíquota zero de IRRF** — a Lei 14.711/2023 revogou o antigo "teste dos 40%". A **discricionariedade do [[gestor-de-recursos|gestor]] é da essência** do veículo: arranjos que a retirem (por exemplo, poder de veto de cotista PF majoritário sobre decisões de investimento/desinvestimento) **descaracterizam** a entidade de investimento.
+A contabilidade específica (origem na [[icvm-579|ICVM 579]], consolidada na 175) distingue o **FIP entidade de investimento** — que avalia a carteira a **valor justo** ([[cpc-46|CPC 46]]) — do não entidade, que usa **MEP** ([[cpc-18|CPC 18]]) para controladas e coligadas. O enquadramento (Resolução CMN 5.111/2023, na linha da antiga ICVM 579) tem de ser **testado e mantido**: a **discricionariedade do [[gestor-de-recursos|gestor]] é da essência** do veículo, e arranjos que a retirem — por exemplo, poder de veto de cotista PF majoritário sobre decisões de investimento/desinvestimento — **descaracterizam** a entidade de investimento.
+
+## Tributação
+
+O enquadramento governa a tributação. Se qualificado como entidade de investimento, **não há [[come-cotas]]** — o cotista é tributado a **15% apenas no resgate, [[amortizacao|amortização]] ou distribuição**. Se não, incide **come-cotas de 15%** em maio e novembro.
+
+Para o **[[investidor-nao-residente|investidor não residente]] não domiciliado em paraíso fiscal**, o FIP entidade de investimento distribui com **alíquota zero de IRRF** — a Lei 14.711/2023 revogou o antigo "teste dos 40%". Ver [[inr|INR]] e [[cmn-4373|Resolução CMN nº 4.373]] para as condições de ingresso do capital.
 
 ## Erros comuns
 
@@ -35,13 +49,7 @@ O **enquadramento como entidade de investimento** (Resolução CMN 5.111/2023, n
 - Usar valor justo em FIP não entidade (que exige MEP), ou MEP em FIP entidade de investimento.
 - Deixar cotista PF majoritário interferir na gestão e, com isso, perder o enquadramento.
 
-## Relação com outras notas
-
-- Prestadores obrigatórios: [[administrador-fiduciario|Administrador Fiduciário]], [[gestor-de-recursos|Gestor]], [[custodiante|Custodiante]], [[auditor-independente|Auditor Independente]].
-- Não residentes: [[inr|INR]] · [[cmn-4373|Resolução CMN nº 4.373]] (alíquota zero condicionada).
-
 ## Texto oficial
 
 - [Anexo Normativo IV — FIP (PDF consolidado)](https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol175consolid_Anexo04.pdf)
 - [Página da RCVM 175 no site da CVM](https://conteudo.cvm.gov.br/legislacao/resolucoes/resol175.html)
-

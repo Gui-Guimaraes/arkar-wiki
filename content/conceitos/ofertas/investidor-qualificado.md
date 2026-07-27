@@ -1,6 +1,5 @@
 ---
 title: "Investidor Qualificado"
-titulo: "Investidor Qualificado"
 tipo: conceito
 status: revisado
 definicao_curta:

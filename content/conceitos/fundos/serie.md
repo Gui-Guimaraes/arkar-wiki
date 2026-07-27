@@ -1,6 +1,5 @@
 ---
 title: "Serie"
-titulo: "Serie"
 tipo: conceito
 status: revisado
 definicao_curta:

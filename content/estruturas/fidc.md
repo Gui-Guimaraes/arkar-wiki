@@ -1,6 +1,5 @@
 ---
 title: "FIDC"
-titulo: "FIDC"
 tipo: veiculo
 status: revisado
 sigla: FIDC

@@ -1,6 +1,5 @@
 ---
 title: "Resolução CVM 50 (Combate à Lavagem de Dinheiro e FTP)"
-titulo: "Resolução CVM nº 50"
 tipo: norma
 status: revisado
 orgao: CVM

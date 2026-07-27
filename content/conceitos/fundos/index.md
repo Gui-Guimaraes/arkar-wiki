@@ -1,6 +1,5 @@
 ---
 title: "Fundos"
-titulo: "Fundos"
 tipo: indice
 status: revisado
 tags: [índice]

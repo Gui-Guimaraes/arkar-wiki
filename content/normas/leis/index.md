@@ -1,6 +1,5 @@
 ---
 title: "Leis"
-titulo: "Leis"
 tipo: indice
 status: revisado
 tags: [índice]

@@ -1,6 +1,5 @@
 ---
 title: "BCB (Banco Central do Brasil)"
-titulo: "Banco Central do Brasil (BCB)"
 tipo: entidade
 status: revisado
 sigla: BCB

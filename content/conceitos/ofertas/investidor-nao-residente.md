@@ -1,6 +1,5 @@
 ---
 title: "Investidor Nao Residente"
-titulo: "Investidor Nao Residente"
 tipo: conceito
 status: revisado
 definicao_curta:

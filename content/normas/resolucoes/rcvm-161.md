@@ -1,6 +1,5 @@
 ---
 title: "Resolução CVM 161 (Regime de Registro de Coordenadores de Ofertas)"
-titulo: "Resolução CVM nº 161"
 tipo: norma
 status: revisado
 orgao: CVM

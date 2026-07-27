@@ -1,6 +1,5 @@
 ---
 title: "Resolução CVM 32 (Atividade de Custódia de Valores Mobiliários)"
-titulo: "Resolução CVM nº 32"
 tipo: norma
 status: revisado
 orgao: CVM

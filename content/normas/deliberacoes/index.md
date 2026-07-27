@@ -1,6 +1,5 @@
 ---
 title: "Deliberações"
-titulo: "Deliberações"
 tipo: indice
 status: revisado
 tags: [índice]

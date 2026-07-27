@@ -1,6 +1,5 @@
 ---
 title: "Ofício-Circular Conjunto nº 2/2024/CVM/SIN/SSE (Flexibilizações para o Rio Grande do Sul)"
-titulo: "Ofício-Circular Conjunto nº 2/2024/SIN/SSE"
 tipo: norma
 status: revisado
 orgao: Comissão de Valores Mobiliários (CVM) - Superintendência de Supervisão de Investidores Institucionais (SIN) e Superintendência de Securitização e Investimentos Estruturados (SSE)

@@ -1,6 +1,5 @@
 ---
 title: "Ofícios"
-titulo: "Ofícios"
 tipo: indice
 status: revisado
 tags: [índice]

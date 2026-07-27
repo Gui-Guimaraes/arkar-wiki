@@ -1,6 +1,5 @@
 ---
 title: "Resolução CVM 160 (Novo Marco das Ofertas Públicas)"
-titulo: "Resolução CVM nº 160"
 tipo: norma
 status: revisado
 orgao: CVM

@@ -1,6 +1,5 @@
 ---
 title: "Come-cotas"
-titulo: "Come-cotas"
 tipo: conceito
 status: revisado
 definicao_curta:

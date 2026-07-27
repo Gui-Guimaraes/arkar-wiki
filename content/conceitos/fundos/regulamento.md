@@ -1,6 +1,5 @@
 ---
 title: "Regulamento"
-titulo: "Regulamento"
 tipo: conceito
 status: revisado
 definicao_curta:

@@ -1,6 +1,5 @@
 ---
-title: "Pronunciamento Técnico CPC 36 (Demonstrações Consolidadas)"
-titulo: "Pronunciamento Técnico CPC 36 (R3)"
+title: "Pronunciamento Técnico CPC 36 (R3) — Demonstrações Consolidadas"
 tipo: norma
 status: revisado
 orgao: Comitê de Pronunciamentos Contábeis (CPC) / chancelado por CVM e CFC
